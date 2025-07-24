@@ -1,0 +1,229 @@
+Part_ID,Group,Grade,Age,Months,SPA_Score,ENG_Score,Langs,BESA_Score,Task,Item,Accuracy,Accuracy_Clit_Gen,Accuracy_Clit_Num,Accuracy_DP_Gen,Accuracy_DP_Num,Questions,Response,Error_Type,Structure,Gender,Number,Verb,Verb_Freq,Verb_Type,Home_Lang_Group,HL_DOM,HL_Gender,HL_Subj,BESA_Std,Speaker_Group,Age_Group,Total_Score,SPA_Pct
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-03,1,1,1,NA,NA,NA,rompiéndolo,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-05,1,1,1,NA,NA,NA,comerla,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-07,NA,NA,NA,NA,NA,NA,están contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-09,1,1,1,NA,NA,NA,quitándolas,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-11,NA,NA,NA,1,NA,DOM,lavan al perro,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-13,NA,NA,NA,1,1,NA,están escuchando la música,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-15,NA,NA,NA,NA,NA,NA,NA,NO RESPONSE,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-17,NA,NA,NA,1,1,NA,ve el niño,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-19,NA,NA,NA,1,1,NA,coman la comida,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-21,NA,NA,NA,1,1,DOM,ve a la niña,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,ponga,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Production,Prod-25,NA,NA,NA,1,1,DOM,ve a las niñas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-03,NA,NA,NA,NA,NA,Se,se usan cosa muy dura,DP,Clitic,Masculine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-05,NA,NA,NA,NA,NA,NA,están comiendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-07,NA,NA,NA,NA,NA,NA,están contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-09,NA,NA,NA,NA,NA,NA,están quitando,Omission,Clitic,Feminine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-11,NA,NA,NA,1,1,Recoded as no score -Jen,limpian el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,están escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-15,NA,NA,NA,1,1,Se,se ponen los libros en la mesa,DP,Clitic,Masculine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-17,NA,NA,NA,1,1,Se,Se comen las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-19,NA,NA,NA,1,1,NA,cocinan el pescado,DP,Clitic,Masculine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-21,NA,NA,NA,1,1,NA,fechar la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-23,NA,NA,NA,1,1,Se,Se juegan los instrumentos,DP,Clitic,Masculine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Production,Prod-25,NA,NA,NA,NA,NA,SUBJ,pongan la mesa,DP,Clitic,Feminine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-03,1,1,1,NA,NA,NA,lo van romper,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-05,0,0,0,NA,NA,NA,comerlos,Gender/Number,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-07,1,1,1,NA,NA,NA,decirlos,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-09,0,0,1,NA,NA,NA,van quitarlos,Gender,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-11,NA,NA,NA,NA,NA,NA,lavar,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-13,NA,NA,NA,1,1,NA,van a escuchar música,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-15,0,1,1,NA,NA,Changed to 0 -Jen,van a ponerlo en la mesa,Number,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-17,NA,NA,NA,1,1,NA,van a comer las galletas,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,cocinar,Infinitive,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-21,NA,NA,NA,1,1,NA,van a cerrar la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,hacer musica,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Production,Prod-25,NA,NA,NA,NA,NA,NA,poner las mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-03,1,1,1,NA,NA,NA,lo hacen abrir,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-05,1,1,1,NA,NA,NA,la comen,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-07,1,1,1,NA,NA,NA,contarlos,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-09,NA,NA,NA,NA,NA,NA,dos niñas están sacando,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-11,NA,NA,NA,NA,NA,NA,están lavando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-15,NA,NA,NA,NA,NA,NA,poniendo en la mesa,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-17,NA,NA,NA,NA,NA,NA,están comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,comer,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-21,NA,NA,NA,1,1,NA,ve la niña,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-23,0,0,1,NA,NA,NA,ponerlas,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Production,Prod-25,1,NA,NA,1,1,NA,ven las dos niñas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-03,0,0,0,NA,NA,Changed accuracy to 0-Jen,destruirlas,NA,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-05,NA,NA,NA,1,1,NA,comen la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-07,1,1,1,NA,NA,NA,los están contando,NA,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-09,NA,NA,NA,NA,NA,NA,quitando sus chaquetas,DP,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-11,NA,NA,NA,NA,NA,NA,limpiando y lavando,Omission,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-13,NA,NA,NA,1,1,NA,escuchando la música,DP,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-15,NA,NA,NA,NA,NA,NA,ponen sus libros en el,DP,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-17,NA,NA,NA,NA,NA,NA,comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,están cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-21,NA,NA,NA,NA,NA,NA,cequen (?),Other,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-23,NA,NA,NA,1,1,NA,están tocando los instrumentos,DP,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Production,Prod-25,NA,NA,NA,1,1,NA,ponen las mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-03,NA,NA,NA,NA,NA,Se,se rompe,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-05,NA,NA,NA,NA,NA,NA,contando y comiendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-07,NA,NA,NA,NA,NA,NA,están contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-09,NA,NA,NA,NA,NA,NA,las dos niñas quiten,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-11,NA,NA,NA,NA,NA,NA,lavando perro,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-13,NA,NA,NA,NA,NA,NA,está escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-15,NA,NA,NA,NA,NA,NA,ponen libros,Regular verb,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-17,NA,NA,NA,NA,NA,NA,están comiendo,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-19,NA,NA,NA,NA,NA,NA,está cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-21,NA,NA,NA,NA,NA,NA,cierran,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-23,NA,NA,NA,NA,NA,NA,jugar,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Production,Prod-25,NA,NA,NA,NA,NA,Extra subj,ponga,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-03,NA,NA,NA,1,1,NA,han rompido el globo,DP,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-05,NA,NA,NA,1,1,NA,están comiendo la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-07,NA,NA,NA,NA,NA,NA,están contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-09,0,0,1,NA,NA,NA,están quitándolos,Masculine,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-11,NA,NA,NA,NA,NA,NA,están lavando,Omission,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,están escuchando la música,DP,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-15,1,1,1,NA,NA,NA,los ponen en una mesa,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-17,NA,NA,NA,1,1,NA,están comiendo las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,está cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-21,NA,NA,NA,1,1,Extra subj,cierren la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-23,1,1,1,NA,NA,NA,están tocando los,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-25,1,1,1,NA,NA,NA,las ponen en su cara,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-03,1,1,1,NA,NA,NA,lo rompe,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-05,NA,NA,NA,NA,NA,NA,están comiendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-07,1,1,1,NA,NA,NA,los están contando,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-09,1,1,1,NA,NA,NA,las están tomado,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-11,NA,NA,NA,NA,NA,NA,están bañando,Omission,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-13,NA,NA,NA,1,1,NA,están escuchando la música,DP,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-15,1,1,1,NA,NA,NA,los están poniendo,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-17,NA,NA,NA,1,1,NA,están comiendo las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,están cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-21,NA,NA,NA,NA,NA,NA,cierran la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,está jugando música,DP,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Production,Prod-25,NA,NA,NA,NA,NA,NA,se ponen las mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-03,NA,NA,NA,NA,NA,NA,están,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-05,NA,NA,NA,NA,NA,NA,estás comiendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-07,NA,NA,NA,NA,NA,NA,estás ver números,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-09,NA,NA,NA,NA,NA,NA,sacar,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-11,NA,NA,NA,NA,NA,NA,estas,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-13,NA,NA,NA,NA,NA,NA,escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-15,NA,NA,NA,1,1,NA,poniendo los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-17,NA,NA,NA,NA,NA,NA,estás comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-19,NA,NA,NA,NA,NA,NA,están cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-21,NA,NA,NA,NA,NA,NA,cerrar,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-23,0,NA,NA,NA,NA,NA,usando para música,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Production,Prod-25,NA,NA,NA,NA,NA,NA,poniendo en el cara,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-03,1,1,1,NA,NA,NA,lo rompen,NA,Clitic,Masculine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-05,1,1,1,NA,NA,NA,la están cortando,NA,Clitic,Feminine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-07,1,1,1,NA,NA,NA,los cuentan,NA,Clitic,Masculine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-09,1,1,1,NA,NA,Eng verb,las q take it off,NA,Clitic,Feminine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-11,0,0,1,NA,NA,NA,la bañan,Gender,Clitic,Masculine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-13,1,1,1,NA,NA,NA,la escuchan,NA,Clitic,Feminine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-15,1,1,1,NA,NA,NA,los ponen en la mesa,NA,Clitic,Masculine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-17,1,NA,NA,NA,NA,Extra subj,las coman,NA,Clitic,Feminine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-19,1,1,1,NA,NA,NA,lo cocinan,NA,Clitic,Masculine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-21,1,1,1,NA,NA,Verb stem error,la cerran,NA,Clitic,Feminine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-23,1,1,1,NA,NA,NA,los tocan,NA,Clitic,Masculine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Production,Prod-25,1,1,1,NA,NA,NA,las ponen,NA,Clitic,Feminine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-03,NA,NA,NA,1,1,NA,ponen un objeto para que...,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-05,NA,NA,NA,1,1,NA,comen la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-07,0,1,0,NA,NA,Coded as 0 for accuracy -Jen (no previous code),lo cuentan,Number,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-09,NA,NA,NA,NA,NA,NA,removiendo chaqueta,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-11,NA,NA,NA,1,1,NA,lavan el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,están escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-15,NA,NA,NA,NA,NA,NA,ponen libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-17,1,1,1,NA,NA,Word order error,comen las,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,van comer,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-21,NA,NA,NA,NA,NA,NA,cierran,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,hacen música,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Production,Prod-25,NA,NA,NA,NA,NA,NA,ponen en sus caras,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-03,NA,NA,NA,NA,NA,Le,le rompen,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-05,NA,NA,NA,NA,NA,Se,se comen,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-07,NA,NA,NA,NA,NA,NA,contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-09,NA,NA,NA,NA,NA,NA,sacar,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-11,NA,NA,NA,NA,NA,NA,limpian,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-13,NA,NA,NA,NA,NA,NA,oyendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-15,NA,NA,NA,NA,NA,Changed code to omission -Jen,ponen a la mesa,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-17,NA,NA,NA,NA,NA,Se,se comen,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-19,NA,NA,NA,NA,NA,Se,se cocina,Other,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-21,NA,NA,NA,NA,NA,NA,---,English,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-23,NA,NA,NA,NA,NA,NA,hacen música,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Production,Prod-25,0,0,0,NA,NA,Codes added -Jen,lo ponen en la cara,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-03,NA,NA,NA,NA,NA,ENGLISH OBJ,poniendo un needle,DP,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-05,NA,NA,NA,1,1,NA,comiendo la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-07,NA,NA,NA,1,1,NA,diciendo los numeros,DP,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-09,NA,NA,NA,1,1,NA,quitando las chaquetas,DP,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-11,NA,NA,NA,1,1,NA,estan bañando el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-13,NA,NA,NA,1,1,NA,poniendo los audifonos,DP,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-15,NA,NA,NA,1,1,english verb,taking los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-17,NA,NA,NA,NA,NA,Skipped,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-19,NA,NA,NA,1,1,NA,poniendo el pescado,DP,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-21,NA,NA,NA,1,1,NA,cerrar la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-23,NA,NA,NA,1,1,NA,tocando los instrumentos,DP,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Production,Prod-25,NA,NA,NA,1,1,NA,esta poniendo las mascararas,DP,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-03,NA,NA,NA,1,1,english verb,pop el globo,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-05,NA,NA,NA,1,1,NA,comer la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-07,NA,NA,NA,NA,NA,NA,como count,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-09,NA,NA,NA,NA,NA,NA,añadir a su ropa,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-11,NA,NA,NA,1,1,NA,limpiar el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-13,NA,NA,NA,1,1,english verb,listen a la musica,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-15,NA,NA,NA,NA,NA,Codes omitted (PP not DP) -Jen,salir no con los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-17,NA,NA,NA,1,1,NA,comer las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-19,NA,NA,NA,NA,NA,Codes omitted (PP not DP) -Jen,cocinar con el pescado,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-21,NA,NA,NA,1,1,NA,cerrar la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-23,NA,NA,NA,1,1,NA,cantar con los instrumentoss,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Production,Prod-25,NA,NA,NA,NA,NA,NA,añadir a la ropa,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-03,1,1,1,NA,NA,NA,lo golpea,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-05,1,0,1,NA,NA,NA,lo cortan y comen,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-07,NA,NA,NA,NA,NA,NA,son diciendo,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-09,0,0,0,NA,NA,Changed accuracy from 1 to 0 -Jen,lo quitan,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-11,1,1,1,NA,NA,NA,lo limpian,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-13,1,0,1,NA,NA,NA,lo escucha,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-15,NA,NA,NA,NA,NA,NA,ponen en mesa,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-17,NA,NA,NA,1,1,NA,comen las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-19,NA,NA,NA,NA,NA,NA,son cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-21,NA,NA,NA,1,1,NA,cierra la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-23,NA,NA,NA,1,1,NA,juegan los instrumentos,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Production,Prod-25,1,1,1,NA,NA,NA,las ponen,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-03,NA,NA,NA,NA,NA,NA,hacen hueco,Other,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-05,NA,NA,NA,NA,NA,NA,cortan pizza en pedazos,BN,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-07,NA,NA,NA,NA,NA,Removed accuracy code 0 -Jen,son contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-09,NA,NA,NA,NA,NA,Possessive,quitando su chaqueta,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-11,NA,NA,NA,NA,NA,NA,estan lavando perro,BN,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,estan escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-15,NA,NA,NA,1,1,NA,estan poniendo los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-17,NA,NA,NA,NA,NA,NA,son comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,estan cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-21,NA,NA,NA,1,1,NA,cierran la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,estan tocando,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Production,Prod-25,NA,NA,NA,1,1,NA,ponen las mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-03,NA,NA,NA,NA,NA,NA,romper,DP,Clitic,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-05,NA,NA,NA,NA,NA,NA,comen la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-07,NA,NA,NA,1,1,NA,cuentan los numeros,DP,Clitic,Masculine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-09,0,0,1,NA,NA,Changed accuracy to 0 -Jen,quitarlo,DP,Clitic,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-11,NA,NA,NA,1,1,NA,Bañan el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,Estan escuchando la musica,DP,Clitic,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-15,NA,NA,NA,NA,NA,NA,poner en la mesa,Omission,Clitic,Masculine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-17,NA,NA,NA,NA,NA,NA,comen,Omission,Clitic,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,cocinan,Omission,Clitic,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-21,NA,NA,NA,NA,NA,NA,cerrar,Omission,Clitic,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,juegan,Omission,Clitic,Masculine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Production,Prod-25,NA,NA,NA,NA,NA,NA,ponen,NA,Clitic,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-03,1,1,1,NA,NA,NA,lo están rompiendo,DP,Clitic,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-05,0,0,1,NA,NA,NA,lo están comiendo,DP,Clitic,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-07,NA,NA,NA,NA,NA,Clitic codes removed -Jen,están contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-09,NA,NA,NA,NA,NA,Clitic codes removed -Jen,están poniendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-11,1,1,1,NA,NA,Codes changed -Jen,lo están lavando,Omission,Clitic,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-13,0,0,1,NA,NA,Codes changed -Jen,lo están escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-15,0,1,0,NA,NA,NA,lo están poniendo en la mesa,DP,Clitic,Masculine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-17,0,0,0,NA,NA,Codes changed,lo están comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-19,1,1,1,NA,NA,Codes changed,lo están cocinando,Indicative,Clitic,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-21,NA,NA,NA,1,1,NA,están cerrando la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-23,0,1,0,NA,NA,NA,lo están jugando,Omission,Clitic,Masculine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Production,Prod-25,0,0,0,NA,NA,NA,se lo ponen,Gender/Number,Clitic,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-03,1,1,1,NA,NA,NA,romperlos,Number,Clitic,Masculine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-05,0,0,1,NA,NA,NA,están comiendolo,Gender,Clitic,Feminine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-07,1,1,1,NA,NA,Recoded -J,contandolos,NA,Clitic,Masculine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-09,0,0,0,NA,NA,NA,quitándolo,Gender/Number,Clitic,Feminine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-11,NA,NA,NA,NA,NA,Extra DOM,dando un baño al perro,DP,Clitic,Masculine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-13,NA,NA,NA,1,1,NA,escuchando la música,DP,Clitic,Feminine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-15,0,1,0,NA,NA,NA,poniéndolo,Number,Clitic,Masculine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-17,0,0,1,NA,NA,NA,están comiendolos,NA,Clitic,Feminine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,cocinando pez,DP,Clitic,Masculine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-21,0,0,1,NA,NA,NA,cerran a lo,Gender,Clitic,Feminine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-23,1,1,1,NA,NA,NA,se tócanlos,se with clitic,Clitic,Masculine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Production,Prod-25,0,0,1,NA,NA,NA,poniéndoselos,Gender,Clitic,Feminine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333

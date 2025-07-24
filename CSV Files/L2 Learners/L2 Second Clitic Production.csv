@@ -1,0 +1,169 @@
+Part_ID,Group,Grade,Age,Months,SPA_Score,ENG_Score,Langs,BESA_Score,Task,Item,Accuracy,Accuracy_Clit_Gen,Accuracy_Clit_Num,Accuracy_DP_Gen,Accuracy_DP_Num,Questions,Response,Error_Type,Structure,Gender,Number,Verb,Verb_Freq,Verb_Type,Home_Lang_Group,HL_DOM,HL_Gender,HL_Subj,BESA_Std,Speaker_Group,Age_Group,Total_Score,SPA_Pct
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-03,NA,NA,NA,NA,NA,english ver,popped,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-05,1,1,1,NA,NA,NA,comiendola,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-07,NA,NA,NA,NA,NA,english ver,count,English,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-09,NA,NA,NA,NA,NA,english ver,put on,English,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-11,NA,NA,NA,NA,NA,ENGLISH OBJECT WITH SPANIISH DETERMINER,poniendo en una bath,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-13,NA,NA,NA,NA,NA,english object,poniendo in earbuds,English,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-15,NA,NA,NA,NA,NA,NA,poniendo en mesa,Omission,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-17,NA,NA,NA,NA,NA,NA,comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-19,NA,NA,NA,NA,NA,bare noun,poniendo fuego,BN,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-21,NA,NA,NA,1,1,english verb,close la puerta,English,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-23,NA,NA,NA,NA,NA,NA,play,English,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H49,L2L 2nd,2,8,89,4,5,NA,6,Production,Prod-25,NA,NA,NA,NA,NA,bare noun,poner mascara en face,BN,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6939869413045499,L2L,2nd,9,0.4444444444444444
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-03,0,NA,NA,NA,NA,english verb,el globo pop,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-05,NA,NA,NA,0,1,NA,el niño y niñas comer el pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-07,NA,NA,NA,1,0,NA,el  niños se dijo el numeros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-09,NA,NA,NA,1,1,NA,el niñas put on. las chaquetas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-11,NA,NA,NA,1,1,NA,wash el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-13,NA,NA,NA,NA,NA,Code for DP removed because PP -Jen,listen por el musica,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-15,NA,NA,NA,1,1,NA,los niños tiene los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-17,NA,NA,NA,0,1,NA,comer los galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-19,NA,NA,NA,1,1,english verb,cooked el pescado,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-21,NA,NA,NA,NA,NA,ENGLISH OBJECT w/ Spanish determiner,el niños shut el door,English,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-23,NA,NA,NA,NA,NA,ENGLISH OBJECT w/ Spanish determiner,play el instruments,English,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H51,L2L 2nd,2,8,100,2,6,NA,3,Production,Prod-25,NA,NA,NA,1,1,NA,los niños use las mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,8,0.25
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-03,NA,NA,NA,NA,NA,english verb,estan poking,English,Clitic,Masculine,Singular,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-05,NA,NA,NA,1,1,NA,comer la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-07,NA,NA,NA,NA,NA,NA,estan 1. 2 3,Omission,Clitic,Masculine,Plural,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-09,NA,NA,NA,NA,NA,BN,esta frio y poner chaqueta,BN,Clitic,Feminine,Plural,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-11,NA,NA,NA,1,1,NA,esta limpiando el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-13,NA,NA,NA,1,1,NA,esta. escuchar la musica,DP,Clitic,Feminine,Singular,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-15,NA,NA,NA,NA,NA,BN,pone libros enla mesa,BN,Clitic,Masculine,Plural,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-17,NA,NA,NA,1,1,NA,esta. comer las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-19,NA,NA,NA,NA,NA,BN,esta cocina pescado,BN,Clitic,Masculine,Singular,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-21,NA,NA,NA,NA,NA,english verb,closing,English,Clitic,Feminine,Singular,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-23,NA,NA,NA,NA,NA,NA,estan jugando,Omission,Clitic,Masculine,Plural,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H52,L2L 2nd,2,8,98,0,6,NA,3,Production,Prod-25,NA,NA,NA,NA,NA,NA,esta. pone en tu cara,Omission,Clitic,Feminine,Plural,NA,NA,NA,"German, Russian",No,Yes,Yes,-0.81600662329216,L2L,2nd,6,0
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-03,NA,NA,NA,NA,NA,english verb,pop,English,Clitic,Masculine,Singular,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-05,NA,NA,NA,NA,NA,NA,comer,Omission,Clitic,Feminine,Singular,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-07,NA,NA,NA,NA,NA,english verb,count,English,Clitic,Masculine,Plural,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-09,NA,NA,NA,NA,NA,english verb,put on,English,Clitic,Feminine,Plural,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-11,NA,NA,NA,1,1,NA,limpiar el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-13,NA,NA,NA,1,1,NA,escuchan la musica,DP,Clitic,Feminine,Singular,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-15,NA,NA,NA,NA,NA,english verb,pick up,English,Clitic,Masculine,Plural,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-17,NA,NA,NA,1,1,NA,comer. las. galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-19,NA,NA,NA,NA,NA,english verb,cook,English,Clitic,Masculine,Singular,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-21,NA,NA,NA,NA,NA,english verb,close,English,Clitic,Feminine,Singular,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-23,NA,NA,NA,NA,NA,english verb,play,English,Clitic,Masculine,Plural,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H53,L2L 2nd,2,8,97,3,4,NA,7,Production,Prod-25,NA,NA,NA,NA,NA,english verb,put on,English,Clitic,Feminine,Plural,NA,NA,NA,Turkish,Yes,Yes,Yes,1.1973181295034532,L2L,2nd,7,0.42857142857142855
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-03,NA,NA,NA,NA,NA,english verb,popping,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-05,NA,NA,NA,NA,NA,NA,estan comiendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-07,NA,NA,NA,NA,NA,english verb,counting,English,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-09,NA,NA,NA,NA,NA,english verb,estan putting choc on them,English,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-11,NA,NA,NA,NA,NA,NA,estan limpiando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-13,NA,NA,NA,1,1,NA,estan escuchando. la musica,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-15,NA,NA,NA,1,1,english verb,returning los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-17,NA,NA,NA,NA,NA,NA,estan comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-19,NA,NA,NA,NA,NA,NA,estan cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-21,NA,NA,NA,1,1,english verb,opening la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-23,NA,NA,NA,NA,NA,CANT READ,estan jugando los. ???,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H55,L2L 2nd,2,8,102,1,5,NA,3,Production,Prod-25,NA,NA,NA,1,1,english verb,estan putting on las mascraillas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-03,NA,NA,NA,NA,NA,english verb,popping it,English,Clitic,Masculine,Singular,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-05,NA,NA,NA,NA,NA,NA,comer,Omission,Clitic,Feminine,Singular,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-07,NA,NA,NA,NA,NA,english verb,counting,English,Clitic,Masculine,Plural,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-09,NA,NA,NA,NA,NA,english verb,putting on,English,Clitic,Feminine,Plural,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-11,NA,NA,NA,NA,NA,english verb,giving him a bath,English,Clitic,Masculine,Singular,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-13,NA,NA,NA,NA,NA,NA,not sure,English,Clitic,Feminine,Singular,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-15,NA,NA,NA,NA,NA,english verb,putting on shelves,English,Clitic,Masculine,Plural,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-17,NA,NA,NA,NA,NA,NA,comer,Omission,Clitic,Feminine,Plural,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-19,NA,NA,NA,NA,NA,english verb,heating it,English,Clitic,Masculine,Singular,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-21,NA,NA,NA,NA,NA,english verb,choosing it,English,Clitic,Feminine,Singular,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-23,NA,NA,NA,NA,NA,english verb,they're playing,English,Clitic,Masculine,Plural,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H56,L2L 2nd,2,8,53,3,6,NA,3,Production,Prod-25,NA,NA,NA,NA,NA,english verb,putting it on,English,Clitic,Feminine,Plural,NA,NA,NA,"Gujarathi, French, Malayalam",Yes,Yes,Yes,-0.81600662329216,L2L,2nd,9,0.3333333333333333
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-03,NA,NA,NA,NA,NA,what is Other?,se boom,Other,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-05,NA,NA,NA,NA,NA,NA,esta comiendo pizza,BN,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-07,NA,NA,NA,NA,NA,NA,esta contando numeros,BN,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-09,NA,NA,NA,0,1,NA,poner el chaqueta,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-11,NA,NA,NA,0,1,NA,esta en el piscina,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-13,1,1,0,NA,NA,NA,esta escuchandolas,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-15,NA,NA,NA,1,1,NA,necesita poner los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-17,NA,NA,NA,1,1,NA,comiendo las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-19,NA,NA,NA,1,1,NA,comer el pescado,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-21,NA,NA,NA,NA,NA,WHAT IS Other?,se boom,Other,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-23,NA,NA,NA,0,1,NA,se juega con el muscia,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H57,L2L 2nd,2,NA,NA,NA,NA,3,4,Production,Prod-25,NA,NA,NA,1,1,NA,poner las mascaras,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,NA,NA
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-03,NA,NA,NA,NA,NA,English verb,es un globo that popped,English,Clitic,Masculine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-05,NA,NA,NA,0,1,NA,los niños shop y comer el pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-07,NA,NA,NA,1,1,English verb,es counting los numeros,English,Clitic,Masculine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-09,NA,NA,NA,NA,NA,NA,"es chaquetas, es un take off",English,Clitic,Feminine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-11,NA,NA,NA,1,1,English verb,es niños wash el perro,English,Clitic,Masculine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-13,NA,NA,NA,1,1,NA,es niños listen a la musica,English,Clitic,Feminine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-15,NA,NA,NA,NA,NA,NA,e niños leave los libros,English,Clitic,Masculine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-17,NA,NA,NA,NA,NA,bare noun,es niños comer galletas,BN,Clitic,Feminine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-19,NA,NA,NA,1,1,English verb,es niños cook el pez,English,Clitic,Masculine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-21,NA,NA,NA,NA,NA,NA,es niños open door,English,Clitic,Feminine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-23,NA,NA,NA,NA,NA,NA,la niños play musica en instruments,English,Clitic,Masculine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H59,L2L 2nd,2,NA,101,1,2,3,3,Production,Prod-25,NA,NA,NA,1,1,NA,e. niños tienen unas mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-03,NA,NA,NA,NA,NA,NA,los niños pop con un pin,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-05,NA,NA,NA,0,1,NA,los niños eat el pizza,English,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-07,NA,NA,NA,NA,NA,NO DETERMINER!,esta los niños contar numeros,BN,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-09,NA,NA,NA,NA,NA,English verb,son step ? putting ? on,English,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-11,NA,NA,NA,0,1,NA,el .. poner esto en el ?,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-13,NA,NA,NA,NA,NA,NO DETERMINER!,el niños escucha musica,BN,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-15,NA,NA,NA,1,1,NA,los niños ponen los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-17,NA,NA,NA,0,0,NA,comen el galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-19,NA,NA,NA,1,1,NA,is cooking el pescado,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-21,NA,NA,NA,0,1,NA,"els niños shut el door, el puerta",English,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-23,NA,NA,NA,1,1,NA,se playing los instrumentos,English,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H60,L2L 2nd,2,NA,101,2,5,2,8,Production,Prod-25,NA,NA,NA,NA,NA,NA,NA,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.7006493177023565,L2L,2nd,7,0.2857142857142857
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-03,NA,NA,NA,NA,NA,Codes removed -Jen b/c English,el niños rompen el balloon,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-05,NA,NA,NA,1,1,NA,el niños comer la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-07,NA,NA,NA,1,0,English,el niños count el numeros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-09,NA,NA,NA,1,1,NA,el niños limpiar las chaquetas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-11,NA,NA,NA,0,1,NA,los niños lavar la perro,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-13,NA,NA,NA,NA,NA,Codes removed b/c DP is subject English,los niños sing,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-15,NA,NA,NA,1,1,NA,el niños limpiar los libros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-17,NA,NA,NA,0,0,NA,niños comer,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-19,NA,NA,NA,0,1,NA,el niño cook la pez,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-21,NA,NA,NA,0,1,NA,el niño shut el puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-23,NA,NA,NA,1,1,NA,los niños juega con los instrumentos,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H61,L2L 2nd,2,NA,103,2,6,NA,4,Production,Prod-25,NA,NA,NA,1,1,English,el niños ponerse las masks,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.3126754350932567,L2L,2nd,8,0.25
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-03,NA,NA,NA,NA,NA,NA,la niño está tociendo el globo,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-05,NA,NA,NA,1,1,NA,están comiendo la pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-07,NA,NA,NA,1,1,English,ella está counting los numeros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-09,NA,NA,NA,1,1,NA,están poniendo la chaqueta,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-11,NA,NA,NA,1,1,NA,están limpiando el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-13,NA,NA,NA,1,1,NA,están escuchando a la música,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-15,NA,NA,NA,1,1,NA,poniendo los libros en la mesa,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-17,NA,NA,NA,1,1,NA,buscar las galletas y comer las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-19,NA,NA,NA,1,1,NA,ella está cocinando el pescado,DP,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-21,NA,NA,NA,1,1,NA,están cerrando la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-23,NA,NA,NA,NA,NA,Codes omitted -Jen,buscar él es†a jugando con la guitarra,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H62,L2L 2nd,2,NA,92,1,5,3,3,Production,Prod-25,NA,NA,NA,1,1,NA,están poniendo las mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,6,0.16666666666666666
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-03,NA,NA,NA,NA,NA,English,pop una balloon,English,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-05,NA,NA,NA,NA,NA,NA,cotillandos,Omission,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-07,NA,NA,NA,NA,NA,NA,"1, 2, 3, 4, 5",Other,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-09,NA,NA,NA,NA,NA,NA,es una rosa/verde,Other,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-11,NA,NA,NA,NA,NA,NA,es perro no hay bien,Other,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-13,NA,NA,NA,NA,NA,English,listen a música,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-15,NA,NA,NA,0,1,NA,ponen una libro,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-17,NA,NA,NA,NA,NA,NA,comer,Omission,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-19,NA,NA,NA,NA,NA,NA,es pescado es frío,Other,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-21,NA,NA,NA,NA,NA,English,close el door,English,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-23,NA,NA,NA,NA,NA,English,la niños es play instruments,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H68,L2L 2nd,2,7,94,1,2,2,3,Production,Prod-25,NA,NA,NA,NA,NA,English,masc protect,English,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.81600662329216,L2L,2nd,3,0.3333333333333333
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-03,0,0,0,NA,NA,Recoded -J,las hacen romper,Number,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-05,0,0,0,NA,NA,Recoded -J,se comenlos,Gender/Number,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-07,NA,NA,NA,1,1,NA,son contando los numeros,DP,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-09,NA,NA,NA,1,1,NA,quitaining los chaq.,DP,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-11,NA,NA,NA,NA,NA,NA,incomprehensible,Other,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-13,NA,NA,NA,NA,NA,NA,escuchando a la música,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-15,1,1,1,NA,NA,NA,los están poniendo,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-17,0,0,1,NA,NA,NA,los son comiéndolos,Double Gender,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-19,NA,NA,NA,NA,NA,NA,estaban cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-21,NA,NA,NA,NA,NA,NA,cerrando los puertas,DP,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-23,1,1,1,NA,NA,NA,los está jugando,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H71,L2L 2nd,2,7,94,1,4,2,7,Production,Prod-25,0,0,1,NA,NA,NA,los van a tener en la boca,Gender,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,1.1973181295034532,L2L,2nd,5,0.2
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-03,1,1,1,NA,NA,NA,lo sueltan y se va,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-05,0,0,1,NA,NA,NA,están contándolo,Gender,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-07,0,0,1,NA,NA,NA,las están,Gender,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-09,0,0,1,NA,NA,NA,los están quitando,Gender,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-11,1,1,1,NA,NA,NA,están lavándolo,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-13,1,1,1,NA,NA,NA,están escuchándola,NA,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-15,1,1,1,NA,NA,NA,los están poniendo,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-17,1,1,1,NA,NA,NA,están decorándolas,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-19,1,1,1,NA,NA,NA,están haciéndolo,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-21,NA,NA,NA,NA,NA,NA,están cerrando la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-23,1,1,1,NA,NA,NA,los están jugando,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855
+H72,L2L 2nd,2,7,94,3,4,2,8,Production,Prod-25,0,1,0,NA,NA,NA,están poniéndola,Number,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,1.7006493177023565,L2L,2nd,7,0.42857142857142855

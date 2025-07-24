@@ -1,0 +1,85 @@
+Part_ID,Group,Grade,Age,Months,SPA_Score,ENG_Score,Langs,BESA_Score,Task,Item,Accuracy,Accuracy_Clit_Gen,Accuracy_Clit_Num,Accuracy_DP_Gen,Accuracy_DP_Num,Questions,Response,Error_Type,Structure,Gender,Number,Verb,Verb_Freq,Verb_Type,Home_Lang_Group,HL_DOM,HL_Gender,HL_Subj,BESA_Std,Speaker_Group,Age_Group,Total_Score,SPA_Pct
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-03,NA,NA,NA,NA,NA,SE,se rompan,se,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-05,NA,NA,NA,0,1,NA,estan comiendo el. pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-07,NA,NA,NA,NA,NA,NA,estan contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-09,NA,NA,NA,NA,NA,"Removed DP code, English -Jen",esta poniendo el sweater,DP,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-11,NA,NA,NA,1,1,english verb,esta showering el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,esta escuchando,Omission,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-15,NA,NA,NA,NA,NA,NA,esta tocando para lee,Omission,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-17,NA,NA,NA,NA,NA,NA,estan comiendo,Omission,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-19,NA,NA,NA,NA,NA,NA,esta cocinando,Omission,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-21,NA,NA,NA,NA,NA,NA,estan abriendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,estan tocando,Omission,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H47,HS 2nd,2,8,99,2,6,NA,8,Production,Prod-25,NA,NA,NA,NA,NA,NA,necesita poner mas,Omission,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-13,NA,NA,NA,1,1,NA,oyen la musica,DP,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-15,0,1,0,NA,NA,NA,lo poner en lamesa,Number,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-17,0,0,1,NA,NA,NA,se los comer,Gender,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-19,1,1,1,NA,NA,NA,lo cocinan,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-21,0,0,1,NA,NA,NA,lo cierran,Gender,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-23,1,NA,NA,NA,NA,NA,venlos y toca los,NA,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-25,0,1,0,NA,NA,NA,se la ponen,Number,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-03,1,1,1,NA,NA,clitics produced even though not fuully accurate. is there any Other way to code this?,lo desinflan,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-05,0,0,1,NA,NA,NA,"se lo comen, se corta",Gender,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-07,NA,NA,NA,1,1,NA,estan contando losnumeros,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-09,0,1,0,NA,NA,NA,"la tienen, se la quita",Number,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H48,HS 2nd,2,8,100,1,4,NA,8,Production,Prod-11,NA,NA,NA,1,1,NA,lavan el perro,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,5,0.2
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-03,NA,NA,NA,1,1,NA,se pica. a los globos y se estalla,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-05,NA,NA,NA,0,1,NA,se comer el pizza,DP,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-07,NA,NA,NA,1,1,NA,se dice los numeros en la cabeza,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-09,NA,NA,NA,1,1,NA,se pontar las chaquetas,DP,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-11,NA,NA,NA,0,1,NA,se limpia la perro,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-13,NA,NA,NA,0,1,english verb,they listen to el musica,DP,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-15,NA,NA,NA,1,1,NA,pontar los libros en la mesa,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-17,NA,NA,NA,0,1,NA,se comen los galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-19,NA,NA,NA,1,1,NA,se cocinando elpescado,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-21,NA,NA,NA,1,1,NA,la. se. cierra la puerta,DP,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-23,NA,NA,NA,1,1,NA,se juegan con los. instrumentos,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H50,HS 2nd,2,8,96,3,3,NA,3,Production,Prod-25,NA,NA,NA,1,1,NA,se pontar las mascarillas,DP,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-2.3914700831314444,HS,2nd,6,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-03,NA,NA,NA,NA,NA,english verb,poking,English,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-05,NA,NA,NA,NA,NA,NA,esta comiendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-07,NA,NA,NA,NA,NA,english verb,putting them on,English,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-09,NA,NA,NA,NA,NA,english verb,giving dog bathtub,English,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-11,NA,NA,NA,NA,NA,english verb,listening,English,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-13,NA,NA,NA,NA,NA,english verb,putting them back,English,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-15,NA,NA,NA,NA,NA,NA,esta comiendo,English,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-17,NA,NA,NA,NA,NA,english verb,cooking,Omission,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-19,NA,NA,NA,0,1,NA,esta abriendo el puerta,English,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-21,NA,NA,NA,NA,NA,NA,esta jugando,Omission,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-23,NA,NA,NA,NA,NA,english verb,they're putting them on,English,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H54,HS 2nd,2,8,99,4,4,NA,7,Production,Prod-25,NA,NA,NA,NA,NA,NA,NA,English,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,-0.08246448562522193,HS,2nd,8,0.5
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-05,1,1,1,NA,NA,NA,lo cortan y comerla,Gender,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-07,0,NA,NA,NA,NA,NA,contando,Omission,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-09,1,1,0,NA,NA,NA,estan poniendosela,Number,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-11,0,NA,NA,1,1,NA,estan dando un baño,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-13,0,NA,NA,NA,NA,NA,oyendo,Omission,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-15,NA,NA,NA,1,0,NA,estan poniendo los libro,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-17,NA,NA,NA,1,1,NA,estan comiendo las galletas,DP,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-19,1,1,1,NA,NA,NA,van a comerselo,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-21,1,0,1,NA,NA,NA,cerrandolo,Gender,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,estan haciendo musica,BN,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H58,HS 2nd,2,NA,95,4,5,2,8,Production,Prod-25,1,1,0,NA,NA,NA,poniendosela,Number,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.4444444444444444
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-03,1,1,1,NA,NA,NA,se dañalo,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-05,NA,NA,NA,NA,NA,NA,cortan un pedazo para comer,DP,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-07,0,NA,NA,NA,NA,NA,se cuentan,se,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-09,NA,NA,NA,1,1,NA,se ponen las chaquetas,DP,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-11,NA,NA,NA,1,1,NA,la está dando un baño,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,se están escuchando música,BN,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-15,1,NA,NA,NA,NA,NA,se están comprando libros,BN,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-17,0,NA,NA,NA,NA,NA,comiendolos,Gender,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-19,1,NA,NA,NA,NA,NA,cocinandolos,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-21,0,0,1,NA,NA,NA,abriendo y cerrandolo,Gender,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-23,NA,NA,NA,NA,NA,NA,están dando música,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H69,HS 2nd,2,8,102,5,4,2,8,Production,Prod-25,0,0,1,NA,NA,NA,están poniendolos,Gender,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,9,0.5555555555555556
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-03,1,1,1,NA,NA,NA,lo están rompiendo,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-05,0,0,1,NA,NA,NA,lo cortan y comen la pizza,Gender,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-07,1,1,1,NA,NA,NA,los están contando,NA,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-09,1,1,1,NA,NA,NA,se las quitan,NA,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-11,1,1,1,NA,NA,NA,lo están lavando,NA,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-13,NA,NA,NA,NA,NA,NA,están escuchando la música,DP,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-15,NA,NA,NA,1,1,NA,están poniendo los libros en la mesa,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-17,1,1,1,NA,NA,NA,están comiendolas,NA,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-19,NA,NA,NA,1,1,NA,están cocinando el pescado,DP,Clitic,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-21,1,1,1,NA,NA,NA,la están cerrando,NA,Clitic,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-23,NA,NA,NA,1,1,NA,los niños cogen los instrumentos juegan con ellos,DP,Clitic,Masculine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25
+H70,HS 2nd,2,7,95,2,6,2,8,Production,Prod-25,1,1,1,NA,NA,NA,se las ponen,NA,Clitic,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,0.49478691375133366,HS,2nd,8,0.25

@@ -1,0 +1,229 @@
+Part_ID,Group,Grade,Age,Months,SPA_Score,ENG_Score,Langs,BESA_Score,Task,Item,Accuracy,Accuracy_Clit_Gen,Accuracy_Clit_Num,Accuracy_DP_Gen,Accuracy_DP_Num,Questions,Response,Error_Type,Structure,Gender,Number,Verb,Verb_Freq,Verb_Type,Home_Lang_Group,HL_DOM,HL_Gender,HL_Subj,BESA_Std,Speaker_Group,Age_Group,Total_Score,SPA_Pct
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-11,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-15,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H02,L2L 7th/8th,8,NA,175,2,4,NA,8,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-07,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H03,L2L 7th/8th,8,14,170,2,4,3,8,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Portuguese,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H04,L2L 7th/8th,8,NA,166,1,4,NA,8,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,5,0.2
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-05,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H06,L2L 7th/8th,8,NA,174,2,4,NA,8,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H08,L2L 7th/8th,8,NA,168,1,6,NA,8,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Mandarin",Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.14285714285714285
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-11,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-15,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-19,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H09,L2L 7th/8th,8,NA,168,1,4,NA,7,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,5,0.2
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-05,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-13,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H10,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-05,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H11,L2L 7th/8th,8,NA,173,2,4,3,8,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-15,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H12,L2L 7th/8th,8,NA,174,2,2,NA,5,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-1.033100651078798,L2L,7th/8th,4,0.5
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-05,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-11,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-19,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-23,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H13,L2L 7th/8th,8,NA,173,3,4,NA,8,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Bulgarian, Russian",No,Yes,Yes,0.6026420464626301,L2L,7th/8th,7,0.42857142857142855
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H14,L2L 7th/8th,8,NA,172,2,4,NA,8,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-13,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H16,L2L 7th/8th,8,NA,165,2,5,NA,7,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.05739448061548743,L2L,7th/8th,7,0.2857142857142857
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-17,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H33,L2L 7th/8th,8,NA,128,2,4,NA,3,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Hindi, Marathi",Yes,Yes,Yes,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-13,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H36,L2L 7th/8th,7,NA,155,2,4,NA,3,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.3333333333333333
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-11,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-19,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-21,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H37,L2L 7th/8th,8,NA,174,3,3,NA,3,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.123595782773083,L2L,7th/8th,6,0.5
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-17,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H39,L2L 7th/8th,7,NA,159,4,3,NA,8,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6026420464626301,L2L,7th/8th,7,0.5714285714285714
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-07,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-09,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-11,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-13,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-15,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-17,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H40,L2L 7th/8th,7,NA,155,4,4,NA,8,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6026420464626301,L2L,7th/8th,8,0.5
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-03,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-07,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-11,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-13,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-15,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-23,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H63,L2L 7th/8th,7,13,156,2,4,7,7,Forced Choice,FCT-25,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,0.05739448061548743,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-03,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-05,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-07,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-09,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-11,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-13,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-15,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-17,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-19,1,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-21,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Singular,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-23,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Masculine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333
+H67,L2L 7th/8th,7,13,160,2,4,3,8,Forced Choice,FCT-25,0,NA,NA,NA,NA,NA,NA,NA,Clitic,Feminine,Plural,NA,NA,NA,Gujarati,Yes,Yes,No,0.6026420464626301,L2L,7th/8th,6,0.3333333333333333

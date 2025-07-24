@@ -1,0 +1,169 @@
+Part_ID,Group,Grade,Age,Months,SPA_Score,ENG_Score,Langs,BESA_Score,Task,Item,Accuracy,Accuracy_Clit_Gen,Accuracy_Clit_Num,Accuracy_DP_Gen,Accuracy_DP_Num,Questions,Response,Error_Type,Structure,Gender,Number,Verb,Verb_Freq,Verb_Type,Home_Lang_Group,HL_DOM,HL_Gender,HL_Subj,BESA_Std,Speaker_Group,Age_Group,Total_Score,SPA_Pct
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-04,0,NA,NA,NA,NA,NA,la niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-08,0,NA,NA,NA,NA,NA,el perro y la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-12,0,NA,NA,NA,NA,NA,su niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-16,0,NA,NA,NA,NA,NA,la mamá ve el bebé,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-20,1,NA,NA,NA,NA,NA,ve a la niña,NA,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-24,0,NA,NA,NA,NA,NA,ve las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H01,L2L 4th/5th,5,NA,129,1,5,NA,3,Production,Prod-27,0,NA,NA,NA,NA,NA,la mamá ve los niños,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-2.3076123296628386,L2L,4th/5th,6,0.16666666666666666
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-01,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-04,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-08,1,NA,NA,NA,NA,NA,a una niña,NA,DOM,Feminine,Singular,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-12,1,NA,NA,NA,NA,NA,al niño,NA,DOM,Masculine,Singular,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-20,1,NA,NA,NA,NA,NA,a la niña,NA,DOM,Feminine,Singular,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-24,1,NA,NA,NA,NA,NA,a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H18,L2L 4th/5th,5,10,130,3,4,NA,8,Production,Prod-27,1,NA,NA,NA,NA,NA,a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,"Russian, Lithuanian",No,Yes,Yes,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-01,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-04,NA,NA,NA,NA,NA,NA,la mamá es con el niño,Other,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-08,NA,NA,NA,NA,NA,NA,pushing,English,DOM,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-12,1,NA,NA,NA,NA,NA,licking al niño,NA,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-16,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-20,0,NA,NA,NA,NA,NA,atacado la niña,Other,DOM,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-24,0,NA,NA,NA,NA,NA,atacado las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H19,L2L 4th/5th,5,10,129,2,5,NA,4,Production,Prod-27,0,NA,NA,NA,NA,"DP Gen,Num",calling el niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,-1.7093424664169177,L2L,4th/5th,7,0.2857142857142857
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,se ve su niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-08,0,NA,NA,NA,NA,NA,se está viendo la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,viendo el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,viendo a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,está viendo la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-24,1,NA,NA,NA,NA,NA,se ve a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H21,L2L 4th/5th,5,11,NA,NA,NA,NA,8,Production,Prod-27,1,NA,NA,NA,NA,NA,se ve a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,NA,NA
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,su hijo,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-08,1,NA,NA,NA,NA,NA,ve a su niña,NA,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-12,1,NA,NA,NA,NA,NA,a un niño,NA,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,la niña,NA,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,ve las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H23,L2L 4th/5th,5,11,137,2,3,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,ve las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,5,0.4
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-04,1,NA,NA,NA,NA,NA,ve a su niño,NA,DOM,Masculine,Singular,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-08,1,NA,NA,NA,NA,NA,a un perro y una niña,NA,DOM,Feminine,Singular,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-12,1,NA,NA,NA,NA,NA,a un niño,NA,DOM,Masculine,Singular,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-16,1,NA,NA,NA,NA,NA,ve a su niño,NA,DOM,Masculine,Singular,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-20,1,NA,NA,NA,NA,NA,a una niña,NA,DOM,Feminine,Singular,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-24,1,NA,NA,NA,NA,NA,a dos niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H27,L2L 4th/5th,5,11,133,3,6,4,8,Production,Prod-27,1,NA,NA,NA,NA,NA,ve a dos niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Japanese,Yes,No,No,0.6837369865667673,L2L,4th/5th,9,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-08,0,NA,NA,NA,NA,NA,la niña y el perro,Omission,DOM,Feminine,Singular,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-16,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H28,L2L 4th/5th,5,NA,139,2,4,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,"French, Turkish",Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-01,0,NA,NA,NA,NA,NA,ve el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-04,0,NA,NA,NA,NA,NA,su niño,Omission,DOM,Masculine,Singular,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-08,0,NA,NA,NA,NA,NA,ve una niña,Omission,DOM,Feminine,Singular,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-12,0,NA,NA,NA,NA,NA,va un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-16,0,NA,NA,NA,NA,NA,"ve su niño, un bebé",Indicative,DOM,Masculine,Singular,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-20,0,NA,NA,NA,NA,NA,ve una niña,Omission,DOM,Feminine,Singular,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-24,0,NA,NA,NA,NA,NA,ve unas niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H29,L2L 4th/5th,5,11,138,3,3,3,7,Production,Prod-27,1,NA,NA,NA,NA,NA,ve a sus niñas,NA,DOM,Feminine,Plural,NA,NA,NA,"Ukrainian, Russian",Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,6,0.5
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-01,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-04,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-08,0,NA,NA,NA,NA,NA,el niño y el perro,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-12,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-16,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-20,0,NA,NA,NA,NA,NA,el niña,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-24,0,NA,NA,NA,NA,NA,los niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H30,L2L 4th/5th,5,NA,140,2,5,NA,6,Production,Prod-27,0,NA,NA,NA,NA,NA,los niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,-0.5128027399250751,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,ve su mamá,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-08,NA,NA,NA,NA,NA,Changed accuracy to ). DOM not necessary w/ perro. _Jen,el perro,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-16,0,NA,NA,NA,NA,NA,el bebé,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H31,L2L 4th/5th,5,NA,131,2,5,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.2857142857142857
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-04,1,NA,NA,NA,NA,NA,a su niño,NA,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-08,1,NA,NA,NA,NA,NA,a su granddaughter,NA,DOM,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-12,1,NA,NA,NA,NA,NA,al niño,NA,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,a su niño,NA,DOM,Masculine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,ve un niña,Omission,DOM,Feminine,Singular,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,ve las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H32,L2L 4th/5th,5,NA,130,1,5,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,ve las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,Russian,No,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.16666666666666666
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-01,0,NA,NA,NA,NA,NA,veo un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-04,0,NA,NA,NA,NA,NA,veo el este niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-08,0,NA,NA,NA,NA,NA,ve la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-12,0,NA,NA,NA,NA,NA,ve un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-16,1,NA,NA,NA,NA,NA,ve al bebé,NA,DOM,Masculine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-20,0,NA,NA,NA,NA,NA,ve el niña,Omission,DOM,Feminine,Singular,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-24,0,NA,NA,NA,NA,NA,ve las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H34,L2L 4th/5th,5,11,132,2,4,3,8,Production,Prod-27,0,NA,NA,NA,NA,NA,las niñas ve la mamá,Omission,DOM,Feminine,Plural,NA,NA,NA,Sinhala,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-01,0,NA,NA,NA,NA,NA,una niña,Omission,DOM,Masculine,Singular,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-04,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-08,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Feminine,Singular,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-12,0,NA,NA,NA,NA,NA,el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-16,0,NA,NA,NA,NA,NA,la bebé,Omission,DOM,Masculine,Singular,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-20,0,NA,NA,NA,NA,NA,la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-24,NA,NA,NA,NA,NA,"Removed 0 for accuracy, DOM not obligatory with el perro -Jen",los niños ven el perro,Omission,DOM,Feminine,Plural,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H35,L2L 4th/5th,5,NA,130,2,2,NA,7,Production,Prod-27,0,NA,NA,NA,NA,NA,los niños,Omission,DOM,Feminine,Plural,NA,NA,NA,Romanian,Yes,Yes,Yes,0.08546712332084612,L2L,4th/5th,4,0.5
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-04,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-08,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-16,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-20,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-24,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H41,L2L 4th/5th,5,NA,139,2,1,NA,7,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.08546712332084612,L2L,4th/5th,3,0.6666666666666666
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-04,0,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-08,0,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-16,0,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-20,0,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-24,0,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H42,L2L 4th/5th,5,NA,132,2,5,NA,3,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Plural,NA,NA,NA,Mandarin,Yes,No,No,-2.3076123296628386,L2L,4th/5th,7,0.2857142857142857
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-08,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-16,0,NA,NA,NA,NA,NA,NA,DP,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-24,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H43,L2L 4th/5th,5,NA,136,3,4,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,DP,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,7,0.42857142857142855
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-04,NA,NA,NA,NA,NA,NA,NA,English,DOM,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-08,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-12,NA,NA,NA,1,1,NA,NA,Other,DOM,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-16,NA,NA,NA,NA,NA,NA,NA,Other,DOM,Masculine,Singular,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-20,NA,NA,NA,NA,NA,NA,NA,English,DOM,Feminine,Singular,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-24,0,NA,NA,1,0,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H73,L2L 4th/5th,4,10,125,3,5,NA,6,Production,Prod-27,NA,NA,NA,NA,NA,NA,el mamá es comunicar con ellas,Other,DOM,Feminine,Plural,NA,NA,NA,"Mandarin, Cantonese, Fujianese",Yes,No,No,-0.5128027399250751,L2L,4th/5th,8,0.375
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-04,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-08,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-16,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-20,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-24,0,NA,NA,NA,NA,NA,NA,Indicative,DOM,Feminine,Plural,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H74,L2L 4th/5th,4,10,121,5,4,NA,5,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,Tagalog,Yes,No,No,-1.1110726031709963,L2L,4th/5th,9,0.5555555555555556
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-04,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-08,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-16,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H75,L2L 4th/5th,4,10,120,2,2,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,4,0.5
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-04,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-08,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-16,NA,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-20,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-24,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H76,L2L 4th/5th,4,10,126,1,4,3,8,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,Hindi,Yes,Yes,Yes,0.6837369865667673,L2L,4th/5th,5,0.2
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-08,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Singular,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333
+H78,L2L 4th/5th,4,10,123,2,4,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,L2 learner,L2,L2,L2,0.6837369865667673,L2L,4th/5th,6,0.3333333333333333

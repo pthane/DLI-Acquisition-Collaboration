@@ -1,0 +1,57 @@
+Part_ID,Group,Grade,Age,Months,SPA_Score,ENG_Score,Langs,BESA_Score,Task,Item,Accuracy,Accuracy_Clit_Gen,Accuracy_Clit_Num,Accuracy_DP_Gen,Accuracy_DP_Num,Questions,Response,Error_Type,Structure,Gender,Number,Verb,Verb_Freq,Verb_Type,Home_Lang_Group,HL_DOM,HL_Gender,HL_Subj,BESA_Std,Speaker_Group,Age_Group,Total_Score,SPA_Pct
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,su hijo,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,su hijo,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-08,0,NA,NA,NA,NA,NA,su sobrina y un perro,Omission,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,a su bebé,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,un niña que tiene miedo,Omission,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,dos niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H05,HS 7th/8th,8,NA,174,2,6,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,viendo su hijo,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-04,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-08,0,NA,NA,NA,NA,NA,ve la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-12,1,NA,NA,NA,NA,NA,al niño,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,a su bebé,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-20,1,NA,NA,NA,NA,NA,a una niña,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-24,1,NA,NA,NA,NA,NA,a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H07,HS 7th/8th,8,NA,171,4,4,NA,8,Production,Prod-27,1,NA,NA,NA,NA,NA,a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.5
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-01,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-04,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-08,NA,NA,NA,NA,NA,Removed 0 for accuracy -Jen,visabuela,Omission,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-12,1,1,1,NA,NA,NA,a su niño,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-16,1,NA,NA,NA,NA,NA,a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-20,1,NA,NA,NA,NA,NA,a una niña,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-24,1,NA,NA,NA,NA,NA,ve a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H15,HS 7th/8th,8,NA,172,1,4,NA,8,Production,Prod-27,1,NA,NA,NA,NA,NA,a sus niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.2
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,su niño,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,su niño,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-08,1,NA,NA,NA,NA,NA,a su nieta,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,un niño,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-16,0,NA,NA,NA,NA,NA,limpiando su bebé,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-20,0,NA,NA,NA,NA,NA,una niña muy aterrorizado,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-24,0,NA,NA,NA,NA,NA,dos niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H38,HS 7th/8th,7,NA,159,2,5,NA,8,Production,Prod-27,0,NA,NA,NA,NA,NA,dos niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,7,0.2857142857142857
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-01,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-04,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-08,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-12,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-16,0,NA,NA,NA,NA,NA,NA,Omission,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-20,1,NA,NA,NA,NA,NA,NA,Wrong word order*,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-24,1,NA,NA,NA,NA,NA,NA,Wrong word order*,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H64,HS 7th/8th,7,13,NA,NA,NA,NA,8,Production,Prod-27,1,NA,NA,1,1,NA,las niñas ve a la mamá,Wrong word order*,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,NA,NA
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-01,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-04,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-08,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-12,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-16,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-20,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-24,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H65,HS 7th/8th,7,13,164,2,3,2,8,Production,Prod-27,1,NA,NA,NA,NA,NA,a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,5,0.4
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-01,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-04,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-08,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-12,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-16,1,NA,NA,NA,NA,NA,NA,NA,DOM,Masculine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-20,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Singular,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-24,1,NA,NA,NA,NA,NA,NA,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
+H66,HS 7th/8th,7,12,154,2,6,2,8,Production,Prod-27,1,NA,NA,NA,NA,NA,a los niños,NA,DOM,Feminine,Plural,NA,NA,NA,Heritage Spanish,NA,NA,NA,NA,HS,7th/8th,8,0.25
