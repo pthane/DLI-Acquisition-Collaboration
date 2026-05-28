@@ -38,7 +38,7 @@ Aggregate <- bind_rows(Production, Selection) %>%
 
 
 # Plot individual differences
-## Without labels
+## Generate graph
 Ind_Diffs_Plot <- Aggregate %>% 
   ggplot(aes(x = Production, y = Selection)) +
   geom_jitter(mapping = aes(color = Grade)) +

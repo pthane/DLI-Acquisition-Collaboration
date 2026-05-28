@@ -90,7 +90,7 @@ Group_Plot <- (Bar_Graph + Violin) +
 
 Group_Plot
 
-ggsave(filename = here("DOM Manuscript (Applied Psycholinguistics)", "Graphs", "AP DOM Figure 3.pdf"),
+ggsave(filename = here("DOM Manuscript (Applied Psycholinguistics)", "Graphs", "AP DOM Grade-by-Grade Summary.pdf"),
        plot = Group_Plot,
        device = "pdf",
        width = 8,
