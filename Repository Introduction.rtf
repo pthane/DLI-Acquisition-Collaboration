@@ -3,35 +3,78 @@
 }
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
-\margl1440\margr1440\vieww13240\viewh8840\viewkind0
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\margl1440\margr1440\vieww19960\viewh12460\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qj\partightenfactor0
 
-\f0\b\fs32 \cf0 This GitHub repository represents data from a collaboration between Jenifer Austin (Rutgers University Newark), Patrick Thane (University of Texas at Austin), Stephanie Rodr\'edguez (Rutgers University Newark) and Michele Goldin (Touro University). All data are owned by the authors and may not be used without permission.\
+\f0\b\fs32 \cf0 This GitHub repository represents data from a collaboration between Jenifer Austin (Rutgers University Newark), Patrick Thane (University of Texas at Austin), Stephanie Rodr\'edguez (Rutgers University Newark) and Michele Goldin (Touro University). All data are owned by the authors and may not be used without permission. The data are shared anonymously across institutions.\
 \
 
-\f1\b0 This repository represents data collected from 78 participants attending a Spanish-English dual language immersion school using production and preference tasks. Participants\'92 command of gender agreement, volitional subjunctive, and differential object marking was tested. The anonymized data, code, and graphs for all manuscripts that have been published or that are under review are shared here. The current manuscripts are:\
-\
-\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
-\ls1\ilvl0\cf0 {\listtext	\uc0\u8226 	}DOM manuscript (submitted to 
-\f2\i Applied Psycholinguistics
-\f1\i0 )\
-{\listtext	\uc0\u8226 	}Gender comprehension manuscript (published in 
-\f2\i Frontiers in Language Sciences
-\f1\i0 ; open access manuscript shared in folder)\
-{\listtext	\uc0\u8226 	}Subjunctive manuscript (published in 
-\f2\i Studies in Hispanic and Lusophone Linguistics
-\f1\i0 )\
+\f1\b0 This repository represents data collected from 120 participants attending a Spanish-English dual language immersion school using production and preference tasks. Participants\'92 command of gender agreement, volitional subjunctive, and differential object marking was tested. Data collection took place with two cohorts, in 2023 (cohort 1) and 2026 (cohort 2), and 30 children completed a longitudinal analysis at both time points. The following sections outline the subfolders in this repository and their functions.\
 \pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
 \cf0 \
+\
 \pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qj\partightenfactor0
-\cf0 In addition to the analyses carried out in the folders for each manuscript, the \ul Prepare Separate Dataframes for Cohort 1.R\ulnone  script pulls data from the main CSV files with raw data. This divides the data into smaller CSV files broken down by speaker type (heritage versus L2 learner) and age group (2nd grade, 4th/5th grades, 7th/8th grades) from the first round of data collection in 2023 only (cohort 1, session 1). We used this coding loop to prepare CSV files that only reflected the initial data collection session, as we used these data to prepare some manuscripts and conference presentations.\
+
+\f0\b \cf0 CSV Files subdirectory:
+\f1\b0 \
+There are multiple folders of CSV files here. All of these CSV files source from the two documents in the Master Files subfolder, which includes FCT Data.csv and Production Data.csv. There is also a former version of the production data code. These documents are updated directly from the Excel file called 
+\f2\i Coding Document
+\f1\i0  on the main directory. They are then fed into a coding loop described below under the Data Preparation subdirectory, which creates a series of additional CSV files.\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
+\cf0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
+
+\f0\b \cf0 Data Preparation subdirectory:
+\f1\b0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qj\partightenfactor0
+\cf0 In addition to the analyses carried out in the folders for each manuscript, the \ul Prepare Separate Dataframes for Cohort 1.R\ulnone  script pulls data from the main CSV files with raw data. This divides the data into smaller CSV files broken down by speaker type (heritage versus L2 learner) and age group (2nd grade, 4th/5th grades, 7th/8th grades) from the first round of data collection in 2023 only (cohort 1, session 1). We used this coding loop to prepare CSV files for manuscripts and presentations that only reflected the initial data collection session.\
 \
-For subsequent analyses incorporating data from additional cohorts or sessions, we used the \ul Reaggregate FCT CSVs.R\ulnone  and \ul Reaggregate Production CSVs.R\ulnone  files to create structure-specific datasets and a master CSV file with all of the necessary calculations with which to run correlations and create figures that incorporated more than the first cohort and session (that is, all subsequent data collected).\
+For subsequent analyses incorporating data from additional cohorts or sessions, we used the \ul Prepare Master Data File.R\ulnone  files to create structure-specific datasets and a master CSV file with all of the necessary calculations with which to run correlations and create figures that incorporated more than the first cohort and session (that is, all subsequent data collected).\
 \
-There are also scripts for the preparation of two conferences: GASLA17 (May 2024, Urbana-Champaign, IL) and BUCLD50 (November 2025, Boston, MA).\
 \
-Finally, we have uploaded the PowerPoints used for the production and preference tasks. These PowerPoint files are nearly identical to the ones that we used, but the school name was removed. Use of these files without our consent is not permitted.\
+
+\f0\b Manuscripts subdirectory:
+\f1\b0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qj\partightenfactor0
+\cf0 The anonymized data, code, and graphs for all manuscripts that have been published or that are under review are shared in this folder. Readers interested in reproducing figures, multivariate modeling, or other participant information are referred here. The current manuscripts are:\
 \
-Any questions concerning the repository may be directed to myself, Patrick Thane, pdthane@utexas.edu .}
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
+\ls1\ilvl0\cf0 {\listtext	\uc0\u8226 	}DOM cross-sectional manuscript (under revision in 
+\f2\i Applied Psycholinguistics
+\f1\i0 )\
+{\listtext	\uc0\u8226 	}Gender comprehension cross-sectional manuscript (published in 
+\f2\i Frontiers in Language Sciences
+\f1\i0 ; open access manuscript shared in folder)\
+{\listtext	\uc0\u8226 	}Subjunctive cross-sectional manuscript (published in 
+\f2\i Studies in Hispanic and Lusophone Linguistics
+\f1\i0 )\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qj\partightenfactor0
+\cf0 \
+
+\f0\b Conferences subdirectory:
+\f1\b0 \
+Our code, graphs, and some abstracts can be found in the Conferences subdirectory. Conferences prepared from this repository are:\
+\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
+\ls2\ilvl0\cf0 {\listtext	\uc0\u8226 	}BUCLD 2025 (November 2025, Boston, MA) \'96 heritage/L2 article and clitic gender production and clitic comprehension\
+{\listtext	\uc0\u8226 	}EuroSLA 2026 (June 2026, Lisbon, Portugal) \'96\'a0heritage/L2 production data, all structures (interface versus timing framework)\
+{\listtext	\uc0\u8226 	}GASLA (May 2024, Urbana-Champaign, IL) \'96 heritage/L2 clitic gender comprehension\
+{\listtext	\uc0\u8226 	}HLS 2026 (November 2026, Boulder, CO) \'96 heritage/L2 production data, all structures (Torregrossa framework)\
+{\listtext	\uc0\u8226 	}UCLA 2026 (February 2026, Los Angeles, CA) \'96 heritage production data, all structures\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qj\partightenfactor0
+\cf0 \
+
+\f0\b Additional subdirectories:
+\f1\b0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
+\ls3\ilvl0\cf0 {\listtext	\uc0\u8226 	}Tasks folder: We have uploaded the PowerPoints used for the production and preference tasks. These PowerPoint files are nearly identical to the ones that we used, but the school name was removed. Use of these files without our consent is not permitted.\
+{\listtext	\uc0\u8226 	}General Graphs folder: Scripts and graphs that present the data from cohort 1, session 1 that we use for orientative purposes.\
+{\listtext	\uc0\u8226 	}Unused Scripts and Data folder: Scripts that we did not wish to delete but that are no longer being used for data coding or tidying.\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qj\partightenfactor0
+\cf0 \
+
+\f0\b Any questions concerning the repository may be directed to myself, Patrick Thane, pdthane@utexas.edu .}
