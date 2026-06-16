@@ -16,21 +16,11 @@ Master <- read_csv(here("CSV Files", "Tidy Data", "Tidy Data All Structures.csv"
          Session == 1,
          !is.na(Accuracy_Combined))
 
-# Two-variable model
-Binary_Model <- glmer(Accuracy_Combined ~ 1 + Speaker_Group + Months_at_Start + Timing + Interface +
-                      (1 + Timing + Interface | Part_ID) + (1 | Item),
-                    data = Master,
-                    family = "binomial",
-                    control = glmerControl(optimizer = "bobyqa",
-                                           optCtrl = list(maxfun = 10000)))
-
-summary(Binary_Model)
-
 
 # Group by structure model
 ## Model specification
-Structure_Model <- glmer(Accuracy_Combined ~ 1 + Speaker_Group + Structure + Months_at_Start + Speaker_Group:Structure +
-                      (1 + Structure | Part_ID) + (1 | Item),
+Structure_Model <- glmer(Accuracy_Combined ~ 1 + Speaker_Group + Structure + Months_at_Testing_Ctd + Speaker_Group:Structure +
+                      (1 | Part_ID) + (1 | Item),
                     data = Master,
                     family = "binomial",
                     control = glmerControl(optimizer = "bobyqa",
@@ -45,3 +35,17 @@ Tukey <- contrast(Pairwise, method = "pairwise")
 
 summary(Tukey)
 confint(Tukey)
+
+
+# Participant counts as it stands
+## Separate groups
+HS <- Master %>% 
+  filter(Speaker_Group == "HS")
+
+L2L <- Master %>% 
+  filter(Speaker_Group == "L2L")
+
+
+## Get participant counts
+unique(HS$Part_ID)
+unique(L2L$Part_ID)

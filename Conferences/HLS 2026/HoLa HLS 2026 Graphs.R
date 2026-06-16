@@ -1,98 +1,53 @@
-
+# Cross-sectional data from session 1 only
 
 library(tidyverse)
 library(here)
-library(patchwork)
 
 
 # Load data
 Master <- read_csv(here("CSV Files", "Tidy Data", "Tidy Data All Structures.csv")) %>% 
   filter(Task == "Production",
-         Session == 1,
-         !is.na(Accuracy_Combined))
+         Session == 1) %>% 
+  group_by(Part_ID, Speaker_Group, Task, Structure, Months_at_Testing) %>%
+  summarize(Total_Accuracy    = sum(Accuracy_Combined, na.rm = TRUE),
+            Total_Responses   = sum(!is.na(Accuracy_Combined)),
+            Total_Rows        = n(),
+            .groups = "drop") %>%
+  mutate(Ratio = case_when(Task == "Production" ~ Total_Accuracy / Total_Responses,
+                           Task == "Selection"  ~ Total_Accuracy / Total_Rows),
+         Ratio = Ratio * 100,
+         Structure = case_when(Structure == "DOM"         ~ "DOM",
+                               Structure == "Subjunctive" ~ "Subjunctive",
+                               Structure == "Clitic"      ~ "Clitics",
+                               Structure == "Article"     ~ "Articles"))
 
 
-# Create averages
-## Bar graph
-Bar <- Master %>% 
-  group_by(Age_Group, Speaker_Group, Structure, Interface, Timing) %>%
-  summarize(Total_Structure = sum(Accuracy_Combined, na.rm = TRUE),
-            Total_Responses = sum(!is.na(Accuracy_Combined)),
-            Ratio = Total_Structure/Total_Responses) %>% 
-  mutate(Ratio = (Ratio*100))
+# Graph
+# Create plot
+Plot <- Growth_Plot <- ggplot(Master, aes(x = Months_at_Testing, y = Ratio,
+                                          color = Speaker_Group)) +
+  geom_point(alpha = 0.85, size = 1.8) +
+  geom_smooth(method = "glm", method.args = list(family = gaussian()),
+              se = TRUE, linewidth = 0.9) +
+  facet_grid(Structure ~ .) +
+  scale_x_continuous(breaks = seq(84, 168, 12),
+                     limits = c(77, 175)) +
+  scale_y_continuous(breaks = seq(0, 100, 25),
+                     limits = c(-2, 102)) +
+  labs(x     = "Age (months)",
+       y     = "Percentage of target-like responses",
+       color = "Group",
+       title = "Accuracy in Production by Age, Structure, and Group") +
+  theme(axis.title      = element_text(face = "bold"),
+        plot.title      = element_text(hjust = 0.5, face = "bold"),
+        legend.title    = element_text(face = "bold"),
+        strip.text      = element_text(face = "bold"),
+        legend.position = "right")
 
-
-## Boxplot
-Boxplot <- Master %>% 
-  group_by(Part_ID, Age_Group, Speaker_Group, Structure, Interface, Timing) %>%
-  summarize(Total_Structure = sum(Accuracy_Combined, na.rm = TRUE),
-            Total_Responses = sum(!is.na(Accuracy_Combined)),
-            Ratio = Total_Structure/Total_Responses) %>% 
-  mutate(Ratio = (Ratio*100))
-
-
-## Join bar and box data
-Bar_Summary <- Boxplot %>%
-  group_by(Age_Group, Speaker_Group, Structure) %>%
-  summarise(Average = mean(Ratio, na.rm = TRUE), 
-            SD = sd(Ratio, na.rm = TRUE)) %>% 
-  left_join(Bar, Bar_Summary, by = c("Age_Group", "Speaker_Group", "Structure"))
-
-
-# Create bar graph
-Bar_Graph <- Bar_Summary %>% 
-  ggplot(aes(x = Structure, y = Ratio, fill = Age_Group)) + 
-  geom_bar(position = "dodge", color = "black", stat = "identity") +
-  facet_grid(rows = vars(Speaker_Group)) +
-  scale_y_continuous(breaks = seq (0, 100, 20),
-                     limits = c(0, 105)) +
-  geom_text(aes(label = paste0(round(Ratio), "\n(", round(SD), ")")),
-            position = position_dodge(width = .9),
-            vjust = 0.5,
-            size = 2.25,
-            fontface = "bold") +
-  labs(x = "Average (SD) by group and task",
-       y = "Percentage of target responses",
-       fill = "Group") +
-  theme(axis.title = element_text(face = "bold"),
-        plot.title = element_text(hjust = 0.5, face = "bold"),
-        legend.position = "none",
-        strip.text = element_blank(),
-        strip.background = element_blank(),
-        strip.text.x = element_text(face = "bold"))
-
-
-Bar_Graph
-
-
-# Create boxplot
-Violin_Plot <- Boxplot %>% 
-  ggplot(aes(x = Structure, y = Ratio, fill = Age_Group)) + 
-  geom_violin() +
-  facet_grid(rows = vars(Speaker_Group)) +
-  scale_y_continuous(breaks = seq (0, 100, 20),
-                     limits = c(0, 105)) +
-  labs(x = "Distribution by group and task", fill = "Group") +
-  theme(axis.title = element_text(face = "bold"),
-        plot.title = element_text(hjust = 0.5, face = "bold"),
-        legend.title = element_text(face = "bold"),
-        strip.text = element_text(face = "bold"),
-        strip.text.x = element_text(face = "bold"),
-        axis.title.y = element_blank())
-
-Violin_Plot
-
-
-# Join graphs
-# Merge plots
-Combined <- (Bar_Graph + Violin_Plot) + 
-  plot_annotation(title = "Responses by Age, Group, and Structure") & 
-  theme(plot.title = element_text(face = "bold", hjust = 0.5))
-
-Combined
+Plot
 
 ggsave(filename = here("Conferences", "HLS 2026", "HLS 2026 Abstract Summary.pdf"),
-       plot = Combined,
+       plot = Plot,
        device = "pdf",
        width = 6.5,
        height = 4,
