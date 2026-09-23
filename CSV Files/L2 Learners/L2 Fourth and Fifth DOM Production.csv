@@ -23,14 +23,14 @@ H19,1,1,L2L 4th/5th,5,10,129,NA,NA,NA,2,5,NA,4,Russian,No,Yes,Yes,Production,Pro
 H19,1,1,L2L 4th/5th,5,10,129,NA,NA,NA,2,5,NA,4,Russian,No,Yes,Yes,Production,Prod-20,0,NA,NA,NA,NA,NA,atacado la niña,Other,DOM,Feminine,Singular,NA,NA,NA,-1.473341926018678,L2L,4th/5th,7,0.2857142857142857
 H19,1,1,L2L 4th/5th,5,10,129,NA,NA,NA,2,5,NA,4,Russian,No,Yes,Yes,Production,Prod-24,0,NA,NA,NA,NA,NA,atacado las niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,-1.473341926018678,L2L,4th/5th,7,0.2857142857142857
 H19,1,1,L2L 4th/5th,5,10,129,NA,NA,NA,2,5,NA,4,Russian,No,Yes,Yes,Production,Prod-27,0,NA,NA,NA,NA,"DP Gen,Num",calling el niñas,Omission,DOM,Feminine,Plural,NA,NA,NA,-1.473341926018678,L2L,4th/5th,7,0.2857142857142857
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-04,0,NA,NA,NA,NA,NA,se ve su niño,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-08,1,NA,NA,NA,NA,NA,se está viendo la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-12,0,NA,NA,NA,NA,NA,viendo el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-16,1,NA,NA,NA,NA,NA,viendo a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-20,1,NA,NA,NA,NA,NA,está viendo la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-24,1,NA,NA,NA,NA,NA,se ve a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
-H21,1,1,L2L 4th/5th,5,11,NA,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-27,1,NA,NA,NA,NA,NA,se ve a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-04,0,NA,NA,NA,NA,NA,se ve su niño,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-08,1,NA,NA,NA,NA,NA,se está viendo la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-12,0,NA,NA,NA,NA,NA,viendo el niño,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-16,1,NA,NA,NA,NA,NA,viendo a su hijo,NA,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-20,1,NA,NA,NA,NA,NA,está viendo la niña,Omission,DOM,Feminine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-24,1,NA,NA,NA,NA,NA,se ve a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
+H21,1,1,L2L 4th/5th,5,11,139,NA,NA,NA,NA,NA,NA,8,L2 learner,L2,L2,L2,Production,Prod-27,1,NA,NA,NA,NA,NA,se ve a las niñas,NA,DOM,Feminine,Plural,NA,NA,NA,0.7241850144837578,L2L,4th/5th,NA,NA
 H23,1,1,L2L 4th/5th,5,11,137,NA,NA,NA,2,3,NA,8,L2 learner,L2,L2,L2,Production,Prod-01,0,NA,NA,NA,NA,NA,un niño,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,5,0.4
 H23,1,1,L2L 4th/5th,5,11,137,NA,NA,NA,2,3,NA,8,L2 learner,L2,L2,L2,Production,Prod-04,0,NA,NA,NA,NA,NA,su hijo,Omission,DOM,Masculine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,5,0.4
 H23,1,1,L2L 4th/5th,5,11,137,NA,NA,NA,2,3,NA,8,L2 learner,L2,L2,L2,Production,Prod-08,1,NA,NA,NA,NA,NA,ve a su niña,NA,DOM,Feminine,Singular,NA,NA,NA,0.7241850144837578,L2L,4th/5th,5,0.4

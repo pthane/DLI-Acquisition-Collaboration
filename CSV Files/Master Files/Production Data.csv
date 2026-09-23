@@ -50,7 +50,7 @@ H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-20,1,,,,,,cocin�
 H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-21,,,,1,1,DOM,ve a la niña,DP,Clitic,Feminine,Singular,,,
 H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-22,,,,,,,cierran,Regular verb,Subjunctive,,,poner,514285,Irregular
 H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-23,,,,,,,ponga,Omission,Clitic,Masculine,Plural,,,
-H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-24,,,,,,,vean,Omission,DOM,Feminine,Plural,,,
+H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-24,0,,,,,,el perro puede ver los niñas,Omission,DOM,Feminine,Plural,,,
 H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,DOM,ve a las niñas,DP,Clitic,Feminine,Plural,,,
 H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,ve la tv,Indicative,Subjunctive,,,ver,1611795,Irregular
 H02,1,1,L2,8,,175,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-27,0,,,,,,ve las niñas,Omission,DOM,Feminine,Plural,,,
@@ -90,7 +90,7 @@ H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-04,0,,,,,,su hij
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-05,0,0,0,,,,comerlos,Gender/Number,Clitic,Feminine,Singular,,,
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-06,,,,,,,que juegan,Indicative,Subjunctive,,,hacer,2726954,Irregular
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-07,1,1,1,,,,decirlos,,Clitic,Masculine,Plural,,,
-H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-08,1,,,,,,a sus hijos,,DOM,Feminine,Singular,,,
+H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-08,0,,,,,,un hijo o uno de sus hijos hijos,Omission,DOM,Feminine,Singular,,,
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-09,0,0,1,,,,van quitarlos,Gender,Clitic,Feminine,Plural,,,
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-10,1,,,,,,que abran la puerta,,Subjunctive,,,abrir,143932,Regular
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-11,,,,,,,lavar,Omission,Clitic,Masculine,Singular,,,
@@ -111,14 +111,14 @@ H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-25,,,,,,,poner l
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,que miran la tele,Indicative,Subjunctive,,,ver,1611795,Irregular
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-27,0,,,,,,las hijas,Omission,DOM,Feminine,Plural,,,
 H04,1,1,L2,8,,166,,,,1,4,,8,L2 learner,L2,L2,L2,Production,Prod-28,0,,,,,,que el sol se sale,Indicative,Subjunctive,,,salir,334324,Irregular
-H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-01,1,,,,,,su hijo,Omission,DOM,Masculine,Singular,,,
+H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-01,0,,,,,,su hijo,Omission,DOM,Masculine,Singular,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-02,0,,,,,,que ellos escriben,Indicative,Subjunctive,,,escribir,265684,Regular
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-03,,,,,,,romper,Omission,Clitic,Masculine,Singular,,,
-H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-04,,,,,,,su hijo,Omission,DOM,Masculine,Singular,,,
+H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-04,0,,,,,,su hijo,Omission,DOM,Masculine,Singular,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-05,,,,,,,están comiendo,Omission,Clitic,Feminine,Singular,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-06,0,,,,,,que los niños juegan,Regular verb,Subjunctive,,,hacer,2726954,Irregular
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-07,,,,,,,cuenta los números,DP,Clitic,Masculine,Plural,,,
-H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-08,,,,,,,su sobrina y un perro,Omission,DOM,Feminine,Singular,,,
+H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-08,0,,,,,,su sobrina y un perro,Omission,DOM,Feminine,Singular,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-09,,,,1,1,,ponen las chaquetas...,DP,Clitic,Feminine,Plural,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-10,0,,,,,Code 0 for accuracy added -Jen,abrir la puerta,Infinitive,Subjunctive,,,abrir,143932,Regular
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-11,,,,,,,lavar el perro,DP,Clitic,Masculine,Singular,,,
@@ -134,7 +134,7 @@ H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-20,,,,,,,u
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-21,,,,,,,cierran la puerta,DP,Clitic,Feminine,Singular,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-22,0,,,,,,quiere que ponen,Indicative,Subjunctive,,,poner,514285,Irregular
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-23,,,,,,,jugar la música,DP,Clitic,Masculine,Plural,,,
-H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-24,,,,,,,dos niñas,Omission,DOM,Feminine,Plural,,,
+H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-24,0,,,,,,dos niñas,Omission,DOM,Feminine,Plural,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-25,,,,,,,los niños ponen la mascarillas,DP,Clitic,Feminine,Plural,,,
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-26,0,,,,,Code ) for accuracy and infinitive added -Jen,ver televisión,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H05,1,1,Heritage,8,,174,,,,2,6,,8,Heritage Spanish,,,,Production,Prod-27,,,,,,,,Omission,DOM,Feminine,Plural,,,
@@ -326,7 +326,7 @@ H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-16,0,,,,,,la beb
 H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-17,,,,,,,estás comiendo,Omission,Clitic,Feminine,Plural,,,
 H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-18,0,,,,,,comer,Infinitive,Subjunctive,,,comer,213756,Regular
 H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-19,,,,,,,están cocinando,Omission,Clitic,Masculine,Singular,,,
-H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-20,1,,,,,,a niña,,DOM,Feminine,Singular,,,
+H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-20,0,,,,,,la niña,Omission,DOM,Feminine,Singular,,,
 H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-21,,,,,,,cerrar,Omission,Clitic,Feminine,Singular,,,
 H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-22,,,,,,,tener/sacar,Regular verb,Subjunctive,,,poner,514285,Irregular
 H12,1,1,L2,8,,174,,,,2,2,,5,L2 learner,L2,L2,L2,Production,Prod-23,0,,,,,,usando para música,DP,Clitic,Masculine,Plural,,,
@@ -531,6 +531,34 @@ H18,1,1,L2,5,10,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-2
 H18,1,1,L2,5,10,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-26,0,,,,,,miran la TV,Indicative,Subjunctive,,,ver,1611795,Irregular
 H18,1,1,L2,5,10,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-27,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
 H18,1,1,L2,5,10,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-28,0,,,,,,hay sol,Indicative,Subjunctive,,,salir,334324,Irregular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-01,1,,,,,,ve a un niño,,DOM,Masculine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-02,0,,,,,,que escriben,Indicative,Subjunctive,,,escribir,265684,Regular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-03,,,,1,1,,el globo,DP,Clitic,Masculine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-04,1,,,,,,besando a su hijo,,DOM,Masculine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-05,,,,1,1,,compartiendo la pizza,DP,Clitic,Feminine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-06,1,,,,,,que hagan ejercicio,,Subjunctive,,,hacer,2726954,Irregular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-07,,,,,,,contando hasta once,Grammatical alternative,Clitic,Masculine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-08,1,,,,,,ve a un perro y una niña,,DOM,Feminine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-09,,,,1,1,,sacando las chaquetas,DP,Clitic,Feminine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-10,1,,,,,,que abren la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-11,,,,,,,están lavando su perro,Possessive,Clitic,Masculine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-12,1,,,,,,ve a un niño,,DOM,Masculine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-13,,,,1,1,,escuchan a la música,DP,Clitic,Feminine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-14,0,,,,,,que sus amigos salen,Indicative,Subjunctive,,,ir,603647,Irregular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-15,,,,1,1,,están poniendo sus libros,DP,Clitic,Masculine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-16,1,,,,,,viendo a su hijo,,DOM,Masculine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-17,,,,1,1,,están comiendo las galletas,DP,Clitic,Feminine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-18,1,,,,,,que los niños coman,,Subjunctive,,,comer,213756,Regular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-19,,,,,,,cocinando el pescado,DP,Clitic,Masculine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-20,1,,,,,,ve a la niña,,DOM,Feminine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-21,,1,1,,,,la están cerrando,,Clitic,Feminine,Singular,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-22,0,,,,,,que los niños se ponen,Indicative,Subjunctive,,,poner,514285,Irregular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-23,,,,1,1,,con los instrumentos,DP,Clitic,Masculine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-24,1,,,,,,ve a las dos niñas,,DOM,Feminine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-25,,,,1,1,,que están poniendo las mascarillas,DP,Clitic,Feminine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-26,0,,,,,,que se miran la TV,Indicative,Subjunctive,,,ver,1611795,Irregular
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-27,1,,,,,,mirando a las niñas,,DOM,Feminine,Plural,,,
+H18,1,2,L2,8,,130,,,,3,4,,8,"Russian, Lithuanian",No,Yes,Yes,Production,Prod-28,0,,,,,,que se hace soleado,Indicative,Subjunctive,,,salir,334324,Irregular
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-01,0,,,,,,el niño,Omission,DOM,Masculine,Singular,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-02,0,,,,,,es escribir,Other,Subjunctive,,,escribir,265684,Regular
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-03,,,,1,1,,popped el balón,DP,Clitic,Masculine,Singular,,,
@@ -538,7 +566,7 @@ H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-04,,,,,,,la mam
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-05,,,,0,1,,comen el pizza,DP,Clitic,Feminine,Singular,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-06,,,,,,Removed 0 accuracy code -Jen,"trabajo, walking",English,Subjunctive,,,hacer,2726954,Irregular
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-07,,,,,,,they're counting,English,Clitic,Masculine,Plural,,,
-H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-08,,,,,,,pushing,English,DOM,Feminine,Singular,,,
+H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-08,0,,,,,,la abuela es pushing el niño,English,DOM,Feminine,Singular,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-09,,,,,,,taking off,English,Clitic,Feminine,Plural,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-10,,,,,,,es opening,English,Subjunctive,,,abrir,143932,Regular
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-11,,,,,,Extra DOM,limpio al perro,DP,Clitic,Masculine,Singular,,,
@@ -550,11 +578,11 @@ H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-16,0,,,,,,el ni
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-17,,,,0,1,,los galletas,DP,Clitic,Feminine,Plural,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-18,,,,,,Code 0 for accuracy removed,tenía comer,Other,Subjunctive,,,comer,213756,Regular
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-19,,,,0,1,,cooking la pescado,DP,Clitic,Masculine,Singular,,,
-H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-20,0,,,,,,atacado la niña,Other,DOM,Feminine,Singular,,,
+H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-20,,,,,,,el monstruo es atacado la niña,Grammatical alternative,DOM,Feminine,Singular,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-21,,,,,,,closed,English,Clitic,Feminine,Singular,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-22,,,,,,Code 0 for accuracy removed -Jen,tiene las chaquetas,Other,Subjunctive,,,poner,514285,Irregular
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-23,,,,0,1,,veo las instrumentos,DP,Clitic,Masculine,Plural,,,
-H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-24,0,,,,,,atacado las niñas,Omission,DOM,Feminine,Plural,,,
+H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-24,,,,,,,atacado las niñas,Grammatical alternative,DOM,Feminine,Plural,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-25,,,,,,,wearing el mask,English,Clitic,Feminine,Plural,,,
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-26,0,,,,,,veo el TV,Indicative,Subjunctive,,,ver,1611795,Irregular
 H19,1,1,L2,5,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-27,0,,,,,"DP Gen,Num",calling el niñas,Omission,DOM,Feminine,Plural,,,
@@ -582,7 +610,7 @@ H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-20,0,,,,,,una n
 H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-21,,,,1,1,,cerrando la puerta,DP,Clitic,Feminine,Singular,,,
 H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-22,0,,,,,,no tenía las chaquetas,Imperfect indicative,Subjunctive,,,poner,514285,Irregular
 H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-23,,,,1,1,,jugando con los instrumentos,DP,Clitic,Masculine,Plural,,,
-H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-24,1,,,,,,ve a dos niñas,,DOM,Feminine,Plural,,,
+H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-24,,,,,,,el perro es atacado los niños,Grammatical alternative,DOM,Feminine,Plural,,,
 H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-25,,,,1,1,,necesitan las mascarillas,DP,Clitic,Feminine,Plural,,,
 H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-26,0,,,,,,ver a la tele,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H19,1,2,L2,8,10,129,,,,2,5,,4,Russian,No,Yes,Yes,Production,Prod-27,1,,,,,,ve a dos niñas,,DOM,Feminine,Plural,,,
@@ -615,34 +643,34 @@ H20,1,1,Heritage,5,11,138,,,,5,5,,8,Heritage Spanish,,,,Production,Prod-25,0,0,0
 H20,1,1,Heritage,5,11,138,,,,5,5,,8,Heritage Spanish,,,,Production,Prod-26,0,,,,,,quiere ver,Indicative,Subjunctive,,,ver,1611795,Irregular
 H20,1,1,Heritage,5,11,138,,,,5,5,,8,Heritage Spanish,,,,Production,Prod-27,0,,,,,,los niños,Omission,DOM,Feminine,Plural,,,
 H20,1,1,Heritage,5,11,138,,,,5,5,,8,Heritage Spanish,,,,Production,Prod-28,0,,,,,,el sol está,Indicative,Subjunctive,,,salir,334324,Irregular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-01,0,,,,,,un niño,Omission,DOM,Masculine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-02,0,,,,,,escriben,Indicative,Subjunctive,,,escribir,265684,Regular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-03,,,,,,,rompiendo,Omission,Clitic,Masculine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-04,0,,,,,,se ve su niño,Omission,DOM,Masculine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-05,,,,,,,estan comiendo,Omission,Clitic,Feminine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-06,0,,,,,,hacer ejercicio,Infinitive,Subjunctive,,,hacer,2726954,Irregular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-07,,,,,,,contando,Omission,Clitic,Masculine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-08,1,,,,,,se está viendo la niña,Omission,DOM,Feminine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-09,,,,,,POSSESSIVE,sacando sus chaquetas,DP,Clitic,Feminine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-10,0,,,,,,abrir,Infinitive,Subjunctive,,,abrir,143932,Regular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-11,,,,,,,bañando,Omission,Clitic,Masculine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-12,0,,,,,,viendo el niño,Omission,DOM,Masculine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-13,,,,,,,oyendo,Omission,Clitic,Feminine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-14,0,,,,,,ir de su casa,Infinitive,Subjunctive,,,ir,603647,Irregular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-15,,,,,,"error code changed to omission (PP not DP), gen/num codes removed -Jen ",poniendo a la mesa,Omission,Clitic,Masculine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-16,1,,,,,,viendo a su hijo,,DOM,Masculine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-17,,,,,,,comiendo,Omission,Clitic,Feminine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-18,0,,,,,,comen su comida,Indicative,Subjunctive,,,comer,213756,Regular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-19,,,,1,1,,poniendo el pescado,DP,Clitic,Masculine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-20,1,,,,,,está viendo la niña,Omission,DOM,Feminine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-21,,,,,,,cerrando,Omission,Clitic,Feminine,Singular,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-22,0,,,,,,ponen las chaquetas,Indicative,Subjunctive,,,poner,514285,Irregular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-23,1,1,1,,,,usandolos/tocandolos,,Clitic,Masculine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-24,1,,,,,,se ve a las niñas,,DOM,Feminine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,Coded added DP -jen POSSESSIVE,sacando sus mascaras,DP,Clitic,Feminine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,ve la televisión,Indicative,Subjunctive,,,ver,1611795,Irregular
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-27,1,,,,,,se ve a las niñas,,DOM,Feminine,Plural,,,
-H21,1,1,L2,5,11,,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-28,0,,,,,,esta soleado,Indicative,Subjunctive,,,salir,334324,Irregular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-01,0,,,,,,un niño,Omission,DOM,Masculine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-02,0,,,,,,escriben,Indicative,Subjunctive,,,escribir,265684,Regular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-03,,,,,,,rompiendo,Omission,Clitic,Masculine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-04,,,,,,,le da un beso al niño,Grammatical alternative,DOM,Masculine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-05,,,,,,,estan comiendo,Omission,Clitic,Feminine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-06,0,,,,,,hacer ejercicio,Infinitive,Subjunctive,,,hacer,2726954,Irregular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-07,,,,,,,contando,Omission,Clitic,Masculine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-08,1,,,,,,se está viendo la niña,Omission,DOM,Feminine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-09,,,,,,POSSESSIVE,sacando sus chaquetas,DP,Clitic,Feminine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-10,0,,,,,,abrir,Infinitive,Subjunctive,,,abrir,143932,Regular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-11,,,,,,,bañando,Omission,Clitic,Masculine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-12,,,,,,,está jugando con el perro,Grammatical alternative,DOM,Masculine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-13,,,,,,,oyendo,Omission,Clitic,Feminine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-14,0,,,,,,ir de su casa,Infinitive,Subjunctive,,,ir,603647,Irregular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-15,,,,,,"error code changed to omission (PP not DP), gen/num codes removed -Jen ",poniendo a la mesa,Omission,Clitic,Masculine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-16,,,,,,,le da un baño,Grammatical alternative,DOM,Masculine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-17,,,,,,,comiendo,Omission,Clitic,Feminine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-18,0,,,,,,comen su comida,Indicative,Subjunctive,,,comer,213756,Regular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-19,,,,1,1,,poniendo el pescado,DP,Clitic,Masculine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-20,1,,,,,,está viendo la niña,Omission,DOM,Feminine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-21,,,,,,,cerrando,Omission,Clitic,Feminine,Singular,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-22,0,,,,,,ponen las chaquetas,Indicative,Subjunctive,,,poner,514285,Irregular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-23,1,1,1,,,,usandolos/tocandolos,,Clitic,Masculine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-24,0,,,,,,las niñas,Omission,DOM,Feminine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,Coded added DP -jen POSSESSIVE,sacando sus mascaras,DP,Clitic,Feminine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,ve la televisión,Indicative,Subjunctive,,,ver,1611795,Irregular
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-27,0,,,,,,la los niños,Omission,DOM,Feminine,Plural,,,
+H21,1,1,L2,5,11,139,,,,,,,8,L2 learner,L2,L2,L2,Production,Prod-28,0,,,,,,esta soleado,Indicative,Subjunctive,,,salir,334324,Irregular
 H22,1,1,Heritage,5,11,138,,,,4,3,,8,Heritage Spanish,,,,Production,Prod-01,0,,,,,,ve un niño,Omission,DOM,Masculine,Singular,,,
 H22,1,1,Heritage,5,11,138,,,,4,3,,8,Heritage Spanish,,,,Production,Prod-02,0,,,,,,escibir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H22,1,1,Heritage,5,11,138,,,,4,3,,8,Heritage Spanish,,,,Production,Prod-03,,,,,,,pop,English,Clitic,Masculine,Singular,,,
@@ -727,6 +755,34 @@ H23,1,1,L2,5,11,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,,pon
 H23,1,1,L2,5,11,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,quiere ver la TV,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H23,1,1,L2,5,11,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-27,0,,,,,,ve las niñas,Omission,DOM,Feminine,Plural,,,
 H23,1,1,L2,5,11,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-28,0,,,,,,estaba soleado,Indicative,Subjunctive,,,salir,334324,Irregular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-01,1,,,,,,ve al niño,,DOM,Masculine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-02,0,,,,,,quiere que escriben,Indicative,Subjunctive,,,escribir,265684,Regular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-03,,,,1,1,,destruyen el globo,DP,Clitic,Masculine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-04,1,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-05,,,,1,1,,cortar la pizza,DP,Clitic,Feminine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-06,0,,,,,,quiere que hacer ejercicio,Infinitive,Subjunctive,,,hacer,2726954,Irregular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-07,,,,1,1,,cuentan los números,DP,Clitic,Masculine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-08,1,,,,,,ve a la niña,,DOM,Feminine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-09,,,,1,1,,quitan las chaquetas,DP,Clitic,Feminine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-10,0,,,,,,que sus abren la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-11,,,,1,1,,lavar el perro,DP,Clitic,Masculine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-12,1,,,,,,ve a el niño,,DOM,Masculine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-13,,,,1,1,,escuchan la música,DP,Clitic,Feminine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-14,0,,,,,,sus amigos salen,Indicative,Subjunctive,,,ir,603647,Irregular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-15,,,,1,1,,poner los libros,DP,Clitic,Masculine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-16,1,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-17,,,,1,1,,comer las galletas,DP,Clitic,Feminine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-18,1,,,,,,que sus comen,Indicative,Subjunctive,,,comer,213756,Regular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-19,,,,1,1,,cocinan el pescado,DP,Clitic,Masculine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-20,1,,,,,,ve a la niña,,DOM,Feminine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-21,,,,1,1,,cerrar la puerta,DP,Clitic,Feminine,Singular,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-22,0,,,,,,quiere que ponen,Indicative,Subjunctive,,,poner,514285,Irregular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-23,,,,1,1,,tocan los instrumentos,DP,Clitic,Masculine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-24,1,,,,,,ve a las niñas,,DOM,Feminine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,,poner las mascarillas,DP,Clitic,Feminine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,quiere que ven la TV,Indicative,Subjunctive,,,ver,1611795,Irregular
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-27,1,,,,,,ve a sus hijas,,DOM,Feminine,Plural,,,
+H23,1,2,L2,8,,137,,,,2,3,,8,L2 learner,L2,L2,L2,Production,Prod-28,0,,,,,,que está soleado,Indicative,Subjunctive,,,salir,334324,Irregular
 H24,1,1,Heritage,5,11,138,,,,2,3,,8,Heritage Spanish,,,,Production,Prod-01,0,,,,,,su hijo,Omission,DOM,Masculine,Singular,,,
 H24,1,1,Heritage,5,11,138,,,,2,3,,8,Heritage Spanish,,,,Production,Prod-02,0,,,,,,escribe,Indicative,Subjunctive,,,escribir,265684,Regular
 H24,1,1,Heritage,5,11,138,,,,2,3,,8,Heritage Spanish,,,,Production,Prod-03,,,,,,,rompe,Omission,Clitic,Masculine,Singular,,,
@@ -951,6 +1007,34 @@ H28,1,1,L2,5,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-25,,,,
 H28,1,1,L2,5,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-26,0,,,,,,se ven la televisión,Indicative,Subjunctive,,,ver,1611795,Irregular
 H28,1,1,L2,5,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-27,0,,,,,,las niñas,Omission,DOM,Feminine,Plural,,,
 H28,1,1,L2,5,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-28,0,,,,,Added 0 for accuracy-Jen,que el sol se brilla,Regular verb,Subjunctive,,,salir,334324,Irregular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-01,1,,,,,,ve a un niño,,DOM,Masculine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-02,0,,,,,,que sus amigos se escriben,Indicative,Subjunctive,,,escribir,265684,Regular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-03,,,,1,1,,rompiendo el globo,DP,Clitic,Masculine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-04,1,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-05,,,,1,1,,se cortan la pizza,DP,Clitic,Feminine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-06,0,,,,,,que sus hijo se hacen,Indicative,Subjunctive,,,hacer,2726954,Irregular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-07,,,,1,1,,están contando los números,DP,Clitic,Masculine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-08,1,,,,,,ve a una niña,,DOM,Feminine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-09,,,,,,,quitando sus chaquetas,Possessive,Clitic,Feminine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-10,0,,,,,,que se abren,Indicative,Subjunctive,,,abrir,143932,Regular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-11,,,,1,1,,están bañando el perro,,Clitic,Masculine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-12,1,,,,,,ve a un niño,,DOM,Masculine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-13,,,,1,1,,están escuchando la música,DP,Clitic,Feminine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-14,0,,,,,,que salen,Indicative,Subjunctive,,,ir,603647,Irregular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-15,,,,1,1,,los libros,DP,Clitic,Masculine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-16,1,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-17,,,,1,1,,comen a las galletas,DP,Clitic,Feminine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-18,0,,,,,,que se comen la cena,Indicative,Subjunctive,,,comer,213756,Regular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-19,,,,,,,cocinando,Omission,Clitic,Masculine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-20,1,,,,,,ve a una niñas,,DOM,Feminine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-21,,,,1,1,,cierran la puerta,DP,Clitic,Feminine,Singular,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-22,1,,,,,,que los niños ponen,Indicative,Subjunctive,,,poner,514285,Irregular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-23,,,,1,1,,juegan los instrumentos,DP,Clitic,Masculine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-24,1,,,,,,ve a dos niñas,,DOM,Feminine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-25,,,,1,1,,ponen las mascarillas,DP,Clitic,Feminine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-26,0,,,,,,se ven,Indicative,Subjunctive,,,ver,1611795,Irregular
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-27,1,,,,,,ve a dos niñas,,DOM,Feminine,Plural,,,
+H28,1,2,L2,8,,139,,,,2,4,,8,"French, Turkish",Yes,Yes,Yes,Production,Prod-28,0,,,,,,que hay sol,Indicative,Subjunctive,,,salir,334324,Irregular
 H29,1,1,L2,5,11,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-01,0,,,,,,ve el niño,Omission,DOM,Masculine,Singular,,,
 H29,1,1,L2,5,11,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
 H29,1,1,L2,5,11,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-03,,,,,,ENGLISH OBJ,rompe el balloon,DP,Clitic,Masculine,Singular,,,
@@ -999,7 +1083,7 @@ H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-17
 H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-18,1,,,,,,comen ela comida,,Subjunctive,,,comer,213756,Regular
 H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-19,,,,1,1,,comen el pescado,DP,Clitic,Masculine,Singular,,,
 H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-20,0,,,,,,se ve una niña,0,DOM,Feminine,Singular,,,
-H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-21,,,,0,1,,cierran el puerta,"DP, wrong gender",Clitic,Feminine,Singular,,,
+H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-21,,,,0,1,,cierran el puerta,Gender,Clitic,Feminine,Singular,,,
 H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-22,1,,,,,,vistian en los chaquetas**,Different verb,Subjunctive,,,poner,514285,Irregular
 H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-23,,,,1,1,,tocan los instrumentos,DP,Clitic,Masculine,Plural,,,
 H29,1,2,L2,8,,138,,,,3,3,3,7,"Ukrainian, Russian",Yes,Yes,Yes,Production,Prod-24,1,,,,,,él ve a los niños,,DOM,Feminine,Plural,,,
@@ -1206,7 +1290,7 @@ H33,1,2,L2,8,,128,,,,2,4,,3,"Hindi, Marathi",Yes,Yes,Yes,Production,Prod-28,1,,,
 H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-01,0,,,,,,veo un niño,Omission,DOM,Masculine,Singular,,,
 H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-02,0,,,,,,escriban,Infinitive,Subjunctive,,,escribir,265684,Regular
 H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-03,,,,,,,se no tiene aire,Other,Clitic,Masculine,Singular,,,
-H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-04,0,,,,,,veo el este niño,Omission,DOM,Masculine,Singular,,,
+H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-04,,,,,,,da un beso al niño…veo el este niño,Grammatical alternative,DOM,Masculine,Singular,,,
 H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-05,,,,1,1,,comen la pizza,DP,Clitic,Feminine,Singular,,,
 H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-06,0,,,,,,hacen ed. fisica,Indicative,Subjunctive,,,hacer,2726954,Irregular
 H34,1,1,L2,5,11,132,,,,2,4,3,8,Sinhala,Yes,Yes,Yes,Production,Prod-07,,,,,,Se,se cuentan,se,Clitic,Masculine,Plural,,,
@@ -1282,7 +1366,7 @@ H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-20,0,,,,,,la ni
 H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-21,,,,1,1,,cierran la puerta,DP,Clitic,Feminine,Singular,,,
 H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-22,,,,,,,que wear,English,Subjunctive,,,poner,514285,Irregular
 H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-23,,,,,,,play,English,Clitic,Masculine,Plural,,,
-H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-24,,,,,,"Removed 0 for accuracy, DOM not obligatory with el perro -Jen",los niños ven el perro,Omission,DOM,Feminine,Plural,,,
+H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-24,0,,,,,,los niños ven el perro,Word order,DOM,Feminine,Plural,,,
 H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-25,,,,,,,ponen en la cara,Omission,Clitic,Feminine,Plural,,,
 H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-26,0,,,,,,verla,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H35,1,1,L2,5,,130,,,,2,2,,7,Romanian,Yes,Yes,Yes,Production,Prod-27,0,,,,,,los niños,Omission,DOM,Feminine,Plural,,,
@@ -1343,7 +1427,7 @@ H36,1,1,L2,7,,155,,,,2,4,,3,L2 learner,L2,L2,L2,Production,Prod-25,,,,,,,añadir
 H36,1,1,L2,7,,155,,,,2,4,,3,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,ver la televisión,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H36,1,1,L2,7,,155,,,,2,4,,3,L2 learner,L2,L2,L2,Production,Prod-27,1,,,,,,a la niña y la otra niña,,DOM,Feminine,Plural,,,
 H36,1,1,L2,7,,155,,,,2,4,,3,L2 learner,L2,L2,L2,Production,Prod-28,,,,,,Removed 0 for accuracy -Jen,el sol,Other,Subjunctive,,,salir,334324,Irregular
-H37,1,1,L2,8,,174,,,,3,3,,3,L2 learner,L2,L2,L2,Production,Prod-01,0,,,,,Changed accuracy from 1 to 0 -Jen,el persona a la izquierda,,DOM,Masculine,Singular,,,
+H37,1,1,L2,8,,174,,,,3,3,,3,L2 learner,L2,L2,L2,Production,Prod-01,,,,,,Changed accuracy from 1 to 0 -Jen,el persona a la izquierda,Grammatical alternative,DOM,Masculine,Singular,,,
 H37,1,1,L2,8,,174,,,,3,3,,3,L2 learner,L2,L2,L2,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H37,1,1,L2,8,,174,,,,3,3,,3,L2 learner,L2,L2,L2,Production,Prod-03,1,1,1,,,,lo golpea,,Clitic,Masculine,Singular,,,
 H37,1,1,L2,8,,174,,,,3,3,,3,L2 learner,L2,L2,L2,Production,Prod-04,0,,,,,,dar niño,Omission,DOM,Masculine,Singular,,,
@@ -1430,7 +1514,7 @@ H39,1,1,L2,7,,159,,,,4,3,,8,L2 learner,L2,L2,L2,Production,Prod-28,0,,,,,,esta s
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-01,1,,,,,,el niño,Omission,DOM,Masculine,Singular,,,
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-02,0,,,,,,escribir,infinitive,Subjunctive,,,escribir,265684,Regular
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-03,,,,,,,romper,DP,Clitic,Masculine,Singular,,,
-H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-04,0,,,,,,niño,,DOM,Masculine,Singular,,,
+H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-04,,,,,,,niño está,Grammatical alternative,DOM,Masculine,Singular,,,
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-05,,,,,,,comen la pizza,DP,Clitic,Feminine,Singular,,,
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-06,0,,,,,,jugar,Infinitive,Subjunctive,,,hacer,2726954,Irregular
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-07,,,,1,1,,cuentan los numeros,DP,Clitic,Masculine,Plural,,,
@@ -1455,14 +1539,14 @@ H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-25,,,,,,,ponen,,
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-26,0,,,,,,ver TV,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-27,0,,,,,,los dos niños,,DOM,Feminine,Plural,,,
 H40,1,1,L2,7,,155,,,,4,4,,8,Sinhala,Yes,Yes,Yes,Production,Prod-28,0,,,,,,que es soleado afuera,Indicative,Subjunctive,,,salir,334324,Irregular
-H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-01,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-01,,,,,,,uhm en la izquierda,Grammatical alternative,DOM,Masculine,Singular,,,
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-02,0,,,,,,puede ver un niño,Infinitive,Subjunctive,,,escribir,265684,Regular
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-03,,,,,,,destruir,Omission,Clitic,Masculine,Singular,,,
-H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-04,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-04,,,,,,,con su niña,Grammatical alternative,DOM,Masculine,Singular,,,
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-05,,,,,,,comiendo,Omission,Clitic,Feminine,Singular,,,
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-06,0,,,,,,que se hacen ejercicio,Other,Subjunctive,,,hacer,2726954,Irregular
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-07,,,,,,,cuentan,Omission,Clitic,Masculine,Plural,,,
-H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-08,0,,,,,,,Omission,DOM,Feminine,Singular,,,
+H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-08,,,,,,,con su niña y el perro,Grammatical alternative,DOM,Feminine,Singular,,,
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-09,,,,1,1,,poner las chaquetas,DP,Clitic,Feminine,Plural,,,
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-10,0,,,,,,quiere que se abre la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
 H41,1,1,L2,5,,139,,,,2,1,,7,L2 learner,L2,L2,L2,Production,Prod-11,,,,1,1,,laven el perro,DP,Clitic,Masculine,Singular,,,
@@ -1634,7 +1718,7 @@ H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-08,1,,,,,,
 H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-09,,,,,,BN,puser jacket,BN,Clitic,Feminine,Plural,,,
 H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-10,0,,,,,,cerrar la puerta ,Infinitive,Subjunctive,,,abrir,143932,Regular
 H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-11,,,,,,,bañar,Omission,Clitic,Masculine,Singular,,,
-H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-12,0,,,,,,,,DOM,Masculine,Singular,,,
+H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-12,,,,,,,el perro lamerse y niño,Grammatical alternative,DOM,Masculine,Singular,,,
 H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-13,,,,1,1,,atencion para la musica,DP,Clitic,Feminine,Singular,,,
 H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-14,0,,,,,English ,salin (leave),Infinitive,Subjunctive,,,ir,603647,Irregular
 H44,1,1,Heritage,5,,137,,,,2,6,,4,Heritage Spanish,,,,Production,Prod-15,,,,1,1,,putting los libros,DP,Clitic,Masculine,Plural,,,
@@ -1662,7 +1746,7 @@ H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-08,0,,,,,
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-09,,,,,,Se ,se. ponen,Omission,Clitic,Feminine,Plural,,,
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-10,1,,,,,,que abran la puerta,,Subjunctive,,,abrir,143932,Regular
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-11,,,,,,Se ,se lavan,Omission,Clitic,Masculine,Singular,,,
-H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-12,,,,,,,,English,DOM,Masculine,Singular,,,
+H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-12,0,,,,,,su owner,Omission,DOM,Masculine,Singular,,,
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-13,,,,,,Se ,se escucha,Omission,Clitic,Feminine,Singular,,,
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-14,0,,,,,,qye ir afuera,Infinitive,Subjunctive,,,ir,603647,Irregular
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-15,,,,,,Se ,se. ponen en la mesa,Omission,Clitic,Masculine,Plural,,,
@@ -1679,10 +1763,10 @@ H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-25,1,0,1,
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-26,0,,,,,,que usan la televisión,Indicative,Subjunctive,,,ver,1611795,Irregular
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-27,0,,,,,,,,DOM,Feminine,Plural,,,
 H45,1,1,Heritage ,5,,136,,,,4,4,,3,Heritage Spanish,,,,Production,Prod-28,,,,,,Removed 0 for accuracy; no verb -Jen,la sol,,Subjunctive,,,salir,334324,Irregular
-H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-01,0,,,,,,,,DOM,Masculine,Singular,,,
+H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-01,,,,,,,el papá es la persona que habla con el niño,,DOM,Masculine,Singular,,,
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-02,,,,,,Removed 0 for accuracy; English -Jen,write un papel,,Subjunctive,,,escribir,265684,Regular
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-03,,,,,,Spanish object with English determiner,pops the globo,DP,Clitic,Masculine,Singular,,,
-H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-04,0,,,,,,,,DOM,Masculine,Singular,,,
+H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-04,,,,,,,la mamá que es su uhm niño en la cheeck,Grammatical alternative,DOM,Masculine,Singular,,,
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-05,,,,1,1,,comer la. pizza,DP,Clitic,Feminine,Singular,,,
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-06,,,,,,Removed 0 for accuracy; English verb _Jen,la papá exercise,,Subjunctive,,,hacer,2726954,Irregular
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-07,,,,,,Code for DP removed -Jen possessive,cantar sus numeros,DP,Clitic,Masculine,Plural,,,
@@ -1705,7 +1789,7 @@ H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-23,,,,,,BN
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-24,0,,,,,,,,DOM,Feminine,Plural,,,
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-25,,,,,,english verb,put on,English,Clitic,Feminine,Plural,,,
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-26,,,,,,Removed 0 for accuracy English -Jen,watching tele,,Subjunctive,,,ver,1611795,Irregular
-H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-27,0,,,,,,,,DOM,Feminine,Plural,,,
+H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-27,,,,,,,la mamá es en la teléfono con sus nietas,Grammatical alternative,DOM,Feminine,Plural,,,
 H46,1,1,Heritage,5,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-28,,,,,,"Removed 0 for accuracy, no verb -Jen",la sol,,Subjunctive,,,salir,334324,Irregular
 H46,1,2,Heritage,8,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-01,1,,,,,,ve a un chico,,DOM,Masculine,Singular,,,
 H46,1,2,Heritage,8,,146,,,,2,3,,6,Heritage Spanish,,,,Production,Prod-02,0,,,,,,escribe,Indicative ,Subjunctive,,,escribir,265684,Regular
@@ -1814,7 +1898,7 @@ H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-11,,,,,,ENGLISH 
 H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-12,0,,,,,,,Omission,DOM,Masculine,Singular,,,
 H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-13,,,,,,english object,poniendo in earbuds,English,Clitic,Feminine,Singular,,,
 H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-15,,,,,,,poniendo en mesa,Omission,Clitic,Masculine,Plural,,,
-H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-16,1,,,,,,,,DOM,Masculine,Singular,,,
+H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-16,0,,,,,,la bebé,,DOM,Masculine,Singular,,,
 H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-17,,,,,,,comiendo,Omission,Clitic,Feminine,Plural,,,
 H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-19,,,,,,BN,poniendo fuego,BN,Clitic,Masculine,Singular,,,
 H49,1,1,L2,2,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-20,0,,,,,,,Omission,DOM,Feminine,Singular,,,
@@ -1851,12 +1935,12 @@ H49,1,2,L2,5,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,,poner
 H49,1,2,L2,5,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,poner la televisión,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H49,1,2,L2,5,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-27,1,,,,,,a los niños,,DOM,Feminine,Plural,,,
 H49,1,2,L2,5,8,89,,,,4,5,,6,L2 learner,L2,L2,L2,Production,Prod-28,0,,,,,,está brillante,Infinitive,Subjunctive,,,salir,334324,Irregular
-H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-01,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-01,,,,,,,el papá puede ver el niño,,DOM,Masculine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-03,,,,1,1,,se pica. a los globos y se estalla,DP,Clitic,Masculine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-04,0,,,,,,,Omission,DOM,Masculine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-05,,,,0,1,,se comer el pizza,DP,Clitic,Feminine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-07,,,,1,1,,se dice los numeros en la cabeza,DP,Clitic,Masculine,Plural,,,
-H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-08,1,,,,,,,,DOM,Feminine,Singular,,,
+H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-08,0,,,,,,es pushando el niña,English verb,DOM,Feminine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-09,,,,1,1,,se pontar las chaquetas,DP,Clitic,Feminine,Plural,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-11,,,,0,1,,se limpia la perro,DP,Clitic,Masculine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-12,0,,,,,,,Omission,DOM,Masculine,Singular,,,
@@ -1868,7 +1952,7 @@ H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-19,,,,1,1,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-20,0,,,,,,,Omission,DOM,Feminine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-21,,,,1,1,,la. se. cierra la puerta,DP,Clitic,Feminine,Singular,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-23,,,,1,1,,se juegan con los. instrumentos,DP,Clitic,Masculine,Plural,,,
-H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-24,0,,,,,,,Omission,DOM,Feminine,Plural,,,
+H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-24,,,,,,,el perro es saltando y es muy sucio,Grammatical alternative,DOM,Feminine,Plural,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-25,,,,1,1,,se pontar las mascarillas,DP,Clitic,Feminine,Plural,,,
 H50,1,1,Heritage,2,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-27,0,,,,,,,Omission,DOM,Feminine,Plural,,,
 H50,1,2,Heritage,5,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-01,0,,,,,,es mirando enfrente,Omission,DOM,Masculine,Singular,,,
@@ -1901,7 +1985,7 @@ H50,1,2,Heritage,5,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-27,,,,,,,e
 H50,1,2,Heritage,5,8,96,,,,3,3,,3,Heritage Spanish,,,,Production,Prod-28,0,,,,,,hay sol,Indicative,Subjunctive,,,salir,334324,Irregular
 H51,1,1,L2,2,8,100,,,,2,6,,3,L2 learner,L2,L2,L2,Production,Prod-01,0,,,,,,,Omission,DOM,Masculine,Singular,,,
 H51,1,1,L2,2,8,100,,,,2,6,,3,L2 learner,L2,L2,L2,Production,Prod-03,0,,,,,english verb,el globo pop,English,Clitic,Masculine,Singular,,,
-H51,1,1,L2,2,8,100,,,,2,6,,3,L2 learner,L2,L2,L2,Production,Prod-04,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H51,1,1,L2,2,8,100,,,,2,6,,3,L2 learner,L2,L2,L2,Production,Prod-04,,,,,,,la mamá que es el niño,Grammatical alternative,DOM,Masculine,Singular,,,
 H51,1,1,L2,2,8,100,,,,2,6,,3,L2 learner,L2,L2,L2,Production,Prod-05,,,,0,1,,el niño y niñas comer el pizza,DP,Clitic,Feminine,Singular,,,
 H51,1,1,L2,2,8,100,,,,2,6,,3,L2 learner,L2,L2,L2,Production,Prod-07,,,,1,0,,el  niños se dijo el numeros,DP,Clitic,Masculine,Plural,,,
 H51,1,1,L2,2,8,100,,,,2,6,,3,L2 learner,L2,L2,L2,Production,Prod-08,0,,,,,,,Omission,DOM,Feminine,Singular,,,
@@ -1983,27 +2067,27 @@ H55,1,1,L2,2,8,102,,,,1,5,,3,L2 learner,L2,L2,L2,Production,Prod-19,,,,,,,estan 
 H55,1,1,L2,2,8,102,,,,1,5,,3,L2 learner,L2,L2,L2,Production,Prod-21,,,,1,1,english verb,opening la puerta,DP,Clitic,Feminine,Singular,,,
 H55,1,1,L2,2,8,102,,,,1,5,,3,L2 learner,L2,L2,L2,Production,Prod-23,,,,,,CANT READ,estan jugando los. ???,DP,Clitic,Masculine,Plural,,,
 H55,1,1,L2,2,8,102,,,,1,5,,3,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,english verb,estan putting on las mascraillas,DP,Clitic,Feminine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-01,0,,,,,,,Omission,DOM,Masculine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-03,,,,,,english verb,popping it,English,Clitic,Masculine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-04,0,,,,,,,Omission,DOM,Masculine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-05,,,,,,,comer,Omission,Clitic,Feminine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-07,,,,,,english verb,counting,English,Clitic,Masculine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-08,0,,,,,,,Omission,DOM,Feminine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-09,,,,,,english verb,putting on,English,Clitic,Feminine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-11,,,,,,english verb,giving him a bath,English,Clitic,Masculine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-12,0,,,,,,,Omission,DOM,Masculine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-13,,,,,,,not sure,English,Clitic,Feminine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-15,,,,,,english verb,putting on shelves,English,Clitic,Masculine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-16,0,,,,,,,Omission,DOM,Masculine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-17,,,,,,,comer,Omission,Clitic,Feminine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-19,,,,,,english verb,heating it,English,Clitic,Masculine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-20,0,,,,,,,Omission,DOM,Feminine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-21,,,,,,english verb,choosing it,English,Clitic,Feminine,Singular,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-23,,,,,,english verb,they're playing,English,Clitic,Masculine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-24,0,,,,,,,Omission,DOM,Feminine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-25,,,,,,english verb,putting it on,English,Clitic,Feminine,Plural,,,
-H56,1,1,L2,2,8,53,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-27,0,,,,,,,Omission,DOM,Feminine,Plural,,,
-H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-01,1,,,,,,,,DOM,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-01,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-03,,,,,,english verb,popping it,English,Clitic,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-04,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-05,,,,,,,comer,Omission,Clitic,Feminine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-07,,,,,,english verb,counting,English,Clitic,Masculine,Plural,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-08,0,,,,,,,Omission,DOM,Feminine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-09,,,,,,english verb,putting on,English,Clitic,Feminine,Plural,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-11,,,,,,english verb,giving him a bath,English,Clitic,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-12,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-13,,,,,,,not sure,English,Clitic,Feminine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-15,,,,,,english verb,putting on shelves,English,Clitic,Masculine,Plural,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-16,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-17,,,,,,,comer,Omission,Clitic,Feminine,Plural,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-19,,,,,,english verb,heating it,English,Clitic,Masculine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-20,0,,,,,,,Omission,DOM,Feminine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-21,,,,,,english verb,choosing it,English,Clitic,Feminine,Singular,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-23,,,,,,english verb,they're playing,English,Clitic,Masculine,Plural,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-24,0,,,,,,,Omission,DOM,Feminine,Plural,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-25,,,,,,english verb,putting it on,English,Clitic,Feminine,Plural,,,
+H56,1,1,L2,2,8,101,,,,3,6,,3,"Gujarathi, French, Malayalam",Yes,Yes,Yes,Production,Prod-27,0,,,,,,,Omission,DOM,Feminine,Plural,,,
+H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-01,,,,,,,[Long response],Grammatical alternative,DOM,Masculine,Singular,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-03,,,,,,what is Other?,se boom,Other,Clitic,Masculine,Singular,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-04,1,,,,,,,Omission,DOM,Masculine,Singular,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-05,,,,,,,esta comiendo pizza,BN,Clitic,Feminine,Singular,,,
@@ -2017,7 +2101,7 @@ H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-15,,,,1,1,,necesi
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-16,0,,,,,,,Omission,DOM,Masculine,Singular,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-17,,,,1,1,,comiendo las galletas,DP,Clitic,Feminine,Plural,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-19,,,,1,1,,comer el pescado,DP,Clitic,Masculine,Singular,,,
-H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-20,1,,,,,,,,DOM,Feminine,Singular,,,
+H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-20,0,,,,,,quiere comer el niña,Omission,DOM,Feminine,Singular,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-21,,,,,,WHAT IS Other?,se boom,Other,Clitic,Feminine,Singular,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-23,,,,0,1,,se juega con el muscia,DP,Clitic,Masculine,Plural,,,
 H57,1,1,L2,2,,102,,,,,,3,4,L2 learner,L2,L2,L2,Production,Prod-24,,,,,,,,Other,DOM,Feminine,Plural,,,
@@ -2226,7 +2310,7 @@ H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-11,,,,1,1,,está
 H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-12,0,,,,,,,Omission,DOM,Masculine,Singular,,,
 H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-13,,,,1,1,,están escuchando a la música ,DP,Clitic,Feminine,Singular,,,
 H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-15,,,,1,1,,poniendo los libros en la mesa,DP,Clitic,Masculine,Plural,,,
-H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-16,1,,,,,,,,DOM,Masculine,Singular,,,
+H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-16,0,,,,,,la mamá está limpiando el su hijo,Omission,DOM,Masculine,Singular,,,
 H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-17,,,,1,1,,buscar las galletas y comer las galletas,DP,Clitic,Feminine,Plural,,,
 H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-19,,,,1,1,,ella está cocinando el pescado,DP,Clitic,Masculine,Singular,,,
 H62,1,1,L2,2,,92,,,,1,5,3,3,L2 learner,L2,L2,L2,Production,Prod-20,0,,,,,,,Omission,DOM,Feminine,Singular,,,
@@ -2242,7 +2326,7 @@ H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Ye
 H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-05,0,0,1,,,,lo están comiendo ,DP,Clitic,Feminine,Singular,,,
 H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-06,1,,,,,,hagan ejercicio,Infinitive,Subjunctive,,,hacer,2726954,Irregular
 H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-07,,,,,,Clitic codes removed -Jen,están contando ,Omission,Clitic,Masculine,Plural,,,
-H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-08,0,,,,,,,Omission,DOM,Feminine,Singular,,,
+H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-08,0,,,,,,el perro porque,Word order,DOM,Feminine,Singular,,,
 H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-09,,,,,,Clitic codes removed -Jen,están poniendo ,Omission,Clitic,Feminine,Plural,,,
 H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-10,0,,,,,,dejar abierto,Infinitive,Subjunctive,,,abrir,143932,Regular
 H63,1,1,L2,7,13,156,,,,2,4,7,7,"Mandarin, Cantonese, Malay, Romanian",Yes,Yes,Yes,Production,Prod-11,1,1,1,,,Codes changed -Jen,lo están lavando,Omission,Clitic,Masculine,Singular,,,
@@ -2282,14 +2366,14 @@ H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-16,0,,,,,,,Om
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-17,,,,1,1,,comen las galletas,DP,Clitic,Feminine,Plural,,,
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-18,0,,,,,,comen,Indicative,Subjunctive,,,comer,213756,Regular
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-19,,,,1,1,,cocinan el pescado ,DP,Clitic,Masculine,Singular,,,
-H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-20,1,,,,,,,Wrong word order*,DOM,Feminine,Singular,,,
+H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-20,1,,,,,,la niña mujer ve al monstruo,Word order,DOM,Feminine,Singular,,,
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-21,,,,1,1,,cerrar la puerta,DP,Clitic,Feminine,Singular,,,
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-22,0,,,,,,se ponen las chaquetas,Indicative,Subjunctive,,,poner,514285,Irregular
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-23,,,,1,1,Extra a,tocan a los instrumentos,DP,Clitic,Masculine,Plural,,,
-H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-24,1,,,,,,,Wrong word order*,DOM,Feminine,Plural,,,
+H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-24,1,,,,,,,Word order,DOM,Feminine,Plural,,,
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-25,,,,1,1,Extra a,se ponen a las mascarillas ,DP,Clitic,Feminine,Plural,,,
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-26,1,,,,,,vean a la TV,,Subjunctive,,,ver,1611795,Irregular
-H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-27,1,,,1,1,,las niñas ve a la mamá,Wrong word order*,DOM,Feminine,Plural,,,
+H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-27,1,,,1,1,,las niñas ve a la mamá,Word order,DOM,Feminine,Plural,,,
 H64,1,1,Heritage,7,13,,,,,,,,8,Heritage Spanish,,,,Production,Prod-28,0,,,,,,hay sol,Indicative,Subjunctive,,,salir,334324,Irregular
 H65,1,1,Heritage,7,13,164,,,,2,3,2,8,Heritage Spanish,,,,Production,Prod-01,1,,,,,,,,DOM,Masculine,Singular,,,
 H65,1,1,Heritage,7,13,164,,,,2,3,2,8,Heritage Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
@@ -2483,26 +2567,26 @@ H71,1,1,L2,2,7,94,,,,1,4,2,7,L2 learner,L2,L2,L2,Production,Prod-23,1,1,1,,,,los
 H71,1,1,L2,2,7,94,,,,1,4,2,7,L2 learner,L2,L2,L2,Production,Prod-24,,,,,,,,Other,DOM,Feminine,Plural,,,
 H71,1,1,L2,2,7,94,,,,1,4,2,7,L2 learner,L2,L2,L2,Production,Prod-25,0,0,1,,,,los van a tener en la boca,Gender,Clitic,Feminine,Plural,,,
 H71,1,1,L2,2,7,94,,,,1,4,2,7,L2 learner,L2,L2,L2,Production,Prod-27,,,,,,,,Other,DOM,Feminine,Plural,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-01,,,,,,,ve una niña,Omission,DOM,Masculine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-03,1,1,1,,,,lo sueltan y se va,,Clitic,Masculine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-01,0,,,,,,ve una niña,Omission,DOM,Masculine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-03,,1,1,,,,lo sueltan y se va,,Clitic,Masculine,Singular,,,
 H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-04,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-05,0,0,1,,,,están contándolo,Gender,Clitic,Feminine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-07,0,0,1,,,,las están,Gender,Clitic,Masculine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-05,,0,1,,,,están contándolo,Gender,Clitic,Feminine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-07,,0,1,,,,las están,Gender,Clitic,Masculine,Plural,,,
 H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-09,0,0,1,,,,los están quitando,Gender,Clitic,Feminine,Plural,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-11,1,1,1,,,,están lavándolo,,Clitic,Masculine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-09,,0,1,,,,los están quitando,Gender,Clitic,Feminine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-11,,1,1,,,,están lavándolo,,Clitic,Masculine,Singular,,,
 H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-12,1,,,,,,al niño,,DOM,Masculine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-13,1,1,1,,,,están escuchándola,,Clitic,Feminine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-15,1,1,1,,,,los están poniendo,,Clitic,Masculine,Plural,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-16,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-17,1,1,1,,,,están decorándolas,,Clitic,Feminine,Plural,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-19,1,1,1,,,,están haciéndolo,,Clitic,Masculine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-20,0,,,,,,la niña,Omission,DOM,Feminine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-13,,1,1,,,,están escuchándola,,Clitic,Feminine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-15,,1,1,,,,los están poniendo,,Clitic,Masculine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-16,1,,,,,,a su hijo,Grammatical alternative,DOM,Masculine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-17,,1,1,,,,están decorándolas,,Clitic,Feminine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-19,,1,1,,,,están haciéndolo,,Clitic,Masculine,Singular,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-20,,,,,,,el monstruo es esta persona,Grammatical alternative,DOM,Feminine,Singular,,,
 H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-21,,,,,,,están cerrando la puerta,DP,Clitic,Feminine,Singular,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-23,1,1,1,,,,los están jugando,,Clitic,Masculine,Plural,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-24,1,,,,,,ve a las niñas,,DOM,Feminine,Plural,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-25,0,1,0,,,,están poniéndola,Number ,Clitic,Feminine,Plural,,,
-H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-27,0,,,,,,las niñas,Omission,DOM,Feminine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-23,,1,1,,,,los están jugando,,Clitic,Masculine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-24,1,,,,,,ve a las niñas,Grammatical alternative,DOM,Feminine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-25,,1,0,,,,están poniéndola,Number ,Clitic,Feminine,Plural,,,
+H72,1,1,L2,2,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-27,,,,,,,la mamá es esta persona,Grammatical alternative,DOM,Feminine,Plural,,,
 H72,1,2,L2,5,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-01,1,,,,,,ve a su niño,,DOM,Masculine,Singular,,,
 H72,1,2,L2,5,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-02,0,,,,,,que ella puede escuchar,Indicative,Subjunctive,,,escribir,265684,Regular
 H72,1,2,L2,5,7,94,,,,3,4,2,8,Russian,No,Yes,Yes,Production,Prod-03,,1,1,,,,lo está rompiendo,,Clitic,Masculine,Singular,,,
@@ -2658,11 +2742,11 @@ H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-12,0,,,,,,,Omi
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-13,,,,1,1,,escucha a la música,DP,Clitic,Feminine,Singular,,,
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-14,0,,,,,,quiere que ir ,Infinitive,Subjunctive,,,ir,603647,Irregular
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-15,,,,1,1,,guardar los libros ,DP,Clitic,Masculine,Plural,,,
-H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-16,0,,,,,,,Omission,DOM,Masculine,Singular,,,
+H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-16,,,,,,,[unintelligible],Unintelligible,DOM,Masculine,Singular,,,
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-17,,,,1,1,,comer las galletas,DP,Clitic,Feminine,Plural,,,
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-18,0,,,,,,comer,Infinitive,Subjunctive,,,comer,213756,Regular
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-19,,,,1,1,,cocinar el pez,DP,Clitic,Masculine,Singular,,,
-H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-20,0,,,,,,,Omission,DOM,Feminine,Singular,,,
+H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-20,,,,,,,[unintelligible],Unintelligible,DOM,Feminine,Singular,,,
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-21,,,,1,1,,abrir y cerra la puerta,DP,Clitic,Feminine,Singular,,,
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-22,0,,,,,,se pone,Indicative,Subjunctive,,,poner,514285,Irregular
 H75,1,1,L2,4,10,120,,,,2,2,,8,L2 learner,L2,L2,L2,Production,Prod-23,,,,,,,se usar para hacer musica,se,Clitic,Masculine,Plural,,,
@@ -2778,7 +2862,7 @@ H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-20,0,,,,,,,Omi
 H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-21,0,,,,,,está ----,Other,Clitic,Feminine,Singular,,,
 H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-22,0,,,,,,se ponen las,Indicative,Subjunctive,,,poner,514285,Irregular
 H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-23,,,,1,1,,está jugaron los instrumentos,DP,Clitic,Masculine,Plural,,,
-H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-24,0,,,,,,,Omission,DOM,Feminine,Plural,,,
+H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-24,,,,,,,los niñas están tienen mucho lodo,Grammatical alternative,DOM,Feminine,Plural,,,
 H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-25,,,,1,1,,están poniendo las mascarillas,DP,Clitic,Feminine,Plural,,,
 H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-26,0,,,,,,que ver un episodio,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H78,1,1,L2,4,10,123,,,,2,4,,8,L2 learner,L2,L2,L2,Production,Prod-27,0,,,,,,,Omission,DOM,Feminine,Plural,,,
@@ -2802,14 +2886,14 @@ H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-16,0,,,,,,mamá baña un 
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-17,,,,,,,they're eating it,English,Clitic,Feminine,Plural,,,
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-18,,,,,,,pollo,No verb,Subjunctive,,,comer,213756,Regular
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-19,,,,,,,the fish,English,Clitic,Masculine,Singular,,,
-H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-20,,,,,,,scaring un niña,Codeswitched,DOM,Feminine,Singular,,,
+H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-20,0,,,,,,it's like scaring un niña,Omission,DOM,Feminine,Singular,,,
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-21,,,,,,,los niños entrar,Unrelated,Clitic,Feminine,Singular,,,
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-22,0,,,,,,remuvar chaquetas,Infinitive,Subjunctive,,,poner,514285,Irregular
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-23,,,,,,,they're playing the instruments,English,Clitic,Masculine,Plural,,,
-H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-24,,,,,,,dirty niños dresses,English,DOM,Feminine,Plural,,,
+H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-24,0,,,,,,perro dirty un niña's dress,English verb,DOM,Feminine,Plural,,,
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-25,,,,,,,put on a mask,English,Clitic,Feminine,Plural,,,
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-26,0,,,,,,watch TV,English,Subjunctive,,,ver,1611795,Irregular
-H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-27,,,,,,,uñas niñas calling,Codeswitched,DOM,Feminine,Plural,,,
+H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-27,0,,,,,,niñas…they're facetiming,Omission,DOM,Feminine,Plural,,,
 H79,2,1,L2,7,,157,,,,,,,,L2 Learner,,,,Production,Prod-28,,,,,,,Sofía que bueno,Codeswitched,Subjunctive,,,salir,334324,Irregular
 H80,2,1,Heritage,7,,156,,,,,,,,Heritage Spanish,,,,Production,Prod-01,0,,,,,,el niño,Omission,DOM,Masculine,Singular,,,
 H80,2,1,Heritage,7,,156,,,,,,,,Heritage Spanish,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
@@ -2878,11 +2962,11 @@ H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-08,1,,,,,,ve 
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-09,,,,,,,las niñas se visten,Se,Clitic,Feminine,Plural,,,
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-10,0,,,,,,abren la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-11,,,,1,1,,están lavando el perro,,Clitic,Masculine,Singular,,,
-H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-12,1,,,,,,a el niño,,DOM,Masculine,Singular,,,
+H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-12,0,,,,,,el niño,,DOM,Masculine,Singular,,,
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-13,,,,1,1,,escuchando la música,DP,Clitic,Feminine,Singular,,,
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-14,0,,,,,,exitan/salen,Indicative,Subjunctive,,,ir,603647,Irregular
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-15,,,,1,1,,ponen los libros encima de la mesa,DP,Clitic,Masculine,Plural,,,
-H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-16,1,,,,,,ve a su bebé,,DOM,Masculine,Singular,,,
+H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-16,0,,,,,,la mamá ve su bebé,,DOM,Masculine,Singular,,,
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-17,,1,1,,,,poniéndolas en sus caras,,Clitic,Feminine,Plural,,,
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-18,0,,,,,,comen,Indicative,Subjunctive,,,comer,213756,Regular
 H82,2,1,Heritage,6,,140,,,,,,,,Heritage Spanish,,,,Production,Prod-19,,,,1,1,,cocinando el pescado,DP,Clitic,Masculine,Singular,,,
@@ -2979,7 +3063,7 @@ H86,2,1,L2,2,,92,,,,,,,,,,,,Production,Prod-25,,,,,,,está poniendo,Omission,Cli
 H86,2,1,L2,2,,92,,,,,,,,,,,,Production,Prod-26,1,,,,,,quiere que vea los niños,,Subjunctive,,,ver,1611795,Irregular
 H86,2,1,L2,2,,92,,,,,,,,,,,,Production,Prod-27,1,,,,,,los ve a los niñas,,DOM,Feminine,Plural,,,
 H86,2,1,L2,2,,92,,,,,,,,,,,,Production,Prod-28,0,,,,,,quiere la luz del sol,No verb,Subjunctive,,,salir,334324,Irregular
-H87,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-01,1,,,,,,a la niño,,DOM,Masculine,Singular,,,
+H87,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-01,0,,,,,,el papá ve uhm la niño,,DOM,Masculine,Singular,,,
 H87,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H87,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-03,,,,1,1,,popear el globo,DP,Clitic,Masculine,Singular,,,
 H87,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-04,0,,,,,,su hijo,Omission,DOM,Masculine,Singular,,,
@@ -3018,7 +3102,7 @@ H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-08,1,,,,,,está viendo a la n
 H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-09,,,,0,1,,están tocando los chaquetas,DP,Clitic,Feminine,Plural,,,
 H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-10,0,,,,,,abrir el puerta,Indicative,Subjunctive,,,abrir,143932,Regular
 H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-11,,,,1,1,,está bathing el perro,DP,Clitic,Masculine,Singular,,,
-H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-12,0,,,,,Subject/object reversed,el niño está viendo al perro y dando amor,S/O reversed,DOM,Masculine,Singular,,,
+H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-12,0,,,,,Subject/object reversed,el niño está viendo al perro y dando amor,Word order,DOM,Masculine,Singular,,,
 H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-13,,,,1,1,,está escuchando a la música,DP,Clitic,Feminine,Singular,,,
 H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-14,0,,,,,,que los niños salida a la puerta,Participle,Subjunctive,,,ir,603647,Irregular
 H88,2,1,Heritage,3,,109,,,,,,,,,,,,Production,Prod-15,,,,1,1,,está poniendo los libros en una mesa,,Clitic,Masculine,Plural,,,
@@ -3063,34 +3147,34 @@ H89,2,1,L2,4,,120,,,,,,,,,,,,Production,Prod-25,,,,1,1,,se ponen las mascarillas
 H89,2,1,L2,4,,120,,,,,,,,,,,,Production,Prod-26,0,,,,,,que los niños ven la tele,Indicative,Subjunctive,,,ver,1611795,Irregular
 H89,2,1,L2,4,,120,,,,,,,,,,,,Production,Prod-27,1,,,,,,las ve a las niñas,,DOM,Feminine,Plural,,,
 H89,2,1,L2,4,,120,,,,,,,,,,,,Production,Prod-28,0,,,,,,que está soleado,Indicative,Subjunctive,,,salir,334324,Irregular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-01,0,,,,,,vio el niño,DP,DOM,Masculine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-02,0,,,,,,quiero escribir,,Subjunctive,,,escribir,265684,Regular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-03,,,,1,1,,estaba rompiendo los globos,DP,Clitic,Masculine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-04,0,,,,,,vio su hijo,DOM,DOM,Masculine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-05,,,,1,1,,están comiendo la pizza,DP,Clitic,Feminine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-06,0,,,,,,los hijos para hacer los ejercicios,Infinitive,Subjunctive,,,hacer,2726954,Irregular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-07,,,,,,,estaban contando,Omission,Clitic,Masculine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-08,0,,,,,,la niña,Omission,DOM,Feminine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-09,,,,,,,están poniendo sus chaquetas,Possessive,Clitic,Feminine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-10,0,,,,,,quiero sus partes abrir,Infinitive,Subjunctive,,,abrir,143932,Regular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-11,,,,1,1,,estaba lavando el perro,DP,Clitic,Masculine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-12,0,,,,,,vio el niño,Omission,DOM,Masculine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-13,0,,,1,1,,estaba oyendo la música,DP,Clitic,Feminine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-14,0,,,,,,quiere que se va,Indicative,Subjunctive,,,ir,603647,Irregular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-15,,,,1,1,,poniendo los libros,DP,Clitic,Masculine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-16,0,,,,,,vio su bebé,Omission,DOM,Masculine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-17,,,,,,,los niños comiendo sus galletas,Possessive,Clitic,Feminine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-18,0,,,,,,quiere los niños comer su comida,Infinitive,Subjunctive,,,comer,213756,Regular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-19,,,,,,,estaba cocinando su pescado,Possessive,Clitic,Masculine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-20,0,,,,,,vi la niña,Omission,DOM,Feminine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-21,,0,0,,,,los abrió y cerró su puerta,Gender/number,Clitic,Feminine,Singular,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-22,0,,,,,,quiere que poner,Infinitive,Subjunctive,,,poner,514285,Irregular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-23,,,,,,,están haciendo música con sus instrumentos,Possessive,Clitic,Masculine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-24,0,,,,,,las niñas,Omission,DOM,Feminine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-25,,,,,,,estaban poniendo sus mascarillas,Possessive,Clitic,Feminine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-26,0,,,,,,quiero que vio el TV,Preterit,Subjunctive,,,ver,1611795,Irregular
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-27,0,,,,,,ve las niñas,Omission,DOM,Feminine,Plural,,,
-H90,2,1,L2,4,,,,,,,,,,,,,,Production,Prod-28,1,,,,,,quiere que esté soleado,,Subjunctive,,,salir,334324,Irregular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-01,0,,,,,,vio el niño,DP,DOM,Masculine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-02,0,,,,,,quiero escribir,,Subjunctive,,,escribir,265684,Regular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-03,,,,1,1,,estaba rompiendo los globos,DP,Clitic,Masculine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-04,0,,,,,,vio su hijo,DOM,DOM,Masculine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-05,,,,1,1,,están comiendo la pizza,DP,Clitic,Feminine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-06,0,,,,,,los hijos para hacer los ejercicios,Infinitive,Subjunctive,,,hacer,2726954,Irregular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-07,,,,,,,estaban contando,Omission,Clitic,Masculine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-08,0,,,,,,la niña,Omission,DOM,Feminine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-09,,,,,,,están poniendo sus chaquetas,Possessive,Clitic,Feminine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-10,0,,,,,,quiero sus partes abrir,Infinitive,Subjunctive,,,abrir,143932,Regular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-11,,,,1,1,,estaba lavando el perro,DP,Clitic,Masculine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-12,0,,,,,,vio el niño,Omission,DOM,Masculine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-13,0,,,1,1,,estaba oyendo la música,DP,Clitic,Feminine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-14,0,,,,,,quiere que se va,Indicative,Subjunctive,,,ir,603647,Irregular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-15,,,,1,1,,poniendo los libros,DP,Clitic,Masculine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-16,0,,,,,,vio su bebé,Omission,DOM,Masculine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-17,,,,,,,los niños comiendo sus galletas,Possessive,Clitic,Feminine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-18,0,,,,,,quiere los niños comer su comida,Infinitive,Subjunctive,,,comer,213756,Regular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-19,,,,,,,estaba cocinando su pescado,Possessive,Clitic,Masculine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-20,0,,,,,,vi la niña,Omission,DOM,Feminine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-21,,0,0,,,,los abrió y cerró su puerta,Gender/number,Clitic,Feminine,Singular,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-22,0,,,,,,quiere que poner,Infinitive,Subjunctive,,,poner,514285,Irregular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-23,,,,,,,están haciendo música con sus instrumentos,Possessive,Clitic,Masculine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-24,0,,,,,,las niñas,Omission,DOM,Feminine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-25,,,,,,,estaban poniendo sus mascarillas,Possessive,Clitic,Feminine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-26,0,,,,,,quiero que vio el TV,Preterit,Subjunctive,,,ver,1611795,Irregular
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-27,0,,,,,,ve las niñas,Omission,DOM,Feminine,Plural,,,
+H90,2,1,L2,4,,122,,,,,,,,,,,,Production,Prod-28,1,,,,,,quiere que esté soleado,,Subjunctive,,,salir,334324,Irregular
 H91,1,1,L2,2,,102,,,,,,,,,,,,Production,Prod-01,1,,,,,,al papá,,DOM,Masculine,Singular,,,
 H91,1,1,L2,2,,102,,,,,,,,,,,,Production,Prod-02,0,,,,,,escriben,,Subjunctive,,,escribir,265684,Regular
 H91,1,1,L2,2,,102,,,,,,,,,,,,Production,Prod-03,,,,1,1,,romper el globo,DP,Clitic,Masculine,Singular,,,
@@ -3119,7 +3203,7 @@ H91,1,1,L2,2,,102,,,,,,,,,,,,Production,Prod-25,,,,1,1,,se ponen las mascarillas
 H91,1,1,L2,2,,102,,,,,,,,,,,,Production,Prod-26,0,,,,,,ver la tele,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H91,1,1,L2,2,,102,,,,,,,,,,,,Production,Prod-27,1,,,,,,a sus niños,,DOM,Feminine,Plural,,,
 H91,1,1,L2,2,,102,,,,,,,,,,,,Production,Prod-28,,,,,,,el sol,No verb,Subjunctive,,,salir,334324,Irregular
-H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-01,,,,,,,,,DOM,Masculine,Singular,,,
+H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-01,0,,,,,,el niño,Omission,DOM,Masculine,Singular,,,
 H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-02,1,,,,,,escriba,,Subjunctive,,,escribir,265684,Regular
 H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-03,,,,,,,se suelta del mano,Unrelated,Clitic,Masculine,Singular,,,
 H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-04,0,,,,,,el niño,Omission,DOM,Masculine,Singular,,,
@@ -3147,7 +3231,7 @@ H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-25,,,,0,1,,se pone el mascarilla,Ge
 H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-26,0,,,,,,mirar al tele,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-27,0,,,,,,se llamar,Omission,DOM,Feminine,Plural,,,
 H93,2,1,L2,6,,146,,,,,,,,,,,,Production,Prod-28,,,,,,,el sol,No verb,Subjunctive,,,salir,334324,Irregular
-H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-01,1,,,,,,el chico,Omission,DOM,Masculine,Singular,,,
+H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-01,0,,,,,,el chico,Omission,DOM,Masculine,Singular,,,
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-03,,,,1,1,,se destruir el globo,DP,Clitic,Masculine,Singular,,,
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-04,0,,,,,,ven la chico,Omission,DOM,Masculine,Singular,,,
@@ -3166,7 +3250,7 @@ H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-16,0,,,,,,ve el chico,Omission,DOM,
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-17,,,,0,1,,comen los galletas,,Clitic,Feminine,Plural,,,
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-18,0,,,,,,comen el comida,Indicative,Subjunctive,,,comer,213756,Regular
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-19,,,,0,1,,está cocinado la pescado,Gender,Clitic,Masculine,Singular,,,
-H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-20,0,,,,,,ve el niña,Omission,DOM,Feminine,Singular,,,
+H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-20,1,,,,,,ve el niño al niña,Omission,DOM,Feminine,Singular,,,
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-21,,,,1,1,,cerran la puerta,DP,Clitic,Feminine,Singular,,,
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-22,0,,,,,,tomar el chaqueta,Infinitive,Subjunctive,,,poner,514285,Irregular
 H94,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-23,,,,1,1,,jugan los instrumentos,DP,Clitic,Masculine,Plural,,,
@@ -3190,7 +3274,7 @@ H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-12,,,,,,,jugar con el niño,Grammat
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-13,,,,1,1,,escuchar a la música,DP,Clitic,Feminine,Singular,,,
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-14,0,,,,,,éxito,Indicative,Subjunctive,,,ir,603647,Irregular
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-15,,,,,,,hacen en el mesa,Omission,Clitic,Masculine,Plural,,,
-H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-16,0,,,,,,ayuda el niño,Omission,DOM,Masculine,Singular,,,
+H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-16,1,,,,,,ayuda a la niño,Omission,DOM,Masculine,Singular,,,
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-17,,,,1,1,,usan a la comida,DP,Clitic,Feminine,Plural,,,
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-18,,,,,,,,No verb,Subjunctive,,,comer,213756,Regular
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-19,,,,1,1,,preparar la comida,DP,Clitic,Masculine,Singular,,,
@@ -3203,34 +3287,34 @@ H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-25,,,,,,,se preparan por,Se,Clitic,
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-26,1,,,,,,escuchar,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-27,,,,,,,tocar,Unrelated,DOM,Feminine,Plural,,,
 H95,2,1,L2,8,,173,,,,,,,,,,,,Production,Prod-28,1,,,,,,es caliente,Indicative,Subjunctive,,,salir,334324,Irregular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-01,1,,,,,,ve a un niño,,DOM,Masculine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-02,0,,,,,,escriben,,Subjunctive,,,escribir,265684,Regular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-03,,,,1,1,,jugando con unos globos,DP,Clitic,Masculine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-04,1,,,,,,está besando a su hijo,,DOM,Masculine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-05,,,,1,1,,están comiendo la pizza,DP,Clitic,Feminine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-06,1,,,,,,juguen**,,Subjunctive,,,hacer,2726954,Irregular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-07,,,,1,1,,están contando,Omission,Clitic,Masculine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-08,1,,,,,,ve a su hija,,DOM,Feminine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-09,,1,0,,,,la están poniendo,Number,Clitic,Feminine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-10,1,,,,,,abren la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-11,,1,1,,,,lo están lavando,,Clitic,Masculine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-12,1,,,,,,ve al niño,,DOM,Masculine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-13,,,,,,,están escuchando,Omission,Clitic,Feminine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-15,,1,0,,,,lo ponen en la mesa,Number,Clitic,Masculine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-16,1,,,,,,está lavando a su ninno,,DOM,Masculine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-17,,,,,,,están comiendo,Omission,Clitic,Feminine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-18,0,,,,,,comen el pollo,Indicative,Subjunctive,,,comer,213756,Regular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-19,,1,1,,,,lo están cocinando,,Clitic,Masculine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-20,1,,,,,,a una niña,,DOM,Feminine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-21,,0,1,,,,lo cierran,Gender,Clitic,Feminine,Singular,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-22,0,,,,,,se ponen la chaqueta,Indicative,Subjunctive,,,poner,514285,Irregular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-23,,,,1,1,,están tocando los instrumentos,DP,Clitic,Masculine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-24,1,,,,,,ve a dos niñas,,DOM,Feminine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-25,,,,1,1,,están poniendo las mascarillas,DP,Clitic,Feminine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-26,0,,,,,,ven,Indicative,Subjunctive,,,ver,1611795,Irregular
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-27,1,,,,,,ve a sus niñas,,DOM,Feminine,Plural,,,
-H96,2,1,L2,8,,,,,,,,,,,,,,Production,Prod-28,1,,,,,,esté soleado,,Subjunctive,,,salir,334324,Irregular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-01,1,,,,,,ve a un niño,,DOM,Masculine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-02,0,,,,,,escriben,,Subjunctive,,,escribir,265684,Regular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-03,,,,1,1,,jugando con unos globos,DP,Clitic,Masculine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-04,1,,,,,,está besando a su hijo,,DOM,Masculine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-05,,,,1,1,,están comiendo la pizza,DP,Clitic,Feminine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-06,1,,,,,,juguen**,,Subjunctive,,,hacer,2726954,Irregular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-07,,,,1,1,,están contando,Omission,Clitic,Masculine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-08,1,,,,,,ve a su hija,,DOM,Feminine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-09,,1,0,,,,la están poniendo,Number,Clitic,Feminine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-10,1,,,,,,abren la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-11,,1,1,,,,lo están lavando,,Clitic,Masculine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-12,1,,,,,,ve al niño,,DOM,Masculine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-13,,,,,,,están escuchando,Omission,Clitic,Feminine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-15,,1,0,,,,lo ponen en la mesa,Number,Clitic,Masculine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-16,1,,,,,,está lavando a su ninno,,DOM,Masculine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-17,,,,,,,están comiendo,Omission,Clitic,Feminine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-18,0,,,,,,comen el pollo,Indicative,Subjunctive,,,comer,213756,Regular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-19,,1,1,,,,lo están cocinando,,Clitic,Masculine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-20,1,,,,,,a una niña,,DOM,Feminine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-21,,0,1,,,,lo cierran,Gender,Clitic,Feminine,Singular,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-22,0,,,,,,se ponen la chaqueta,Indicative,Subjunctive,,,poner,514285,Irregular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-23,,,,1,1,,están tocando los instrumentos,DP,Clitic,Masculine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-24,1,,,,,,ve a dos niñas,,DOM,Feminine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-25,,,,1,1,,están poniendo las mascarillas,DP,Clitic,Feminine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-26,0,,,,,,ven,Indicative,Subjunctive,,,ver,1611795,Irregular
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-27,1,,,,,,ve a sus niñas,,DOM,Feminine,Plural,,,
+H96,2,1,L2,8,,175,,,,,,,,,,,,Production,Prod-28,1,,,,,,esté soleado,,Subjunctive,,,salir,334324,Irregular
 H97,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-01,1,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
 H97,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H97,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-03,,,,1,1,,derrotar el globo,DP,Clitic,Masculine,Singular,,,
@@ -3262,7 +3346,7 @@ H97,2,1,L2,6,,141,,,,,,,,,,,,Production,Prod-28,0,,,,,,salir para jugar en el so
 H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-01,,,,,,,Not related,,DOM,Masculine,Singular,,,
 H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-02,0,,,,,,Indicative,,Subjunctive,,,escribir,265684,Regular
 H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-03,,,,1,1,,abrir el globo,DP,Clitic,Masculine,Singular,,,
-H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-04,0,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
+H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-04,1,,,,,,ve a su hijo pequeño,,DOM,Masculine,Singular,,,
 H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-05,,,,0,1,,están comiendo el pizza,Gender,Clitic,Feminine,Singular,,,
 H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-06,0,,,,,,hacen ejercicio,Indicative,Subjunctive,,,hacer,2726954,Irregular
 H98,2,1,Heritage,6,,150,,,,,,,,Heritage Spanish,,,,Production,Prod-07,,,,1,1,,están contando los números,DP,Clitic,Masculine,Plural,,,
@@ -3315,7 +3399,7 @@ H99,2,1,L2,6,,144,,,,,,,,,,,,Production,Prod-25,,,,,,,está poniendo,Omission,Cl
 H99,2,1,L2,6,,144,,,,,,,,,,,,Production,Prod-26,0,,,,,,miran la tv,Indicative,Subjunctive,,,ver,1611795,Irregular
 H99,2,1,L2,6,,144,,,,,,,,,,,,Production,Prod-27,1,,,,,,a dos niñas,,DOM,Feminine,Plural,,,
 H99,2,1,L2,6,,144,,,,,,,,,,,,Production,Prod-28,,,,,,,el sol,Omission,Subjunctive,,,salir,334324,Irregular
-H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-01,0,,,,,,un papá con un niño,Omission,DOM,Masculine,Singular,,,
+H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-01,,,,,,,hay un papá con un niño,Grammatical alternative,DOM,Masculine,Singular,,,
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-02,0,,,,,,escritan,Other,Subjunctive,,,escribir,265684,Regular
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-03,,,,1,1,,le rompié el globo,DP,Clitic,Masculine,Singular,,,
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-04,1,,,,,,a su niño,,DOM,Masculine,Singular,,,
@@ -3338,12 +3422,12 @@ H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-20,1,,,,,,a un niña,,DOM,Feminine
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-21,,,,1,1,,abrida la puerta,DP,Clitic,Feminine,Singular,,,
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-22,0,,,,,,poner la chaqueta,Infinitive,Subjunctive,,,poner,514285,Irregular
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-23,,,,1,1,,jugando los instrumentos,DP,Clitic,Masculine,Plural,,,
-H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-24,0,,,,,,sus hermanas,Omission,DOM,Feminine,Plural,,,
+H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-24,1,,,,,,a sus hermanas,Omission,DOM,Feminine,Plural,,,
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-25,,,,,,,neceistan ponerse,Omission,Clitic,Feminine,Plural,,,
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-26,0,,,,,,ver la tele,Infinitive,Subjunctive,,,ver,1611795,Irregular
-H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-27,0,,,,,,sus niñas,Omission,DOM,Feminine,Plural,,,
+H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-27,1,,,,,,a sus niñas,Omission,DOM,Feminine,Plural,,,
 H100,2,1,L2,6,,150,,,,,,,,,,,,Production,Prod-28,,,,,,,la sol,No verb,Subjunctive,,,salir,334324,Irregular
-H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-01,0,,,,,,ve su hijo,Omission,DOM,Masculine,Singular,,,
+H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-01,1,,,,,,el papá ve a el hijo,Omission,DOM,Masculine,Singular,,,
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-02,,,,,,,la niña quiere escribir,Querer + infinitive,Subjunctive,,,escribir,265684,Regular
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-03,,,,1,1,,las niñas están punturando el globo,DP,Clitic,Masculine,Singular,,,
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-04,1,,,,,,la mamá ve a su hijo,,DOM,Masculine,Singular,,,
@@ -3354,7 +3438,7 @@ H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-08,1,,,,,
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-09,,,,,,,las niñas están poniendo sus chaquetas,Possessive,Clitic,Feminine,Plural,,,
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-10,0,,,,,,el niño quiere que la puerta está abierta,Indicative,Subjunctive,,,abrir,143932,Regular
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-11,,,,1,1,,lavando el perro,DP,Clitic,Masculine,Singular,,,
-H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-12,1,,,,,,el perro ven al hijo,,DOM,Masculine,Singular,,,
+H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-12,0,,,,,,el perro ve la hijo,Omission,DOM,Masculine,Singular,,,
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-13,,,,1,1,,están escuchando a la música,DP,Clitic,Feminine,Singular,,,
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-14,0,,,,,,que ellas parten,Indicative,Subjunctive,,,ir,603647,Irregular
 H101,2,1,L2,7,,151,,,,,,,,"French, Italian",No,Yes,Yes,Production,Prod-15,,,,1,1,,están metendo los libros,DP,Clitic,Masculine,Plural,,,
@@ -3382,7 +3466,7 @@ H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-08,1,,,,,,está empujando al niña
 H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-09,,,,1,1,,están poniendo la chaqueta,DP,Clitic,Feminine,Plural,,,
 H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-10,,,,,,,quiere que la puerta está abierta,Indicative,Subjunctive,,,abrir,143932,Regular
 H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-11,,,,1,1,,está lavando el perro,,Clitic,Masculine,Singular,,,
-H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-12,0,,,,,Did not comprehend DOM,el niño ve el perro,S/O reversed,DOM,Masculine,Singular,,,
+H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-12,0,,,,,Did not comprehend DOM,el niño ve el perro,Word order,DOM,Masculine,Singular,,,
 H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-13,,,,1,1,,están escuchando la música,DP,Clitic,Feminine,Singular,,,
 H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-14,0,,,,,,quiere que los niños va afuera,Indicative,Subjunctive,,,ir,603647,Irregular
 H102,2,1,L2,3,,112,,,,,,,,,,,,Production,Prod-15,,,,1,1,,ponen los libros en la mesa,DP,Clitic,Masculine,Plural,,,
@@ -3446,7 +3530,7 @@ H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-16,0,,,,,,ve su hijo bebé,Omission
 H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-17,,,,1,1,,comen las galletas,DP,Clitic,Feminine,Plural,,,
 H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-18,0,,,,,,que comen la comida,Indicative,Subjunctive,,,comer,213756,Regular
 H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-19,,,,0,1,,cocinan la pescado,Gender,Clitic,Masculine,Singular,,,
-H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-20,0,,,,,,la niña ve el monstruo,S/O reversed,DOM,Feminine,Singular,,,
+H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-20,0,,,,,,la niña ve el monstruo,Word order,DOM,Feminine,Singular,,,
 H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-21,,,,1,1,,cierren la puerta,DP,Clitic,Feminine,Singular,,,
 H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-22,0,,,,,,ponen las chaquetas,Indicative,Subjunctive,,,poner,514285,Irregular
 H104,2,1,L2,2,,96,,,,,,,,,,,,Production,Prod-23,,,,1,1,,tocan los instrumentos,DP,Clitic,Masculine,Plural,,,
@@ -3567,10 +3651,10 @@ H108,2,1,L2,3,,102,,,,,,,,Romanian,Yes,Yes,Yes,Production,Prod-25,,,,1,1,,ponié
 H108,2,1,L2,3,,102,,,,,,,,Romanian,Yes,Yes,Yes,Production,Prod-26,1,,,,,,vean la tele,,Subjunctive,,,ver,1611795,Irregular
 H108,2,1,L2,3,,102,,,,,,,,Romanian,Yes,Yes,Yes,Production,Prod-27,1,,,,,,ve a dos niñas,,DOM,Feminine,Plural,,,
 H108,2,1,L2,3,,102,,,,,,,,Romanian,Yes,Yes,Yes,Production,Prod-28,0,,,,,,es soleado,Indicative,Subjunctive,,,salir,334324,Irregular
-H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-01,1,,,,,,a un niño,,DOM,Masculine,Singular,,,
+H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-01,0,,,,,,yo ve una un niño,Omission,DOM,Masculine,Singular,,,
 H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-02,,,,,,,quiere escribir,Querer + infinitive,Subjunctive,,,escribir,265684,Regular
 H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-03,,,,1,1,,se pica el globo,,Clitic,Masculine,Singular,,,
-H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-04,0,,,,,,ve el niño,Omission,DOM,Masculine,Singular,,,
+H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-04,1,,,,,,ve el niño…ama a la niña,Omission,DOM,Masculine,Singular,,,
 H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-05,,,,0,1,,comen el pizza,Gender,Clitic,Feminine,Singular,,,
 H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-06,0,,,,,,usar fuerza y jugar,Infinitive,Subjunctive,,,hacer,2726954,Irregular
 H109,2,1,L2,4,,119,,,,,,,,"Hindi, Malayalam, Marathi",Yes,Yes,Yes,Production,Prod-07,,,,1,1,,contar los números,DP,Clitic,Masculine,Plural,,,
@@ -3651,7 +3735,7 @@ H111,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-25,,,,1,1,,put on las mascaras,DP,
 H111,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-26,0,,,,,,ver la tv,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H111,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-27,0,,,,,,ve dos niñas,Omission,DOM,Feminine,Plural,,,
 H111,2,1,L2,3,,110,,,,,,,,,,,,Production,Prod-28,0,,,,,,que es soleado,verb ser?,Subjunctive,,,salir,334324,Irregular
-H113,2,1,L2,3,,115,,,,,,,,,,,,Production,Prod-01,1,,,,,,a la niña,,DOM,Masculine,Singular,,,
+H113,2,1,L2,3,,115,,,,,,,,,,,,Production,Prod-01,0,,,,,,la niña o el niño,,DOM,Masculine,Singular,,,
 H113,2,1,L2,3,,115,,,,,,,,,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H113,2,1,L2,3,,115,,,,,,,,,,,,Production,Prod-03,,,,,,,,No response,Clitic,Masculine,Singular,,,
 H113,2,1,L2,3,,115,,,,,,,,,,,,Production,Prod-04,1,,,,,,a el niño,,DOM,Masculine,Singular,,,
@@ -3710,7 +3794,7 @@ H114,2,1,L2,7,,153,,,,,,,,,,,,Production,Prod-28,0,,,,,,que hay sol,Indicative,S
 H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-01,1,,,,,,ve a un niño,,DOM,Masculine,Singular,,,
 H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-03,,,,1,1,,romper el globo,DP,Clitic,Masculine,Singular,,,
-H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-04,0,,,,,,probablemente su hijo,Omission,DOM,Masculine,Singular,,,
+H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-04,,,,,,,probablemente es su hijo,Grammatical alternative,DOM,Masculine,Singular,,,
 H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-05,,,,1,1,,comiendo la pizza,DP,Clitic,Feminine,Singular,,,
 H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-06,0,,,,,,hacen muchas cosas,Indicative,Subjunctive,,,hacer,2726954,Irregular
 H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-07,,,,,,,contando hasta once,Grammatical alternative,Clitic,Masculine,Plural,,,
@@ -3738,19 +3822,19 @@ H116,2,1,Heritage,8,,165,,,,,,,,,,,,Production,Prod-28,1,,,,,,sea un sol,,Subjun
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-01,0,,,,,,ve un niño,Omission,DOM,Masculine,Singular,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-02,0,,,,,,quiere que los niñas escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-03,,,,,,,quiere romper the balloon,English,Clitic,Masculine,Singular,,,
-H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-04,,,,,,,ve tu hijo,Omission,DOM,Masculine,Singular,,,
+H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-04,0,,,,,,la mamá vio su hijo,Omission,DOM,Masculine,Singular,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-05,,,,0,1,,los niños come el pizza,Gender,Clitic,Feminine,Singular,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-06,0,,,,,,quiere los niños van a fuerza,Indicative,Subjunctive,,,hacer,2726954,Irregular
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-07,,,,,,,contando,Omission,Clitic,Masculine,Plural,,,
-H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-08,,,,,,,ve una niña,Omission,DOM,Feminine,Singular,,,
+H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-08,0,,,,,,ve una niña,Omission,DOM,Feminine,Singular,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-09,,,,1,1,,la niña está poniendo las guitarras,,Clitic,Feminine,Plural,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-10,0,,,,,,abren,,Subjunctive,,,abrir,143932,Regular
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-11,,,,1,1,,están lavando el perro,DP,Clitic,Masculine,Singular,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-12,0,,,,,,ve el niño,Omission,DOM,Masculine,Singular,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-13,,,,,,,escuchando,Omission,Clitic,Feminine,Singular,,,
-H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-14,,,,,,,salen,Indicative,Subjunctive,,,ir,603647,Irregular
+H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-14,0,,,,,,salen,Indicative,Subjunctive,,,ir,603647,Irregular
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-15,,,,,,,ponen en la mesa,Omission,Clitic,Masculine,Plural,,,
-H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-16,,,,,,,ve el niño,Omission,DOM,Masculine,Singular,,,
+H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-16,0,,,,,,ve el niño,Omission,DOM,Masculine,Singular,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-17,,,,1,1,,están comendo las galletas,DP,Clitic,Feminine,Plural,,,
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-18,0,,,,,,quiere las niñas a comer la comida,Infinitive,Subjunctive,,,comer,213756,Regular
 H118,2,1,Heritage,4,,118,,,,,,,,Heritage Spanish,,,,Production,Prod-19,,,,0,1,,están cocinando la pescado,Gender,Clitic,Masculine,Singular,,,
@@ -3802,7 +3886,7 @@ H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-08,0,,,,,,ve
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-09,,,,,,,están poniendo sus chaquetas,Possessive,Clitic,Feminine,Plural,,,
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-10,0,,,,,,abrir la puerta,Infinitive,Subjunctive,,,abrir,143932,Regular
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-11,,1,1,,,,están bañándolo,,Clitic,Masculine,Singular,,,
-H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-12,1,,,,,,ve a un chico,,DOM,Masculine,Singular,,,
+H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-12,0,,,,,,ve uhm un chico,,DOM,Masculine,Singular,,,
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-13,,,,1,1,,la música,DP,Clitic,Feminine,Singular,,,
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-14,0,,,,,,no entran,Indicative,Subjunctive,,,ir,603647,Irregular
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-15,,,,1,1,,los libros,DP,Clitic,Masculine,Plural,,,
@@ -3814,7 +3898,7 @@ H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-20,0,,,,,,ve
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-21,,,,1,1,,cerran la puerta,DP,Clitic,Feminine,Singular,,,
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-22,0,,,,,,poner,Infinitive,Subjunctive,,,poner,514285,Irregular
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-23,,1,1,,,,están usándolos para hacer música,,Clitic,Masculine,Plural,,,
-H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-24,1,,,,,,ve a las chicas,,DOM,Feminine,Plural,,,
+H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-24,0,,,,,,ve las chicas,,DOM,Feminine,Plural,,,
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-25,,,,1,1,,ponen las mascarillas,DP,Clitic,Feminine,Plural,,,
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-26,0,,,,,,sus amigos ve el TV,Indicative,Subjunctive,,,ver,1611795,Irregular
 H120,2,1,Heritage,4,,125,,,,,,,,Heritage Spanish,,,,Production,Prod-27,0,,,,,,ve las chicas,Omission,DOM,Feminine,Plural,,,
@@ -3875,34 +3959,34 @@ H122,2,1,Heritage,3,,110,,,,,,,,Heritage Spanish,,,,Production,Prod-25,,,,1,1,,p
 H122,2,1,Heritage,3,,110,,,,,,,,Heritage Spanish,,,,Production,Prod-26,0,,,,,,ve un película,Indicative,Subjunctive,,,ver,1611795,Irregular
 H122,2,1,Heritage,3,,110,,,,,,,,Heritage Spanish,,,,Production,Prod-27,1,,,,,,ve a las dos niño,,DOM,Feminine,Plural,,,
 H122,2,1,Heritage,3,,110,,,,,,,,Heritage Spanish,,,,Production,Prod-28,0,,,,,,está muy soleado,Indicative,Subjunctive,,,salir,334324,Irregular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-01,0,,,,,,ve un niño,Omission,DOM,Masculine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-03,,,,1,1,,estoran los globos,DP,Clitic,Masculine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-04,1,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-05,,,,1,1,DOM marked??,comen a la pizza,DP,Clitic,Feminine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-06,0,,,,,,hacen ejercicio,Indicative,Subjunctive,,,hacer,2726954,Irregular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-07,,,,1,1,,dicen los números,DP,Clitic,Masculine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-08,1,,,,,,ve a una niña,,DOM,Feminine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-09,,,,1,1,,quitando las chaquetas,DP,Clitic,Feminine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-10,0,,,,,,abren la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-11,,,,1,1,,da un baño al perro,DP,Clitic,Masculine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-12,1,,,,,,ve a su niño,,DOM,Masculine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-13,,,,1,1,,escuchan la música,DP,Clitic,Feminine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-14,0,,,,,,salen,Indicative,Subjunctive,,,ir,603647,Irregular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-15,,,,,,,dejan sus libros,Possessive,Clitic,Masculine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-16,1,,,,,,ve a su bebé,,DOM,Masculine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-17,,,,1,1,,comen las galletas,DP,Clitic,Feminine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-18,1,,,,,,coman,,Subjunctive,,,comer,213756,Regular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-19,,,,1,1,,cocinan el pescado,DP,Clitic,Masculine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-20,1,,,,,,ve a una niña,,DOM,Feminine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-21,,,,1,1,,cerran la puerta,DP,Clitic,Feminine,Singular,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-22,0,,,,,,ponen los chaquetas,Indicative,Subjunctive,,,poner,514285,Irregular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-23,,,,1,1,,tocan los instrumentos,DP,Clitic,Masculine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-24,1,,,,,,ve a las niñas,,DOM,Feminine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-25,,,,1,1,,ponen la mascarilla,DP,Clitic,Feminine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-26,0,,,,,,ven televisión,Indicative,Subjunctive,,,ver,1611795,Irregular
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-27,1,,,,,,ve a sus hujas,,DOM,Feminine,Plural,,,
-H123,2,1,Heritage,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-28,0,,,,,,está soleado,Indicative,Subjunctive,,,salir,334324,Irregular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-01,0,,,,,,ve un niño,Omission,DOM,Masculine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-03,,,,1,1,,estoran los globos,DP,Clitic,Masculine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-04,1,,,,,,ve a su hijo,,DOM,Masculine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-05,,,,1,1,DOM marked??,comen a la pizza,DP,Clitic,Feminine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-06,0,,,,,,hacen ejercicio,Indicative,Subjunctive,,,hacer,2726954,Irregular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-07,,,,1,1,,dicen los números,DP,Clitic,Masculine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-08,1,,,,,,ve a una niña,,DOM,Feminine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-09,,,,1,1,,quitando las chaquetas,DP,Clitic,Feminine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-10,0,,,,,,abren la puerta,Indicative,Subjunctive,,,abrir,143932,Regular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-11,,,,1,1,,da un baño al perro,DP,Clitic,Masculine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-12,1,,,,,,ve a su niño,,DOM,Masculine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-13,,,,1,1,,escuchan la música,DP,Clitic,Feminine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-14,0,,,,,,salen,Indicative,Subjunctive,,,ir,603647,Irregular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-15,,,,,,,dejan sus libros,Possessive,Clitic,Masculine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-16,1,,,,,,ve a su bebé,,DOM,Masculine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-17,,,,1,1,,comen las galletas,DP,Clitic,Feminine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-18,1,,,,,,coman,,Subjunctive,,,comer,213756,Regular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-19,,,,1,1,,cocinan el pescado,DP,Clitic,Masculine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-20,1,,,,,,ve a una niña,,DOM,Feminine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-21,,,,1,1,,cerran la puerta,DP,Clitic,Feminine,Singular,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-22,0,,,,,,ponen los chaquetas,Indicative,Subjunctive,,,poner,514285,Irregular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-23,,,,1,1,,tocan los instrumentos,DP,Clitic,Masculine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-24,1,,,,,,ve a las niñas,,DOM,Feminine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-25,,,,1,1,,ponen la mascarilla,DP,Clitic,Feminine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-26,0,,,,,,ven televisión,Indicative,Subjunctive,,,ver,1611795,Irregular
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-27,1,,,,,,ve a sus hujas,,DOM,Feminine,Plural,,,
+H123,2,1,L2,3,,114,,,,,,,,Heritage Spanish,,,,Production,Prod-28,0,,,,,,está soleado,Indicative,Subjunctive,,,salir,334324,Irregular
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-01,0,,,,,,un niño,Omission,DOM,Masculine,Singular,,,
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-03,,,,,,,se como pop,Codeswitched,Clitic,Masculine,Singular,,,
@@ -3910,7 +3994,7 @@ H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-04,,,,,,,un b
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-05,,,,,,,van a comer,Omission,Clitic,Feminine,Singular,,,
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-06,0,,,,,,hacer actividades,Infinitive,Subjunctive,,,hacer,2726954,Irregular
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-07,,,,,,,va a contar,Omission,Clitic,Masculine,Plural,,,
-H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-08,,,,,,,el grandson,Codeswitched,DOM,Feminine,Singular,,,
+H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-08,0,,,,,,el grandson,Omission,DOM,Feminine,Singular,,,
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-09,,,,1,1,,va a poner las chaquetas,DP,Clitic,Feminine,Plural,,,
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-10,0,,,,,,que abrir la puerta,Infinitive,Subjunctive,,,abrir,143932,Regular
 H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-11,,,,1,1,,va a bañar el perro,DP,Clitic,Masculine,Singular,,,
@@ -3934,7 +4018,7 @@ H124,2,1,Heritage,2,,95,,,,,,,,Heritage Spanish,,,,Production,Prod-28,0,,,,,,hac
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-01,0,,,,,,el niño,Omission,DOM,Masculine,Singular,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-02,0,,,,,,escribir,Infinitive,Subjunctive,,,escribir,265684,Regular
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-03,,,,1,1,,hacen un ruido muy loud,DP,Clitic,Masculine,Singular,,,
-H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-04,1,,,,,,ve al niño,,DOM,Masculine,Singular,,,
+H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-04,0,,,,,,ve uh ve el niño,,DOM,Masculine,Singular,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-05,,,,0,1,,el pizza,Gender,Clitic,Feminine,Singular,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-06,0,,,,,,quiere haz ejercicio,Imperative,Subjunctive,,,hacer,2726954,Irregular
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-07,,,,1,1,,contando los números,DP,Clitic,Masculine,Plural,,,
@@ -3950,12 +4034,488 @@ H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-16,0,,,,,,ve su hijo,Omission,DO
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-17,,,,0,1,,comer los galletas,Gender,Clitic,Feminine,Plural,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-18,0,,,,,,cocinar el pollo,Infinitive,Subjunctive,,,comer,213756,Regular
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-19,,,,1,1,,cocinar el pescado,DP,Clitic,Masculine,Singular,,,
-H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-20,0,,,,,,ve el monstruo,S/O reversed,DOM,Feminine,Singular,,,
+H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-20,0,,,,,,ve el monstruo,Word order,DOM,Feminine,Singular,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-21,,,,0,1,,cerrar el puerta,DP,Clitic,Feminine,Singular,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-22,0,,,,,,no tiene el chaqueta,Indicative,Subjunctive,,,poner,514285,Irregular
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-23,,,,1,1,,creae música con los instrumentos,,Clitic,Masculine,Plural,,,
-H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-24,0,,,,,,los niños ve el perro,S/O reversed,DOM,Feminine,Plural,,,
+H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-24,0,,,,,,los niños ve el perro,Word order,DOM,Feminine,Plural,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-25,,,,0,1,,pone los mascarillas,Gender,Clitic,Feminine,Plural,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-26,0,,,,,,ver televisión,Infinitive,Subjunctive,,,ver,1611795,Irregular
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-27,0,,,,,,ve las niñas,Omission,DOM,Feminine,Plural,,,
 H125,2,1,L2,4,,121,,,,,,,,L2,,,,Production,Prod-28,0,,,,,,es soleado,Indicative,Subjunctive,,,salir,334324,Irregular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,el niño ve al papá,,DOM,Masculine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,lea la primera página,,Subjunctive,,,escribir,265684,Regular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,están jugando... lo trataron de hacer así,,Clitic,Masculine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-04,0,,,,,,el niño ,DP,DOM,Masculine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,la están repartiendo,,Clitic,Feminine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,que ellos jueguen,,Subjunctive,,,hacer,2726954,Irregular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,1,1,,,,los están ordenando,,Clitic,Masculine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,ve a la niña,,DOM,Feminine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,se la están sacando,,Clitic,Feminine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,bañandolo,,Clitic,Masculine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,ve al niño,,DOM,Masculine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,,,,están bailando,Grammatical alternative,Clitic,Feminine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,se vaya,,Subjunctive,,,ir,603647,Irregular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,los están ordenando,,Clitic,Masculine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,ve al bebé,,DOM,Masculine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,se las están comiendo,,Clitic,Feminine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,beban sopa,,Subjunctive,,,comer,213756,Regular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,lo están cocinando,,Clitic,Masculine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,ve a la mujer,,DOM,Feminine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,la están cerrando,,Clitic,Feminine,Singular,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se pongan la chaqueta,,Subjunctive,,,poner,514285,Irregular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,,,,,,están haciendo música,Bare noun,Clitic,Masculine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,ve a la niña,,DOM,Feminine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,,,,,,para no contagiar,Grammatical alternative,Clitic,Feminine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean la tele,,Subjunctive,,,ver,1611795,Irregular
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,ve al niño,,DOM,Feminine,Plural,,,
+C01,C,C,Chile,Kinder,5,67,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,haga sol ,,Subjunctive,,,salir,334324,Irregular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,el papá ve a su hijo,,DOM,Masculine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,,,1,1,,están rebentando el globo,DP,Clitic,Masculine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,,,1,1,,están repartiendo la pizza y se la están comiendo,DP,Clitic,Feminine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,hagan ejercicio,,Subjunctive,,,hacer,2726954,Irregular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,1,1,,están contando los números,DP,Clitic,Masculine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,está viendo a la niña,,DOM,Feminine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,,,1,1,,se están sacando las chaquetas,DP,Clitic,Feminine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,que abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,,,1,1,,están lavando al perro,,Clitic,Masculine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,el perro está viendo al niño,,DOM,Masculine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,,,,escuchando,Omission,Clitic,Feminine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,,,1,1,,apilando los libros,DP,Clitic,Masculine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,está viendo a su bebé,,DOM,Masculine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,,,1,1,,están comiendo las galletas,DP,Clitic,Feminine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman comida,,Subjunctive,,,comer,213756,Regular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,,,1,1,,los niños están cocinando el pescado,DP,Clitic,Masculine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la señora,,DOM,Feminine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,,,1,1,,cerrando la puerta,DP,Clitic,Feminine,Singular,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se pongan las chaquetas,,Subjunctive,,,poner,514285,Irregular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,,,,,,están tocando música,Bare noun,Clitic,Masculine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,el perro ve a las niñas,,DOM,Feminine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,,,1,1,,los niños se están colocando las mascarillas,DP,Clitic,Feminine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean la tele,,Subjunctive,,,ver,1611795,Irregular
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,la mamá ve a los niños,,DOM,Feminine,Plural,,,
+C02,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,salga sol,,Subjunctive,,,salir,334324,Irregular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,a un niño,,DOM,Masculine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,que estudien,,Subjunctive,,,escribir,265684,Regular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-03,1,1,1,,,,lo va a rebentar,,Clitic,Masculine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,,,1,1,,están comiendo la pizza,DP,Clitic,Feminine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,que sus hijos hagan ejercicio,,Subjunctive,,,hacer,2726954,Irregular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,,,,están contando del 1 hasta 11,Grammatical alternative,Clitic,Masculine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-09,1,1,0,,,,se la están poniendo,,Clitic,Feminine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,que abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,,,1,1,,están lavando al perro,DP,Clitic,Masculine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,ve al niño,,DOM,Masculine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,1,1,,escuchando la música,DP,Clitic,Feminine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-15,1,1,0,,,,lo están llevando a la mesa,,Clitic,Masculine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,a su bebé,,DOM,Masculine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-17,1,1,1,,,,las están comiendo,,Clitic,Feminine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,tomen la sopa,,Subjunctive,,,comer,213756,Regular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,,,1,1,,están cocinando el pescado,DP,Clitic,Masculine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la mujer,,DOM,Feminine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-21,1,1,1,,,,la cierran,,Clitic,Feminine,Singular,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,que pongan la chaqueta,,Subjunctive,,,poner,514285,Irregular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-23,0,,,1,1,,están tocando los instrumentos,DP,Clitic,Masculine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las dos niñas,,DOM,Feminine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-25,1,1,0,,,,se la están poniendo,,Clitic,Feminine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean la tele,,Subjunctive,,,ver,1611795,Irregular
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,ve a las niñas,,DOM,Feminine,Plural,,,
+C03,C,C,Chile,3,8,101,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,haya sol ,,Subjunctive,,,salir,334324,Irregular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,se la haga,,Subjunctive,,,escribir,265684,Regular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,,,,,,se le rebentó,Se le,Clitic,Masculine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,se la están comiendo,,Clitic,Feminine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,entrenen,,Subjunctive,,,hacer,2726954,Irregular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,,,,están contando,Omission,Clitic,Masculine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a su nieta,,DOM,Feminine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,1,,,,colocárselas,,Clitic,Feminine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,la abran,,Subjunctive,,,abrir,143932,Regular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,lo están bañando,,Clitic,Masculine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,a su dueño,,DOM,Masculine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,,,,están escuchando,Omission,Clitic,Feminine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,los dejaron en la mesa,,Clitic,Masculine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,a su hijo pequeñito,,DOM,Masculine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,se las van a comer,,Clitic,Feminine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,tomen la sopa,,Subjunctive,,,comer,213756,Regular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,lo van a cocinar,,Clitic,Masculine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la niña ,,DOM,Feminine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,la cerraron,,Clitic,Feminine,Singular,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se las coloque,,Subjunctive,,,poner,514285,Irregular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,1,,,,no los tocaron ,,Clitic,Masculine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a dos niñas ,,DOM,Feminine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,se las van a colocar,,Clitic,Feminine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean su arte,,Subjunctive,,,ver,1611795,Irregular
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a dos niñas ,,DOM,Feminine,Plural,,,
+C04,C,C,Chile,1,6,83,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,salga el sol ,,Subjunctive,,,salir,334324,Irregular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,copien ,,Subjunctive,,,escribir,265684,Regular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,pincharlo,,Clitic,Masculine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,a su hijo ,,DOM,Masculine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,comerla y repartirla,,Clitic,Feminine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,hagan deporte,,Subjunctive,,,hacer,2726954,Irregular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,1,1,,,,contarlos,,Clitic,Masculine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a su nieta,,DOM,Feminine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,1,,,,sacarlas,,Clitic,Feminine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,,,1,1,,lavando el perro,DP,Clitic,Masculine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,a su dueño ,,DOM,Masculine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,escucharla,,Clitic,Feminine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,los dejan en la mesa,,Clitic,Masculine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,comerlas ,,Clitic,Feminine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman ,,Subjunctive,,,comer,213756,Regular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,cocinarlo ,,Clitic,Masculine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a esa persona ,,DOM,Feminine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,cerrrarla ,,Clitic,Feminine,Singular,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se las saquen ,,Subjunctive,,,poner,514285,Irregular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,0,,,,tocarlo ,,Clitic,Masculine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,ponérselas,,Clitic,Feminine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean la tele,,Subjunctive,,,ver,1611795,Irregular
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a sus hijas,,DOM,Feminine,Plural,,,
+C05,C,C,Chile,4,10,120,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,salga el sol ,,Subjunctive,,,salir,334324,Irregular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-01,0,,,,,,el niño ,Omission,DOM,Masculine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,lea,,Subjunctive,,,escribir,265684,Regular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,,,,,,jugar,Grammatical alternative,Clitic,Masculine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,a un niño,,DOM,Masculine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,,,,,,comiendo pizza,Bare noun,Clitic,Feminine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,hagan así,,Subjunctive,,,hacer,2726954,Irregular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,1,1,,están contando el 1 y hasta el 11,DP,Clitic,Masculine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,ve a su perro y a la niña,,DOM,Feminine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,colocársela,,Clitic,Feminine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,se abra la puerta,,Subjunctive,,,abrir,143932,Regular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,,,,,,lavando porque está sucio,Omission,Clitic,Masculine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-12,,,,,,,la cabeza de niño ,Grammatical alternative,DOM,Masculine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,,,,escuchando y dos personas va a bailar,Grammatical alternative,Clitic,Feminine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-14,0,,,,,,se hace fuera,Indicative,Subjunctive,,,ir,603647,Irregular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,,,,,,están - No response,No response,Clitic,Masculine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,se las comen ,,Clitic,Feminine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,haga sopita,,Subjunctive,,,comer,213756,Regular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,lo están preparando ,,Clitic,Masculine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,cerrarla,,Clitic,Feminine,Singular,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-22,0,,,,,,se quitan la chaqueta,Indicative,Subjunctive,,,poner,514285,Irregular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,,,,,,cantan y bailan ,Grammatical alternative,Clitic,Masculine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-25,0,,,,,sheet says 1 but it is 0,se toman,Indicative,Clitic,Feminine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,haga un sol ,,Subjunctive,,,ver,1611795,Irregular
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-27,0,,,,,,las niñas,Omission,DOM,Feminine,Plural,,,
+C06,C,C,Chile,Kinder,5,68,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,que sea bonito,,Subjunctive,,,salir,334324,Irregular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,el niño ,DP,DOM,Masculine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,lean,,Subjunctive,,,escribir,265684,Regular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,lo están pintado,,Clitic,Masculine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-04,,,,,,,No response,,DOM,Masculine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-05,1,,,,,,la están comiendo,,Clitic,Feminine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-06,0,,,,,,saltar,Infinitive,Subjunctive,,,hacer,2726954,Irregular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,1,1,,,,lo están contando,Omission,Clitic,Masculine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,ponersela,num,Clitic,Feminine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-10,0,,,,,,cerrar la puerta,Infinitive,Subjunctive,,,abrir,143932,Regular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,lavandolo,,Clitic,Masculine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,refiriendose de que el perro están chupando (langueteando) al niño,el niño... chupando al niñito,,DOM,Masculine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,,,,escuchando caciones,Noun,Clitic,Feminine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-14,0,,,,,,abrir la puerta,Infinitive,Subjunctive,,,ir,603647,Irregular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,0,0,,,,la guardan,Gen,Clitic,Masculine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-16,0,,,,,,el bebé,Omission,DOM,Masculine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,0,,,,la están comiendo,num,Clitic,Feminine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-18,,,,,,,un jugo,Grammatical alternative,Subjunctive,,,comer,213756,Regular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,,,,,,están cocinando ,Omission,Clitic,Masculine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-20,,,,,,,la niña,DP,DOM,Feminine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,,,,,,quieren entrar,Grammatical alternative,Clitic,Feminine,Singular,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-22,,,,,,,quiere sacar,Grammatical alternative,Subjunctive,,,poner,514285,Irregular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,,,,,,cantando,Grammatical alternative,Clitic,Masculine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-24,,,,,,,la niña,DP,DOM,Feminine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,,,,,,se están tapando,Grammatical alternative,Clitic,Feminine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-26,,,,,,,ver monos,Infinitive,Subjunctive,,,ver,1611795,Irregular
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-27,,,,,,,la niña,DP,DOM,Feminine,Plural,,,
+C07,C,C,Chile,Kinder,6,75,,,,,,Spanish,,Spanish,,,,Production,Prod-28,,,,,,,el sol de día,Grammatical alternative,Subjunctive,,,salir,334324,Irregular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,rebentandolo,,Clitic,Masculine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,comiendola,,Clitic,Feminine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,jueguen,,Subjunctive,,,hacer,2726954,Irregular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,,,,contando,Omission,Clitic,Masculine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a su hija,,DOM,Feminine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,1,,,,se la están sacando,,Clitic,Feminine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,que abra la puerta,,Subjunctive,,,abrir,143932,Regular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,bañándolo,,Clitic,Masculine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,escuchándola,,Clitic,Feminine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,agarrándolos,,Clitic,Masculine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,comiéndolas,,Clitic,Feminine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman pollo,,Subjunctive,,,comer,213756,Regular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,cocinándolo,,Clitic,Masculine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,abriéndola y cerrándola,,Clitic,Feminine,Singular,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,pongan la chaqueta,,Subjunctive,,,poner,514285,Irregular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,1,,,,tocándolos,,Clitic,Masculine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a la niña y la otra niña,,DOM,Feminine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,poniéndoselas,,Clitic,Feminine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,lo miren,,Subjunctive,,,ver,1611795,Irregular
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,ve a las dos niñas,,DOM,Feminine,Plural,,,
+C08,C,C,Chile,2,7,95,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,esté soleado,,Subjunctive,,,salir,334324,Irregular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,que dibujen,,Subjunctive,,,escribir,265684,Regular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,explotándolo ,,Clitic,Masculine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,comiéndola,,Clitic,Feminine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,que entrenen,,Subjunctive,,,hacer,2726954,Irregular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,1,1,,,,contándolos,,Clitic,Masculine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,1,,,,colocándoselas,,Clitic,Feminine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,que la abran,,Subjunctive,,,abrir,143932,Regular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,bañándolo,,Clitic,Masculine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,al dueño,,DOM,Masculine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,escuchándola,,Clitic,Feminine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,que salgan,,Subjunctive,,,ir,603647,Irregular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,dejándolos arriba,,Clitic,Masculine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,comiéndoselos,,Clitic,Feminine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,que coman la comida,,Subjunctive,,,comer,213756,Regular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,cocinándolo,,Clitic,Masculine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la persona,,DOM,Feminine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,cerrándola,,Clitic,Feminine,Singular,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se lo coloquen,,Subjunctive,,,poner,514285,Irregular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,0,,,,tocándolo,,Clitic,Masculine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a los dueños,,DOM,Feminine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,colocándoselas,,Clitic,Feminine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,observen,,Subjunctive,,,ver,1611795,Irregular
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C09,C,C,Chile,1,7,88,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,haya sol ,,Subjunctive,,,salir,334324,Irregular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,lo están rebentando,,Clitic,Masculine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-05,1,,,,,,la están cortando,,Clitic,Feminine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,hagan ejercicio,,Subjunctive,,,hacer,2726954,Irregular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-07,0,,,,,,están contando,Omission,Clitic,Masculine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a su nieta,,DOM,Feminine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,se la están sacando,,Clitic,Feminine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,lo están bañando,,Clitic,Masculine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,a su dueño,,DOM,Masculine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,la están escuchando,,Clitic,Feminine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,los están acomodando,,Clitic,Masculine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,las están comiendo,,Clitic,Feminine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman,,Subjunctive,,,comer,213756,Regular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,lo están cocinando,,Clitic,Masculine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,la están cerrando,,Clitic,Feminine,Singular,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se pongan la chaqueta,,Subjunctive,,,poner,514285,Irregular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,1,,,,los están tocando,,Clitic,Masculine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,0,,,,se la están poniendo,,Clitic,Feminine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean la tele,,Subjunctive,,,ver,1611795,Irregular
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C10,C,C,Chile,7,13,157,,,,,,Spanish,,Spanish,,,,Production,Prod-28,,,,,,,salga el sol ,,Subjunctive,,,salir,334324,Irregular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,rebentarlo,,Clitic,Masculine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,partiéndola y comiéndola,,Clitic,Feminine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,hagan ejercicio,,Subjunctive,,,hacer,2726954,Irregular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,1,1,,,,contándolos,,Clitic,Masculine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,quitándosela,num,Clitic,Feminine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,la abran,,Subjunctive,,,abrir,143932,Regular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,lavándolo,,Clitic,Masculine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,escuchándola,,Clitic,Feminine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,colocarlos en la mesa,,Clitic,Masculine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,al bebé,,DOM,Masculine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,comiéndolas,,Clitic,Feminine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman,,Subjunctive,,,comer,213756,Regular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,friéndolo,,Clitic,Masculine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la mujer,,DOM,Feminine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,cerrándola,,Clitic,Feminine,Singular,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se las pongan,,Subjunctive,,,poner,514285,Irregular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,1,,,,usándolos,,Clitic,Masculine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las dos niñas,,DOM,Feminine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,se las ponen,,Clitic,Feminine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-26,,,,1,1,,vean la tele,DP,Subjunctive,,,ver,1611795,Irregular
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-27,0,,,,,,las niñas,Omission,DOM,Feminine,Plural,,,
+C11,C,C,Chile,5,10,131,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,haya sol ,,Subjunctive,,,salir,334324,Irregular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,lo están rebentando,,Clitic,Masculine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,se la están comiendo,,Clitic,Feminine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,jueguen,,Subjunctive,,,hacer,2726954,Irregular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,,,,contando,Omission,Clitic,Masculine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a su nieta,,DOM,Feminine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,se la están colocando,num,Clitic,Feminine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,la abran,,Subjunctive,,,abrir,143932,Regular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,lo están bañando,,Clitic,Masculine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,a su dueño,,DOM,Masculine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,la están escuchando,,Clitic,Feminine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,se vayan,,Subjunctive,,,ir,603647,Irregular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,los dejan sobre la mesa,,Clitic,Masculine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,se lah están comiendo,,Clitic,Feminine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,tomen la sopa,,Subjunctive,,,comer,213756,Regular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,lo están cocinando,,Clitic,Masculine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,la abrieron,,Clitic,Feminine,Singular,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se la saquen,,Subjunctive,,,poner,514285,Irregular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,1,,,,loh están tocando,,Clitic,Masculine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,0,,,,se la están colocando,num,Clitic,Feminine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,lo vean,,Subjunctive,,,ver,1611795,Irregular
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a los niños,,DOM,Feminine,Plural,,,
+C12,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,salga el sol,,Subjunctive,,,salir,334324,Irregular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-02,0,,,,,,colorear,Infinitive,Subjunctive,,,escribir,265684,Regular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,pinchándolo,,Clitic,Masculine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,partiéndola,,Clitic,Feminine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,jueguen,,Subjunctive,,,hacer,2726954,Irregular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,1,1,,,,contándolos,,Clitic,Masculine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-09,1,,,,,,colocándoselas,,Clitic,Feminine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,la abran,,Subjunctive,,,abrir,143932,Regular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,bañándolo,,Clitic,Masculine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-12,0,,,,,,el niño,DP,DOM,Masculine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,escuchándola,,Clitic,Feminine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,entren,,Subjunctive,,,ir,603647,Irregular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,viéndolos y tomándolos,,Clitic,Masculine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,comiéndoselas,,Clitic,Feminine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,lo lleve,,Subjunctive,,,comer,213756,Regular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,cocinándolo,,Clitic,Masculine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,cerrándola,,Clitic,Feminine,Singular,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se la pongan,,Subjunctive,,,poner,514285,Irregular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,1,,,,tocándolos,,Clitic,Masculine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,se las pongan,,Clitic,Feminine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,sigan pintado,,Subjunctive,,,ver,1611795,Irregular
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a las hijas,,DOM,Feminine,Plural,,,
+C13,C,C,Chile,Kinder,6,74,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,salga el sol,,Subjunctive,,,salir,334324,Irregular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-02,,,,,,,sus tareas,Possessive,Subjunctive,,,escribir,265684,Regular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,lo rebentaron,,Clitic,Masculine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,a su hijo,,DOM,Masculine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,lo están cortando para comerla,"grammar of the first clitic wrong, second good",Clitic,Feminine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-06,,,,,,,ejercita sus hijos,Indicative - grammatical alternative?,Subjunctive,,,hacer,2726954,Irregular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,,,,contando el 1 al 11,Grammatical alternative,Clitic,Masculine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a su hija,,DOM,Feminine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,se la saca,,Clitic,Feminine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,abra la puerta,,Subjunctive,,,abrir,143932,Regular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-11,0,,,,,,bañando,Omission,Clitic,Masculine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,la están cantando,,Clitic,Feminine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,vaya a la sala,,Subjunctive,,,ir,603647,Irregular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,0,,,,lo están dejando en la mesa,num,Clitic,Masculine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-16,0,,,,,,el niño,Omission,DOM,Masculine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,0,,,,la están comiendo,num,Clitic,Feminine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-18,0,,,,,,cocinar,infinitive,Subjunctive,,,comer,213756,Regular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,lo están cocinando,,Clitic,Masculine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la una niña,,DOM,Feminine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,lo abren y la cierran,gender in the first clitic,Clitic,Feminine,Singular,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,la coloquen en su lugar,,Subjunctive,,,poner,514285,Irregular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,0,,,,lo dejan en su lugar,num,Clitic,Masculine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a una niña y una mamá,,DOM,Feminine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,0,,,,se la colocan,num,Clitic,Feminine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vea la tele,,Subjunctive,,,ver,1611795,Irregular
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-27,0,,,,,,una niñas,Omission,DOM,Feminine,Plural,,,
+C14,C,C,Chile,Kinder,6,72,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,esté soleado,,Subjunctive,,,salir,334324,Irregular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,lo rebientan,,Clitic,Masculine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,se la comen,,Clitic,Feminine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,se ejerciten,,Subjunctive,,,hacer,2726954,Irregular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,,,,contar,Omission,Clitic,Masculine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,1,,,,se las sacan,,Clitic,Feminine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,lo bañan,,Clitic,Masculine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,1,1,,,,la escuchan,,Clitic,Feminine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,1,,,,los apilan,,Clitic,Masculine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,al hijo,,DOM,Masculine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,se las comen,,Clitic,Feminine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman la comida,,Subjunctive,,,comer,213756,Regular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,1,1,,,,lo cocinan,,Clitic,Masculine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,la cierra,,Clitic,Feminine,Singular,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,las pongan,,Subjunctive,,,poner,514285,Irregular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-23,1,,,,,,tocan música,Omission,Clitic,Masculine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,se las ponen,,Clitic,Feminine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean tele,,Subjunctive,,,ver,1611795,Irregular
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C15,C,C,Chile,5,11,136,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,haya sol,,Subjunctive,,,salir,334324,Irregular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-01,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriba,,Subjunctive,,,escribir,265684,Regular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,1,1,,,,los pinchan,,Clitic,Masculine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-05,,1,1,,,,se la están comiendo,,Clitic,Feminine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,sean fuertes,,Subjunctive,,,hacer,2726954,Irregular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,1,1,,,,están contándolos,,Clitic,Masculine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,1,0,,,,se la ponen,num,Clitic,Feminine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,que abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,1,1,,,,lo están bañando,,Clitic,Masculine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-12,0,,,,,,el niño ,Omission,DOM,Masculine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,1,1,,están escuchando la música,DP,Clitic,Feminine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,1,0,,,,lo taman,Number,Clitic,Masculine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-16,0,,,,,,un niño ,Omission,DOM,Masculine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,1,1,,,,se las comen,,Clitic,Feminine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman sopa,,Subjunctive,,,comer,213756,Regular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,,,,,,están cocinando,Omission,Clitic,Masculine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-20,0,,,,,,la niña,Omission,DOM,Feminine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,1,1,,,,la abren y la cierran,,Clitic,Feminine,Singular,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se pongan la chaqueta,,Subjunctive,,,poner,514285,Irregular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,1,0,,,,lo están tocando,num,Clitic,Masculine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,1,,,,se las ponen,,Clitic,Feminine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean,,Subjunctive,,,ver,1611795,Irregular
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,a las niñas,,DOM,Feminine,Plural,,,
+C16,C,C,Chile,2,7,90,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,haya sol,,Subjunctive,,,salir,334324,Irregular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-01,,,,,,,el niño,,DOM,Masculine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-02,1,,,,,,escriban,,Subjunctive,,,escribir,265684,Regular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-03,,,,1,1,,rebentando los globos,DP,Clitic,Masculine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-04,1,,,,,,al niño,,DOM,Masculine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-05,0,,,,,,comiendo pizza,noun,Clitic,Feminine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-06,1,,,,,,hagan ejercicio,,Subjunctive,,,hacer,2726954,Irregular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-07,,,,,,,contando números,noun,Clitic,Masculine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-08,1,,,,,,a la niña,,DOM,Feminine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-09,,,,1,1,,se están sacando las chaquetas,DP,Clitic,Feminine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-10,1,,,,,,abran la puerta,,Subjunctive,,,abrir,143932,Regular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-11,,,,1,1,,bañando al perro,DP,Clitic,Masculine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-12,1,,,,,,mirando al niño,,DOM,Masculine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-13,,,,,,,cantan,Gramamtical alternative,Clitic,Feminine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-14,1,,,,,,salgan,,Subjunctive,,,ir,603647,Irregular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-15,,,,1,1,,apilando los libros,DP,Clitic,Masculine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-16,1,,,,,,mirando al niño,,DOM,Masculine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-17,,,,1,1,,comiendo las galletas,DP,Clitic,Feminine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-18,1,,,,,,coman la comida,,Subjunctive,,,comer,213756,Regular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-19,,,,1,1,,cocinando el pescado,DP,Clitic,Masculine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-20,1,,,,,,mirando a la niña,,DOM,Feminine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-21,,,,1,1,,cierran la puerta,DP,Clitic,Feminine,Singular,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-22,1,,,,,,se pongan la chaqueta,,Subjunctive,,,poner,514285,Irregular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-23,,,,1,1,,tocan los instrumentos,DP,Clitic,Masculine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-24,1,,,,,,ve a las niñas,,DOM,Feminine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-25,,1,0,,,,se la colocan,,Clitic,Feminine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-26,1,,,,,,vean la televisión,,Subjunctive,,,ver,1611795,Irregular
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-27,1,,,,,,ve a las niñas,,DOM,Feminine,Plural,,,
+C17,C,C,Chile,5,11,135,,,,,,Spanish,,Spanish,,,,Production,Prod-28,1,,,,,,esté soleado,,Subjunctive,,,salir,334324,Irregular
