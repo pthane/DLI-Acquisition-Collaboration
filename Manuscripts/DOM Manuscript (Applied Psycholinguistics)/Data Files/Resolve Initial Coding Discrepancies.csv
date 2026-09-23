@@ -1,0 +1,492 @@
+Part_ID,Testing_Year,Item,Response_produced,Accuracy,Accuracy_DOM_coder_2,Response_Type,Coding_Status,Coder,Notes
+H01,2023,Prod-01,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H01,2023,Prod-04,oh la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,oh as exclamation
+H01,2023,Prod-08,el perro y la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,uh as hesitation
+H01,2023,Prod-12,uhh su niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,He says uhh expressing hesitation (but not 'a')
+H01,2023,Prod-16,la mamá ve el bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Some uhh hesitation sound
+H01,2023,Prod-20,ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H01,2023,Prod-24,el perro ver los niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H01,2023,Prod-27,la mamá ver los niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H02,2023,Prod-01,puede ver nosotros porque está mirando la frente,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Participant gives a long explanation first. I coded the second answer after the researcher asks again.
+H02,2023,Prod-04,el niño y también puede ver la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Participant gives a long explanation first
+H02,2023,Prod-16,la mamá ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H02,2023,Prod-24,el perro puede ver los niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H02,2023,Prod-27,la mamá puede ver los niños,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H03,2023,Prod-01,la niña y el mujer... la mujer,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H03,2023,Prod-04,eh el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,eh as hesitation
+H03,2023,Prod-08,uhh el perro y la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,uhh as hesitation
+H03,2023,Prod-12,el niño feliz,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H03,2023,Prod-16,el bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H03,2023,Prod-20,"la niña, uhmm",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H03,2023,Prod-24,los dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H03,2023,Prod-27,las dos niñas con el teléfono,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-01,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-04,su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-08,un hijo o uno de sus hijos hijos,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-12,un hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-16,su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-20,un hijo... una hija,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-24,dos hijas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H04,2023,Prod-27,los hijas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H05,2023,Prod-04,uhh/a su hijo -  Jen: no DOM su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,Unclear whether the participant said uh or 'a'
+H05,2023,Prod-08,uhh/a su sobrina... sobrina y un perro - Jen: no DOM,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,Unclear whether the participant said uh or 'a'
+H05,2023,Prod-20,uh/a un niña que tiene miedo - Jen: no DOM,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Researcher asks: ¿qué ve... instead of a quién? / Unclear whether the participant said uh or 'a'
+H05,2023,Prod-24,uh/a dos niñas - Jen: no DOM,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,Unclear whether the participant said uh or 'a'
+H05,2023,Prod-27,uhh dos niñas - Jen: cannot tell,NA,NA,Unintelligible/cannot tell,Consensus - do not score,Jorge,Unclear whether the participant said uh or 'a'
+H07,2023,Prod-08,uh ve la niña jugando,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Reseaercher asks: ¿qué ve...? Instead of 'a quién'
+H08,2023,Prod-04,la mamá ve su niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H08,2023,Prod-08,la abuela ve... su ... nieta,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Researcher helps the participant with the word 'nieta'
+H08,2023,Prod-12,el perro ve su niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H08,2023,Prod-16,la mamá ve su bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H08,2023,Prod-20,el monstruo ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,There's like a mini pause after the verb
+H08,2023,Prod-24,el perro ve las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H09,2023,Prod-08,el el niña está... la abuela está empujando el niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H09,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H09,2023,Prod-16,el bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H09,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H09,2023,Prod-24,los niños,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H09,2023,Prod-27,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H12,2023,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H12,2023,Prod-04,la chica,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H12,2023,Prod-08,la chica del baño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H12,2023,Prod-16,la bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H12,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H12,2023,Prod-24,los dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H12,2023,Prod-27,los dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H13,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H19,2023,Prod-01,uhm el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,Researcher repeats: el niño but I believe to hear al niño
+H19,2023,Prod-04,la mamá es con el niño y en escuela,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H19,2023,Prod-08,la abuela es pushing el niña en el parque,0,0,Codeswitching with English verb,Consensus - scored,Jorge,"Participant does not respond to the questions, but to what they are doing. I think she says 'al' for the verb empujar"
+H19,2023,Prod-16,la mamá limpio el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H19,2023,Prod-20,el monstruo es atacado la niña,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H19,2023,Prod-24,"en el imagen uno, el perro es buen pero en el segundo foto el perro es atacado los niños... las niñas",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H19,2023,Prod-27,la mamá es calling el niñas con un teléfono,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H21,2023,Prod-01,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H21,2023,Prod-04,"el niño, el mamá le da un beso al niño",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,DOM present but with different verb and beso as direct object
+H21,2023,Prod-12,el niño... el niño está jugando con el perro,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Participant uses a verb but not target verb
+H21,2023,Prod-16,su niño cuando... le da un baño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Not target verb
+H21,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H21,2023,Prod-27,la los niños,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,I think the participant says la los niños
+H22,2023,Prod-01,el papá ve un niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H22,2023,Prod-04,la mamá ve un niño y una niña corriendo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H22,2023,Prod-08,la abuela ve un... ni... la niña y el perro,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H22,2023,Prod-12,el pero ve... ve el niño jugando con él,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H22,2023,Prod-16,la mamá ve el... el bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H22,2023,Prod-20,el monstruo ve el uhm la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H22,2023,Prod-24,el perro ve los niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H22,2023,Prod-27,mamá uhmm las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H23,2023,Prod-01,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H23,2023,Prod-04,la mamá ve su hijo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H23,2023,Prod-20,el monstruo ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H23,2023,Prod-24,el perro ve las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H23,2023,Prod-27,la mamá ve las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H25,2023,Prod-01,"la niño, el niño",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H25,2023,Prod-04,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H25,2023,Prod-08,a/uh el perro... el niña...  then it is la niña // Jen uhh el perro - a niña - cannot tell,NA,NA,Unintelligible/cannot tell,Consensus - do not score,Jorge,Participant comments about being confused and then adds the second response. Unclear if participant says uh or a el perro
+H25,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H25,2023,Prod-16,the niño... el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H25,2023,Prod-20,"el niña, la niña",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H25,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H25,2023,Prod-27,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H28,2023,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,unaudible
+H28,2023,Prod-04,uhm el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H28,2023,Prod-08,la niña y el perro,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H28,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H28,2023,Prod-16,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H28,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H28,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H28,2023,Prod-27,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H29,2023,Prod-01,el papá ve un niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H29,2023,Prod-04,la mamá ve uhm su niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H29,2023,Prod-08,la abuela ve una niña en el parque,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H29,2023,Prod-12,el perro ve un niño/a,0,0,"Full DP, no DOM",Consensus - scored,Jorge,unclear if niño or niña
+H29,2023,Prod-16,la mamá ve su niño o el bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H29,2023,Prod-24,el perro ve unas niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H30,2023,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H30,2023,Prod-04,uhh el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H30,2023,Prod-08,"el niña y el perro... sí, el perro",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H30,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H30,2023,Prod-16,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H30,2023,Prod-20,ve el niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H31,2023,Prod-01,el papá tiene... ve un uhmm camisa verde... vista ve su mamá,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H31,2023,Prod-04,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H31,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H31,2023,Prod-16,el bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H31,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H31,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H31,2023,Prod-27,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H32,2023,Prod-01,uhm un niño que es más pequeño de él,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,uhm or a un niño?
+H32,2023,Prod-20,ve un niña que es muy uhm (i don't know how to say scared) que es muy asustada,0,0,"Full DP, no DOM",Consensus - scored,Jorge,help from the researcher for the word asustada
+H32,2023,Prod-24,el perro ve las niñas y se hace que es muy sucio se hace su blanca ropa hacer sucio,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H32,2023,Prod-27,la mamá se ve los niños que son en el teléfono,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H33,2023,Prod-01,el niño se ve el papá,0,0,"Full DP, no DOM",Consensus - scored,Jorge,reflexive verb for ver
+H33,2023,Prod-04,el niño ve la mamá,0,0,"Full DP, no DOM",Consensus - scored,Jorge,I don't think the participant understood the question
+H33,2023,Prod-08,la abuela ve la perro y la niña en el uh su... (unaudible),0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H33,2023,Prod-12,el perro ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H33,2023,Prod-20,la niña... el monstruo ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H33,2023,Prod-27,la mamá les ve los niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H34,2023,Prod-01,ve un niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H34,2023,Prod-04,la mamá da un beso a un niño... o ve él este niño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Participant used it in the first response that did not answer the question.
+H34,2023,Prod-08,uh la abuela uh ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H34,2023,Prod-12,uh ve su uh un niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H34,2023,Prod-20,el monstruo ve el niñas sorprendidos,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H34,2023,Prod-24,el perro ve los... I mean las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H34,2023,Prod-27,las niñas ve la mamá,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H35,2023,Prod-01,uhm un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H35,2023,Prod-04,uhm el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H35,2023,Prod-08,uhm el perro y el niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H35,2023,Prod-12,eh el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H35,2023,Prod-16,la ma la bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H35,2023,Prod-20,el monstruo ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H35,2023,Prod-24,uhm los niños ven la perro,0,0,Word order,Consensus - scored,Jorge,NA
+H35,2023,Prod-27,uhm los niños,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H36,2023,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H36,2023,Prod-04,el niño de ella,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H36,2023,Prod-08,el perro y el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H36,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H36,2023,Prod-16,"la niña, oh niño y el rubber ducky",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H36,2023,Prod-20,el niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H37,2023,Prod-01,uhm el persona en la izquierda porque miran como más como miran como tiene más años,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Participant doesn't use the target verb but provides a response
+H37,2023,Prod-04,uhm mirar? el niño una...,0,0,"Full DP, no DOM",Consensus - scored,Jorge,maybe the participant mumbled mirar... check
+H37,2023,Prod-12,uhm el niño.... uhm el perro ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H38,2023,Prod-01,su niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H38,2023,Prod-04,su niña en la escuela,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H38,2023,Prod-12,eh un niño y estás... que estás lamiendo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,check verbs
+H38,2023,Prod-16,estás limpiando su gran? bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H38,2023,Prod-20,el niño y niña muy aterrorizados,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H38,2023,Prod-24,dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H40,2023,Prod-04,niño está,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H40,2023,Prod-08,la niña allí jugando,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H40,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H40,2023,Prod-16,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H40,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H40,2023,Prod-24,los dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H40,2023,Prod-27,los dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H41,2023,Prod-01,uhm en la izquierda,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Participant didn't answer the question but he seemed proficient
+H41,2023,Prod-04,con su niña,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H41,2023,Prod-08,con su niña y el perro,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H41,2023,Prod-16,uhm su bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H41,2023,Prod-20,un niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H41,2023,Prod-24,unos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H41,2023,Prod-27,uhm unos niñas pequeñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-01,el papá puede ver el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-04,se ver la mamá se ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-08,la abuela puede ver la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-12,el perro puede ver el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-16,la mamá puede ver el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-20,el monstruo puede ver la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-24,el perro puede ver las dos hermanas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H42,2023,Prod-27,la mamá puede ver las dos niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H43,2023,Prod-04,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H43,2023,Prod-12,"el perro ve la niño, probablemente es su dueño",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H43,2023,Prod-16,uhm la mamá baña la bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,doesn't use the target verb
+H43,2023,Prod-20,una niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H44,2023,Prod-01,la niña niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H44,2023,Prod-04,mamá ver la niño y un beso,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H44,2023,Prod-12,el perro lamerse y niño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H44,2023,Prod-16,uh a la niña // Jen: cannot tell,NA,NA,Unintelligible/cannot tell,Consensus - do not score,Jorge,chech uh
+H44,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H44,2023,Prod-24,dos niños,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H44,2023,Prod-27,dos niños,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H45,2023,Prod-01,él,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H45,2023,Prod-04,el hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H45,2023,Prod-08,un perro y su uhhm el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H45,2023,Prod-12,uh/a? su owner... dueño // Jen: uhhh su owner,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,Participant gets helped with the word 'dueño'. Check DOM
+H45,2023,Prod-16,su su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H45,2023,Prod-20,un niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H45,2023,Prod-24,los dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H45,2023,Prod-27,los niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H46,2023,Prod-01,la papá es uhm es la persona que habla con el niño y eso tiene un perro uhmm... (unaudible),NA,NA,Grammatical alternative,Consensus - do not score,Jorge,participant didn't respond to the question but used verbs
+H46,2023,Prod-04,la mamá que es su uhm niño en la cheek,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H46,2023,Prod-08,la abuela pushes su niña ... uhm su rendada? on la swing,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H46,2023,Prod-12,la perro es licking el niño,0,0,Codeswitching with English verb,Consensus - scored,Jorge,verb es?
+H46,2023,Prod-16,la mamá uh es washing su niño,0,0,Codeswitching with English verb,Consensus - scored,Jorge,code Codeswitching with English verbs?
+H46,2023,Prod-20,el monstruo uhm ver la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H46,2023,Prod-24,la perro es getting dirty y makes la uhm clothes de los niños dirty con uth? mud con mud,0,0,Codeswitching with English verb,Consensus - scored,Jorge,English
+H46,2023,Prod-27,la mamá es en la teléfono con sus niñas,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,es?
+H49,2023,Prod-01,el papá ven la niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H49,2023,Prod-04,la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H49,2023,Prod-08,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H49,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H49,2023,Prod-16,la bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H49,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H49,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H49,2023,Prod-27,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H50,2023,Prod-01,"el papá es más más grande que de el de el hermano o el hermana, el padre tiene una más darker skin color de el hermano... el padre puede ver el niño",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Researcher has to repeat the question to get target response
+H50,2023,Prod-04,el mamá es kissing el niño adiós para ir a un lugar,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H50,2023,Prod-08,la abuela es pushando el niña para jugar en el swing,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H50,2023,Prod-12,el perro es jugando con el niño y es jugando y kissing el niño,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H50,2023,Prod-16,el mamá es lavando el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H50,2023,Prod-20,el monstruo es scaring el niña,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H50,2023,Prod-24,"el perro es saltando y es muy muy sucio, dos niñas, una niña es más grande de el otra niña",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Researcher has to repeat the question to get target response
+H50,2023,Prod-27,"la mamá es es el niña pranking el mamá, el mamá... la mamá picking up el teléfono... la mamá ve los dos niñas",0,0,Codeswitching with English verb,Consensus - scored,Jorge,Researcher has to repeat the question to get target response
+H51,2023,Prod-01,y el niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H51,2023,Prod-04,el mamá que es el niño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H51,2023,Prod-08,el abuela pushed el niña en el swing,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H51,2023,Prod-12,el perro licked el niño,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H51,2023,Prod-16,el mamá watched el baby el babé,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H51,2023,Prod-24,el perro play en el mud,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H51,2023,Prod-27,la mamá call el niñas,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H52,2023,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H52,2023,Prod-04,"el tú son, hijo, tu hijo",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H52,2023,Prod-08,"los tu tu hijo, no tu tu niña",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H52,2023,Prod-12,tu un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H52,2023,Prod-16,tu bebé su bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H52,2023,Prod-20,el niña la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H52,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H52,2023,Prod-27,tus hijos,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H54,2023,Prod-04,la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H54,2023,Prod-08,la abuela está viendo la niña y la perro,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H54,2023,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H54,2023,Prod-16,la bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H54,2023,Prod-20,la niña ve la monstruo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H54,2023,Prod-27,las dos niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H56,2023,Prod-01,el niño / el papá vel el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Researcher asked 3 times to get a full sentence response
+H56,2023,Prod-04,la mamá vel el pequeño niño... el niño pequeño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H56,2023,Prod-08,la abuela ver el perro y el chica,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H56,2023,Prod-12,el perro vel el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H56,2023,Prod-16,la mamá vel el chico,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H56,2023,Prod-20,el monstruo vel el niño el niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H56,2023,Prod-24,el perro vel el niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H56,2023,Prod-27,la mamá ver el chicas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H57,2023,Prod-01,"el papá es más grande de el niño o niña, que tiene el pelo diferente, el papá es el uhmm how do you say brown? marrón, I mean marrón y el otro es blanco, no es el mismo, diferentes. El padre ve que el niño o niña es no es su bebé.",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Researcher asked several times but participant didn't directly answer and provided other explanations.
+H57,2023,Prod-08,"la abuela es jugando con el niña en el parque y hay un perro en el piso, la abuela está ve el perro y el niña que es muy feliz porque está jugando mucho, la abuela le gusta el niña",0,0,"Full DP, no DOM",Consensus - scored,Jorge,Researcher asked several times
+H57,2023,Prod-12,"el niño que está muy feliz, está emocionada",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H57,2023,Prod-16,"está jugando con el niño, está ayudando el niño y hay muchas burbujas en el pelo, está muy feliz porque el niño tenía mucha diversión y mamá le gusta el diversión del niño, emocionada, el bebé que está jugando con el pote?",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H57,2023,Prod-20,"hay un monstruo comiendo niña, quiere comer el niña, el niña es ahhh (screams), y el monstruo es muy es muy fuerte",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H57,2023,Prod-24,"el perro está veo el los niñas emocionadas y quiere jugar, pero las niñas no está felices",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H57,2023,Prod-27,"está jugando con el teléfono y el niñas, la mamá es es uhm está bajando con los niñas para aprender sobre como se usa un teléfono, la mamá dice que tú necesita aprender como se usa el teléfono y la niña dice yo sé cómo se usa el teléfono, yo veo mi papá y mi mamá jugando con el teléfonos",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H59,2023,Prod-01,la mamá ve la niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Receives help from researcher to answer question. Participant provides other responses first not answering the question.
+H59,2023,Prod-04,la mamá que es la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H59,2023,Prod-12,el perro es licking el niño,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H59,2023,Prod-16,el mamá es washing el niño,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H59,2023,Prod-24,el el perro touched la niña,0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H59,2023,Prod-27,"la mamá es es calling el principal, es calling el principal, el principal es un niña",0,0,Codeswitching with English verb,Consensus - scored,Jorge,NA
+H62,2023,Prod-08,"la abuela está jugando con el niña y el perro está feliz porque su tail está waggling. La abuela tengo un vestido azul y un bolso y tengo zapatos un poquito fancy y es porque pone pendientes,cuando  por un fancy un día importante. tengo un vestido baggy, y los zapatos. la abuela está pushing la niña en la swing.",0,0,Codeswitching with English verb,Consensus - scored,Jorge,Long explanation after researcher asks three times.
+H62,2023,Prod-12,"el perro está feliz con con la niño y el pero está feliz porque la perro no está haciendo un cosa mal, están licking el niño",0,0,Codeswitching with English verb,Consensus - scored,Jorge,Long explanation after researcher asks in different ways.
+H62,2023,Prod-16,"la mamá está limpiando el su hijo en la baño, están poniendo soap",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H62,2023,Prod-20,"el monstruo no es un bien monstruo, están atacando la niña, y la niña está preguntar por ayuda",0,0,"Full DP, no DOM",Consensus - scored,Jorge,Long explanation after researcher asks in different ways.
+H62,2023,Prod-24,"las niñas tengo vestidos hermosas y están muy fancy, su pelo,  y ella tiene balls, pero el perro está, no está limpio, están no limpiando, están messing los vestidos de la niñas cuando está blanco, esta no muy bien. la perro está viendo los las niñas.",0,0,"Full DP, no DOM",Consensus - scored,Jorge,Long explanation after researcher asks in different ways.
+H63,2023,Prod-04,su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H63,2023,Prod-08,"uhm el perro porque la niña está, porque la niña tiene sus ojos cerrados",0,0,Word order,Consensus - scored,Jorge,more information added after the DP
+H63,2023,Prod-12,"uhm el hijo, uhm yo, yo vio el perro",0,0,"Full DP, no DOM",Consensus - scored,Jorge,more information added after the DP
+H63,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H63,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H63,2023,Prod-27,sus hijas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H69,2023,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H69,2023,Prod-08,"el perro, ahí la niña",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H69,2023,Prod-12,la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H69,2023,Prod-16,la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H69,2023,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H69,2023,Prod-27,mmm los niñas las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H70,2023,Prod-01,el papá ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H70,2023,Prod-04,la mamá ve el su hijo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H70,2023,Prod-08,la abuela ve su... la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H70,2023,Prod-12,el perro ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H70,2023,Prod-16,la mamá ve su hijo el bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H70,2023,Prod-20,el monstruo ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H70,2023,Prod-24,las niñas ven el perro,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Participant answered from the perspective of the niñas
+H70,2023,Prod-27,la mamá ve las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H72,2023,Prod-01,el papá ve una niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Two videos with the same ID. This one is the correct H72 also recorded in 2026
+H72,2023,Prod-20,el monstruo es esta persona,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Participant doesn't answer the question.
+H72,2023,Prod-27,la mamá es esta persona,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,Participant doesn't answer the question.
+H74,2023,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H74,2023,Prod-04,la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H74,2023,Prod-08,la niño la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H74,2023,Prod-12,la niño el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H74,2023,Prod-16,la la bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H74,2023,Prod-20,la niña la niña el niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H74,2023,Prod-24,los niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H74,2023,Prod-27,los niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H75,2023,Prod-12,su niño su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H75,2023,Prod-16,su? unaudible,NA,NA,Unintelligible/cannot tell,Consensus - do not score,Jorge,too much noise
+H75,2023,Prod-20,la niña,NA,NA,Unintelligible/cannot tell,Consensus - do not score,Jorge,too much noise
+H77,2023,Prod-01,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H77,2023,Prod-04,el niño de ella,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H77,2023,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H78,2023,Prod-04,"uhm el niño, yo creo ves eh una escuela... (unaudible)",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,Participant added more information
+H78,2023,Prod-12,uhm el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H78,2023,Prod-20,uhm un niña que está muy asustada,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H78,2023,Prod-24,los niñas están tienen mucho lodo,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H78,2023,Prod-27,"niñas y una es una amiga, basically está llamando la mamá a la otra niña",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H79,2026,Prod-01,niño,0,0,"noun, no verb, no DOM",Consensus - scored,Stephanie,NA
+H79,2026,Prod-04,niño,0,0,"noun, no verb, no DOM",Consensus - scored,Stephanie,NA
+H79,2026,Prod-08,niña,0,0,"noun, no verb, no DOM",Consensus - scored,Stephanie,NA
+H79,2026,Prod-12,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H79,2026,Prod-16,mamá baña un niño,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H79,2026,Prod-20,it's like scaring un niña,0,0,Codeswitching with English verb,Consensus - scored,Stephanie,NA
+H79,2026,Prod-24,perro dirty un niña's dress,0,0,Codeswitching with English verb,Consensus - scored,Stephanie,NA
+H79,2026,Prod-27,niñas...they're facetiming,0,0,Codeswitching with English verb,Consensus - scored,Stephanie,NA
+H81,2026,Prod-08,ve un perro y una niña,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H82,2026,Prod-01,el papá ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H82,2026,Prod-04,la mamá ve su hijo,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H82,2026,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H82,2026,Prod-16,la mamá ve su bebé,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H84,2026,Prod-01,uhmm un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H84,2026,Prod-04,dice que un adiós en el niño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H84,2026,Prod-08,uhm su el niña,NA,NA,"DP, no verb, no DOM",Consensus - do not score,Jorge,NA
+H84,2026,Prod-12,they play?,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,English reponse - unitelligible
+H84,2026,Prod-16,un bath por el niño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H84,2026,Prod-20,ella es uhm scared,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H84,2026,Prod-24,el perro es uhm quiere que play pero ellos no quiere porque el perro es dirty,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H84,2026,Prod-27,la mamá es uhm call en eh niños niñas?,NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H85,2026,Prod-01,ve un niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H85,2026,Prod-04,está besando el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,used verb besar
+H85,2026,Prod-12,está jugando con el niño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H85,2026,Prod-16,están limpiando el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,used verb limpiar
+H85,2026,Prod-20,está... uhm el niña está aburrido del monstruo,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H85,2026,Prod-24,el perro quiere jugar con las niñas,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H85,2026,Prod-27,está hablando con los las niñas,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H87,2026,Prod-01,el papá ve uhm la niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H87,2026,Prod-04,"la mamá está...uhmmm uh su hermano, I mean su hijo. La mamá veo su hijo",0,0,"Full DP, no DOM",Consensus - scored,Jorge,Check veo - vea?
+H87,2026,Prod-08,la niña ve la abuela,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H87,2026,Prod-12,el perro ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H87,2026,Prod-16,la mamá ve su hijo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H87,2026,Prod-20,la niña veo el monstruo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,Check veo - vea?
+H87,2026,Prod-24,la niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H87,2026,Prod-27,las niñas ve el mamá,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H88,2026,Prod-01,el papá ve un niño,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H88,2026,Prod-12,el niño está viendo el perro,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H90,2026,Prod-01,el papá vio el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H90,2026,Prod-04,la mamá vio su hijo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H90,2026,Prod-08,"el niña, la niña y el perro",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H90,2026,Prod-12,el perro vio el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H90,2026,Prod-16,la mamá vio su bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H90,2026,Prod-20,el monstruo vio vi el niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H90,2026,Prod-24,"los niñas, las niñas vio el perro",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,check - word order and dog as DO
+H90,2026,Prod-27,la mamá ve dos los las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-01,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-04,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-08,el niña y el perro,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-16,el bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-20,el niña gritando,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-24,los niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H93,2026,Prod-27,el mamá se llamar,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H94,2026,Prod-01,uhm el chico,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H94,2026,Prod-04,la mamá ven la chico a la escuela,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H94,2026,Prod-08,la abuela ve la chica en la parque,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H94,2026,Prod-12,la perro ven el chico,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H94,2026,Prod-16,la mamá ven ve el chico,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H94,2026,Prod-24,el perro ven el chicas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H94,2026,Prod-27,"la mamá ve ve los chicos, las chicas",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H95,2026,Prod-01,la dereche? el el persona más grande,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H95,2026,Prod-04,dice adiós ahí,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H95,2026,Prod-08,jugan en el parque con su perro,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H95,2026,Prod-12,jugar con el niño,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H95,2026,Prod-24,a jugar con los niñas,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H95,2026,Prod-27,con los niños,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H98,2026,Prod-01,"el papá es muy alto y su pienso que es su hijo, tiene es muy joven",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H99,2026,Prod-01,su hijo,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H99,2026,Prod-04,su hija,1,1,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H100,2026,Prod-01,"sí, hay un papá con niño",NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H100,2026,Prod-16,su niño está lavando,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H101,2026,Prod-12,el perro ve la niño,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H102,2026,Prod-12,uh? el niño ve el perro,0,0,Word order,Consensus - scored,Jorge,NA
+H102,2026,Prod-16,la mamá ve el niñ... el bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H102,2026,Prod-20,"un niño más grande, un mamá ve el monstruo",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H102,2026,Prod-24,"un niña, dos niñas",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H102,2026,Prod-27,"unos, dos niñas",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H103,2026,Prod-01,papá ve es un niño,NA,NA,Grammatical alternative,Consensus - do not score,Stephanie,NA
+H103,2026,Prod-04,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H103,2026,Prod-08,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H103,2026,Prod-12,niño,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H103,2026,Prod-16,el bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H103,2026,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H103,2026,Prod-24,los dos niñas...las dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H103,2026,Prod-27,las dos niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H104,2026,Prod-01,su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H104,2026,Prod-04,su hijo,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H104,2026,Prod-08,su nieta,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H104,2026,Prod-12,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H104,2026,Prod-16,ve su hijo bebé,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H104,2026,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H106,2026,Prod-01,uhmm el papá es uhh ela es,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H106,2026,Prod-04,uhh kissing el niño,NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H106,2026,Prod-08,el abuela es uh pushing el niña,NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H106,2026,Prod-12,el niño es uhh playing pues uhh el perro y el perro es ing... him?,NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H106,2026,Prod-16,el madre es uhh bathing el niño,NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H106,2026,Prod-20,"uh el monstruo es uh comer el niña,  scaring el niña",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H106,2026,Prod-24,"el perro es touching el niños y niñas y los niñas don't like it, no le gusta. El perro es putting el mano on el",NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H106,2026,Prod-27,el mamá es on es on un teléfono call,NA,NA,Codeswitching,Consensus - do not score,Jorge,NA
+H107,2026,Prod-01,yo ve una chico,0,0,"Full DP, no DOM",Consensus - scored,Jorge,He said yo ve...
+H107,2026,Prod-04,la mamá es con el chico y él es en una escuela,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H107,2026,Prod-08,"la abuela es con una chica y el chica es en una playground en el, en la uhm grandma es pushing her",NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H107,2026,Prod-12,el perro vie el chico y el chico es muy muy muy muy feliz,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H107,2026,Prod-16,el mamá ven tu chico y el chico es en un bathtub,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H107,2026,Prod-20,la monstruo ve un una chica muy scared,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H107,2026,Prod-24,la perro vier los chicas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H107,2026,Prod-27,"la mamá vien el chico, no, chicas chicas. La mamá ve el chicas",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H109,2026,Prod-01,"es muy alto y está muy feliz, uhm yo ve una un niño con el padre y también está muy feliz, el niño",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H109,2026,Prod-08,uhm ve uhmm  una niña y una perro,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H109,2026,Prod-12,uhm una niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H109,2026,Prod-16,uhm un bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H109,2026,Prod-20,una niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H109,2026,Prod-24,uhm dos niñas pero una es más grande de el otro o alto,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H109,2026,Prod-27,uhm dos niñas como usando el teléfono con ella,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-01,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-04,el niño... el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-08,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-16,el bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H110,2026,Prod-27,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H111,2026,Prod-01,la papá ve un niño,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H111,2026,Prod-08,"la abuela ve una niña, un perro, un un árbol",0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H111,2026,Prod-12,la perro ve una niño que está muy feliz,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H111,2026,Prod-16,la mamá ve un niño que está jugando,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H111,2026,Prod-20,la monstro ve una niña,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H111,2026,Prod-24,las perros ven dos niñas,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H111,2026,Prod-27,la mamá ve dos niñas,0,0,"Full DP, no DOM",Consensus - scored,Stephanie,NA
+H113,2026,Prod-01,la niña o el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H113,2026,Prod-08,la niña y el perro,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H113,2026,Prod-12,el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H113,2026,Prod-16,el bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H113,2026,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H113,2026,Prod-24,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H113,2026,Prod-27,las niñas,0,0,"DP, no verb, no DOM",Consensus - scored,Stephanie,NA
+H116,2026,Prod-04,probablemente es su hijo que de repente está yendo a la escuela,NA,NA,Grammatical alternative,Consensus - do not score,Jorge,NA
+H118,2026,Prod-01,"la papá ve un niño, creo es un niño",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H118,2026,Prod-04,la mamá vio su hijo,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H118,2026,Prod-08,la abuela ve una niña y un perro,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H118,2026,Prod-12,"el perro ve el niño, y el niño feliz",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H118,2026,Prod-16,"la mamá ve el niño, la bebé, el bebé",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H118,2026,Prod-20,"una niña, que tengo miedo",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H118,2026,Prod-24,el perro ve los dos niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H118,2026,Prod-27,"la mamá ve los dos niñas, no la mamá llamando las dos niñas",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H119,2026,Prod-01,uhmm el niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,114?? ID
+H119,2026,Prod-04,la mamá está viendo el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H119,2026,Prod-08,la abuela ve el niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-01,la papá ve la chica,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-04,la mamá ve su chico,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-08,la abuela ve una chica y un perro,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-12,el perro ve uhm un chico,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-16,la mamá ve su hijo y el hijo es un bebé,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-20,el monstruo ve la chica,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-24,el perro ve las chicas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H120,2026,Prod-27,la mamá ve las chicas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H121,2026,Prod-01,"la niño, el mamá ve la niña",0,0,"Full DP, no DOM",Consensus - scored,Jorge,H122 - check ID
+H121,2026,Prod-08,la abuela ve la niña,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H121,2026,Prod-12,la perro se ve la niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H121,2026,Prod-16,la mamá ver el niño jugando,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H121,2026,Prod-20,"le monstruo se, la monstruo scared la niña",NA,NA,Codeswitching with English verb,Consensus - do not score,Jorge,NA
+H121,2026,Prod-24,el perro les ve los niñas las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H121,2026,Prod-27,las mamá ve ver uhm los las niñas,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H122,2026,Prod-01,"uhmm ve éste, uhm el niño",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H122,2026,Prod-12,el perro ve el niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H123,2026,Prod-01,"el niño ve a su mamá, pienso... el papá ve vi uhm un niño",0,0,"Full DP, no DOM",Consensus - scored,Jorge,TBD - because DOM was present in the first answer with the mistaken question
+H124,2026,Prod-01,un niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H124,2026,Prod-08,el uhhh el grandson,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H124,2026,Prod-12,el uh older la niño,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H124,2026,Prod-16,su su bebé,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H124,2026,Prod-20,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H124,2026,Prod-24,la niña,0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H125,2026,Prod-01,"el niño, el niño ve like su papá",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H125,2026,Prod-04,la mamá ven uh ve el niño uh,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H125,2026,Prod-08,la abuela uhm ve el uhm su un like una niña y estaba en el parque jugando,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H125,2026,Prod-12,"uhm el niño, y yo piensa que el niño es el uhm dueño de el perro",0,0,"DP, no verb, no DOM",Consensus - scored,Jorge,NA
+H125,2026,Prod-16,la mamá ve su uhmm su hijo y estaba lavando uhm el pelo del niño,0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA
+H125,2026,Prod-20,uhm el niño ve el monstruo y yo pienso que el niño es asustado porque tiene su like su uhm,0,0,Word order,Consensus - scored,Jorge,Answered from the perspective of the niño
+H125,2026,Prod-24,uh las niños uh los las niñas ve el perro y el perro son uhh son like muy emocionado a ver las niñas,0,0,Word order,Consensus - scored,Jorge,Answered from the perspective of the niñas
+H125,2026,Prod-27,"uhm uhh, la mamá ve el los las niñas y piensa que es su hijo",0,0,"Full DP, no DOM",Consensus - scored,Jorge,NA

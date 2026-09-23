@@ -1,0 +1,10 @@
+Non_Target_Response_Type,n_L2L,Percentage_L2L,n_HS,Percentage_HS,n_ML,Percentage_ML
+"DP, no verb, no DOM",170,46.4,50,40,2,100
+"Full DP, no DOM",124,33.9,53,42.4,NA,NA
+Grammatical alternative,39,10.7,9,7.2,NA,NA
+Codeswitching with English verb,22,6,10,8,NA,NA
+Word order,5,1.4,NA,NA,NA,NA
+Unintelligible/cannot tell,2,0.5,3,2.4,NA,NA
+"noun, no verb, no DOM",3,0.8,NA,NA,NA,NA
+Codeswitching,1,0.3,NA,NA,NA,NA
+Total,366,100,125,100,2,100
