@@ -11,11 +11,18 @@ Production <- read_csv(here("CSV Files", "Master Files", "Production Data.csv"))
 FCT <- read_csv(here("CSV Files", "Master Files", "FCT Data.csv")) %>% 
   mutate(Task = "Selection")
 
+DOM_Score_Checking <- read_csv(here("CSV Files", "DOM Score Checking.csv")) %>% 
+  mutate(Item = paste0("Prod-", str_pad(as.integer(question_number), width = 2, pad = "0"))) %>% 
+  select(Participant_ID, Testing_Year, Item, response_type_if_no_DOM) %>% 
+  rename(Non_Target_Response_Type = response_type_if_no_DOM,
+         Part_ID = Participant_ID)
+
 
 # Merge CSV files
 Master <- rbind(Production, FCT) %>%
   mutate(Speaker_Group = case_when(Group == "L2"       ~ "L2L",
-                                   Group == "Heritage" ~ "HS"),
+                                   Group == "Heritage" ~ "HS",
+                                   Group == "Chile" ~ "ML"),
          Age_Group = case_when(Grade < 3           ~ "2nd",
                                Grade > 3 & Grade < 6 ~ "4th/5th",
                                Grade > 6           ~ "7th/8th"),
@@ -24,7 +31,8 @@ Master <- rbind(Production, FCT) %>%
                            Group == "L2"       & Grade > 6           ~ "L2L 7th/8th",
                            Group == "Heritage" & Grade < 3           ~ "HS 2nd",
                            Group == "Heritage" & Grade > 3 & Grade < 6 ~ "HS 4th/5th",
-                           Group == "Heritage" & Grade > 6           ~ "HS 7th/8th"),
+                           Group == "Heritage" & Grade > 6           ~ "HS 7th/8th",
+                           Group == "Chile" ~ "Chile"),
          Structure = case_when(Task == "Production" & Structure == "Clitic" & !is.na(Accuracy_DP_Gen) ~ "Article",
                                TRUE ~ Structure),
          Timing = case_when(Structure == "Article"     ~ "Early",
@@ -37,12 +45,15 @@ Master <- rbind(Production, FCT) %>%
                                Structure == "Subjunctive" ~ "No"),
          Contexts = ENG_Contexts + SPA_Contexts) %>%
   mutate(Study_Age = case_when(Session == 1 ~ 0,
-                               Session == 2 ~ 36),
+                               Session == 2 ~ 36,
+                               Session == "C" ~ 0),
          Months_at_Testing = case_when(Session == 1 ~ Months_at_Start,
-                                       Session == 2 ~ Months_at_Start + Study_Age),
+                                       Session == 2 ~ Months_at_Start + Study_Age,
+                                       Session == "C" ~ Months_at_Start),
          Testing_Year = case_when(Cohort == 1 & Session == 1 ~ 2023,
                                   Cohort == 1 & Session == 2 ~ 2026,
-                                  Cohort == 2 & Session == 1 ~ 2026)) %>% 
+                                  Cohort == 2 & Session == 1 ~ 2026,
+                                  Cohort == "C" & Session == "C" ~ 2026)) %>% 
   mutate(Accuracy_Combined = case_when(Task == "Selection"                               ~ Accuracy,
                                        Task == "Production" & Structure == "DOM"         ~ Accuracy,
                                        Task == "Production" & Structure == "Subjunctive" ~ Accuracy,
@@ -69,7 +80,8 @@ Clitics <- Master %>%
   write_csv(here("CSV Files", "Tidy Data", "Tidy Data Clitics.csv"))
 
 DOM <- Master %>% 
-  filter(Structure == "DOM") %>% 
+  filter(Structure == "DOM") %>%
+  left_join(DOM_Score_Checking, by = c("Part_ID", "Testing_Year", "Item")) %>% 
   write_csv(here("CSV Files", "Tidy Data", "Tidy Data DOM.csv"))
 
 Subjunctive <- Master %>% 
